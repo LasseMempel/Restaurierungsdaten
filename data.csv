@@ -2,10 +2,10 @@ notation,prefLabel,altLabel,definition,broader,note (source),scope
 B51DAF,Objektkennzeichnung,,,top,DIN EN 16095:2012-10,
 B5DD1A,Objektansprache,Objekttitel,"Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel (z.B. ""Gemälde Mona-Lisa"" oder aus Objekttyp und beschreibenden Attributen (z.B. rotfiguriger Krater) zusammensetzen.",B51DAF,,Pflicht
 F7D3DB,Kennzeichnungsnummer,,"Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.",B51DAF,DIN EN 16095:2012-10,Pflicht
-F9GB13,Datierung,,,B51DAF,,empfohlen
+F9GB13,Datierung,,zeitliche Einordnung des Objektes.,B51DAF,,empfohlen
 CD3341,Herkunft,Fundort|kulturelle Verortung|Herstellungsort,,B51DAF,DIN EN 16095: 2012-10,empfohlen
-F2A45F,Eingangsdatum,,,B51DAF,,Pflicht
-F3G8D1,Ansprechpartner*in,,,B51DAF,,optional
+F2A45F,Eingangsdatum,,"Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint. ",B51DAF,,Pflicht
+F3G8D1,Ansprechpartner*in,,"Benannte Person, die für Rückfragen in Bezug auf das Objekt und den Umgang mit diesem kontaktiert werden kann. Dies kann bei Privatbesitz der Eigentümer sein oder bei Objekten aus öffentlichen Einrichtungen z.B. der/die zuständige Kurator*in.  Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann! ",B51DAF,,optional
 G76A78,Schöpfer*in,,,B51DAF,DIN EN 16095:2012-10,optional
 GB6DF3,Objektbeziehung,,,B51DAF,,bedingte Pflicht
 ,,,,,,
@@ -29,7 +29,7 @@ BC5B57,Physischer Objektzustand,,,AC1786,,Pflicht
 AA6941,Schadensphänomene,,,AC1786,,Pflicht
 C2488A,Schadensgrad,Grad des Schadensphänomens,,AA6941,,empfohlen
 D4A13D,Schadensursache,,,AA6941,,optional
-A4G52F,Spuren früherer Konservierungs- /Restaurierunseingriffe,,,A8ABBA,,empfohlen
+A4G52F,Spuren früherer Konservierungs- /Restaurierunseingriffe,,,F52262,,empfohlen
 ,,,,,,
 B3FCA1,Untersuchung,,,top,,bedingte Pflicht
 G7F25F,Zuständige Person (Untersuchung),,,B3FCA1,,Pflicht
@@ -42,7 +42,7 @@ A15F83,Lokalisation,Untersuchungsstelle,"Angabe an welcher Stelle auf dem Objekt
 DAB4B7,Untersuchungsverfahren,Untersuchungsmethode| Untersuchungstechnik| praktische Vorgehensweise,,B3FCA1,,Pflicht
 D1CFD5,verwendetes Material (Untersuchung),,,DAB4B7,,empfohlen
 D949G6,Untersuchungsgerät,,,DAB4B7,,empfohlen
-D6A11G,Einstellungen,Metadaten| Parameter,,D949G6,,empfohlen
+D6A11G,Geräteeinstellungen (Untersuchungsgerät),Metadaten| Parameter,,D949G6,,empfohlen
 BGG5A6,Untersuchungsergebnis ,Befund,,B3FCA1,,Pflicht
 ,,,,,,
 CD5C3F,Probeentnahme,Beprobung,,top,,bedingte Pflicht
@@ -72,7 +72,7 @@ D865C3,Bezugsquelle,Hersteller,,CGC619,,optional
 C364G1,Konzentration,Mischungsverhältnis,,CGC619,,optional
 C421BF,Herstellungsdatum,,,CGC619,,optional
 F87124,Werkzeug,Gerät,,DA9CGG,,empfohlen
-FGF575,,,,,,
+,,,,,,
 B7B8B6,Sicherheit & Arbeitsschutz,,,top,,bedingte Pflicht
 FBFFF5,Gefährdungshinweise,,"Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)",B7B8B6,,Pflicht
 BGGCA4,Art der Gefährdung,,"(z. B. chemisch, mikrobiologisch, physikalisch)",B7B8B6,,bedingte Pflicht
@@ -80,7 +80,7 @@ BB78D2,Getroffene Schutzmaßnahmen,,"(z. B. PSA, Quarantänebereich)",B7B8B6,,be
 CCCC7G,Letzte Sicherheitsbewertung,,,B7B8B6,,optional
 AFD671,Datum der Sicherheitsbewertung,,,CCCC7G,,empfohlen
 ADD53A,Einschätzung,,,CCCC7G,,empfohlen
-D9G356,,,,,,
+,,,,,,
 C93638,Präventive Konservierung,,,top,,empfohlen
 GF9C49,Allgemeine Umgangsempfehlungen,,,C93638,,empfohlen
 D941BB,Präsentationsvorgaben,,,GF9C49,,empfohlen
@@ -105,4 +105,5 @@ D78721,Erstellungsdatum des Berichts,,,AC16G1,,Pflicht
 F285B2,Bearbeiter*in des Berichts,,,AC16G1,,Pflicht
 D1F5D3,Version,,,AC16G1,,empfohlen
 G56866,Zugangsrecht,,,AC16G1,,empfohlen
+,,,,,,
 F2AG55,Verwendete Literatur,,,top,,optional
