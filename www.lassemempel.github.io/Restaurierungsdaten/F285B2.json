@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Bearbeiter*in des Berichts"
   },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "F285B2"
   ],

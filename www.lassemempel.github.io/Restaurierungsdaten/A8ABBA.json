@@ -2,7 +2,12 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Vorzustand"
+    "de": "Erfassungszeitpunkt"
+  },
+  "altLabel": {
+    "de": [
+      "Zeitpunkt der Erfassung"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -18,36 +23,12 @@
       "prefLabel": {
         "de": "Spuren früherer Konservierungs- /Restaurierunseingriffe"
       }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
-      "prefLabel": {
-        "de": "Physischer Objektzustand"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
-      "prefLabel": {
-        "de": "Datum der Erfassung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AA6941",
-      "prefLabel": {
-        "de": "Schadensphänomene"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9",
-      "prefLabel": {
-        "de": "Umgebungsbedingungen"
-      }
     }
   ],
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
     "prefLabel": {
-      "de": "Zustandsbeschreibung"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

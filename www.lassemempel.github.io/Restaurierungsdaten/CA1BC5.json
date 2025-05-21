@@ -2,7 +2,12 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum der Erfassung"
+    "de": "Erfassungsdatum"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Erfassung"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -13,9 +18,9 @@
     "CA1BC5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
     "prefLabel": {
-      "de": "Vorzustand"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

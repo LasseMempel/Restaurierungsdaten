@@ -14,33 +14,21 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
-      "prefLabel": {
-        "de": "Monitoring"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
       "prefLabel": {
         "de": "Konservatorische Bedingungen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
-      "prefLabel": {
-        "de": "Präsentationsvorgaben"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CAC",
-      "prefLabel": {
-        "de": "Verpackungs- und Transportempfehlungen"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
       "prefLabel": {
-        "de": "Handhabungsempfehlungen"
+        "de": "Allgemeine Umgangsempfehlungen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+      "prefLabel": {
+        "de": "Monitoring"
       }
     }
   ],

@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
   "type": "Concept",
   "prefLabel": {
-    "de": "Anlass der Beprobung"
+    "de": "Anlass der Probenentnahme"
   },
   "altLabel": {
     "de": [
@@ -20,7 +20,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
     "prefLabel": {
-      "de": "Beprobung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

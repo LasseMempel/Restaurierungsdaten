@@ -2,7 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kennzeichennummer"
+    "de": "Kennzeichnungsnummer"
+  },
+  "definition": {
+    "de": "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich."
   },
   "scopeNote": {
     "de": [

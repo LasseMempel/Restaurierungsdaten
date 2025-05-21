@@ -2,7 +2,12 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum der Beprobung"
+    "de": "Datum der Probenentnahme"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Beprobung"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -15,7 +20,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
     "prefLabel": {
-      "de": "Beprobung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

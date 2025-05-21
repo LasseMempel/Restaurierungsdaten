@@ -16,12 +16,12 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F",
       "prefLabel": {
-        "de": "Verweis/Kennnummer"
+        "de": "Verweis"
       }
     }
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
     "prefLabel": {
       "de": "Zustandserfassung"
     }

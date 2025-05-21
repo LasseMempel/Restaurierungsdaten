@@ -2,11 +2,11 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beprobung"
+    "de": "Probeentnahme"
   },
   "altLabel": {
     "de": [
-      "Probeentnahme"
+      "Beprobung"
     ]
   },
   "scopeNote": {
@@ -21,13 +21,13 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
       "prefLabel": {
-        "de": "Anlass der Beprobung"
+        "de": "Anlass der Probenentnahme"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
       "prefLabel": {
-        "de": "Zuständige Person (Beprobung)"
+        "de": "Zuständige Person (Probeentnahme)"
       }
     },
     {
@@ -39,19 +39,25 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
       "prefLabel": {
-        "de": "Datum der Beprobung"
+        "de": "Datum der Probenentnahme"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
       "prefLabel": {
-        "de": "Beprobungsmethode"
+        "de": "Entnahmemethode"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
       "prefLabel": {
-        "de": "Stelle der Beprobung"
+        "de": "Stelle der Probenentnahme"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
+      "prefLabel": {
+        "de": "Durchführende Einrichtung (Probeentnahme)"
       }
     },
     {

@@ -2,7 +2,12 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G73958",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum der Untersuchung"
+    "de": "Untersuchungsdatum"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Untersuchung"
+    ]
   },
   "scopeNote": {
     "de": [

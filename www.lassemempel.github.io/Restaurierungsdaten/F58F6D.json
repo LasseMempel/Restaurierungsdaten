@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stelle der Beprobung"
+    "de": "Stelle der Probenentnahme"
   },
   "scopeNote": {
     "de": [
@@ -15,7 +15,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
     "prefLabel": {
-      "de": "Beprobung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

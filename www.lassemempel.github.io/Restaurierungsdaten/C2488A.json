@@ -2,34 +2,25 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nachzustand"
+    "de": "Schadensgrad"
+  },
+  "altLabel": {
+    "de": [
+      "Grad des Schadensphänomens"
+    ]
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "C2488A"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A18D95",
-      "prefLabel": {
-        "de": "Physischer Objektzustand"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9G51G",
-      "prefLabel": {
-        "de": "Datum der Erfassung"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AA6941",
     "prefLabel": {
-      "de": "Zustandsbeschreibung"
+      "de": "Schadensphänomene"
     }
   },
   "inScheme": [

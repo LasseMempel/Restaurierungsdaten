@@ -2,11 +2,12 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beprobungsmethode"
+    "de": "Entnahmemethode"
   },
   "altLabel": {
     "de": [
-      "Entnahmemethode"
+      "Beprobungsmethode",
+      "Entnahmeverfahren"
     ]
   },
   "scopeNote": {
@@ -20,7 +21,7 @@
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
     "prefLabel": {
-      "de": "Beprobung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

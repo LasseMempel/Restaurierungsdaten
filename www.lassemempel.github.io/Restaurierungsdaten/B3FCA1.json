@@ -14,6 +14,12 @@
   ],
   "narrower": [
     {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A15F83",
+      "prefLabel": {
+        "de": "Lokalisation"
+      }
+    },
+    {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
       "prefLabel": {
         "de": "Untersuchungsergebnis"
@@ -22,19 +28,31 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
       "prefLabel": {
-        "de": "Grund der Untersuchung"
+        "de": "Untersuchungsgrund"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7",
       "prefLabel": {
-        "de": "Untersuchungsmethode"
+        "de": "Untersuchungsverfahren"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
+      "prefLabel": {
+        "de": "Untersuchungsart"
       }
     },
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G73958",
       "prefLabel": {
-        "de": "Datum der Untersuchung"
+        "de": "Untersuchungsdatum"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G",
+      "prefLabel": {
+        "de": "Durchführende Einrichtung (Untersuchung)"
       }
     },
     {

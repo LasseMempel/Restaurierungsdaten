@@ -2,7 +2,13 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
   "type": "Concept",
   "prefLabel": {
-    "de": "Grund der Untersuchung"
+    "de": "Untersuchungsgrund"
+  },
+  "altLabel": {
+    "de": [
+      "Fragestellung",
+      "Grund der Untersuchung"
+    ]
   },
   "scopeNote": {
     "de": [
