@@ -140,7 +140,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     df = pd.read_csv('polishedData.csv', encoding="utf-8")
     graph = df2Skos(df, baseLanguageLabel, baseUri, seperator)
     graph.serialize(destination='thesaurus.ttl', format='turtle')   
-    graph.serialize(destination='thesaurus.json-ld', format='json-ld')
+    #graph.serialize(destination='thesaurus.json-ld', format='json-ld')
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb0tjnjkyjzReZ_--dYJOD4rbl1_iV8EdVTFXATh9ie6u3bRAeEYYrMNKZF0AcM_PQJkQbmZyGFfYe/pub?output=csv"
 baseLanguageLabel = "de"

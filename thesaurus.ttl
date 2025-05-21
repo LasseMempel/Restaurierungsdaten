@@ -12,18 +12,34 @@
     skos:prefLabel "Eingriff"@de ;
     skos:scopeNote "Pflicht"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//A18D95> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//A15F83> a skos:Concept ;
+    skos:altLabel "Untersuchungsstelle"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
+    skos:definition "Angabe an welcher Stelle auf dem Objekt die Untersuchung durchgeführt wurde. Nur bei Untersuchungen direkt auf dem Originalenobjekt nötig, entfällt bei Untersuchungen von Proben"@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "A18D95" ;
-    skos:prefLabel "Physischer Objektzustand"@de ;
-    skos:scopeNote "Pflicht"@de .
+    skos:notation "A15F83" ;
+    skos:prefLabel "Lokalisation"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "A2FA1B" ;
+    skos:prefLabel "Temperatur (konservatorische Bedingungen)"@de ;
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//A4G52F> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "A4G52F" ;
     skos:prefLabel "Spuren früherer Konservierungs- /Restaurierunseingriffe"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//A5C668> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "A5C668" ;
+    skos:prefLabel "Klimawerte"@de ;
     skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A> a skos:Concept ;
@@ -48,13 +64,35 @@
     skos:prefLabel "Datum der Sicherheitsbewertung"@de ;
     skos:scopeNote "empfohlen"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "B14C4A" ;
+    skos:prefLabel "Handlingsempfehlungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A> a skos:Concept ;
     skos:altLabel "Objekttitel"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> ;
+    skos:definition "Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel (z.B. \"Gemälde Mona-Lisa\" oder aus Objekttyp und beschreibenden Attributen (z.B. rotfiguriger Krater) zusammensetzen."@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "B5DD1A" ;
     skos:prefLabel "Objektansprache"@de ;
     skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//B9835A> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C11192> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "B9835A" ;
+    skos:prefLabel "Zuständige Person (Monitoring)"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//BA8198> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "BA8198" ;
+    skos:prefLabel "Luftfeuchte (konservatorische Bedingungen)"@de ;
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6> ;
@@ -65,11 +103,25 @@
     skos:scopeNote "bedingte Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "BC5B57" ;
     skos:prefLabel "Physischer Objektzustand"@de ;
     skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//BF3639> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "BF3639" ;
+    skos:prefLabel "Schadstoffe"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//BF6D19> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "BF6D19" ;
+    skos:prefLabel "biologischer Befall"@de ;
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73> ;
@@ -94,11 +146,12 @@
     skos:prefLabel "Art der Gefährdung"@de ;
     skos:scopeNote "bedingte Pflicht"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//C11192> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> a skos:Concept ;
+    skos:altLabel "Grad des Schadensphänomens"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AA6941> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "C11192" ;
-    skos:prefLabel "Monitoring"@de ;
+    skos:notation "C2488A" ;
+    skos:prefLabel "Schadensgrad"@de ;
     skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85> a skos:Concept ;
@@ -106,7 +159,7 @@
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "C33D85" ;
-    skos:prefLabel "Anlass der Beprobung"@de ;
+    skos:prefLabel "Anlass der Probenentnahme"@de ;
     skos:scopeNote "bedingte Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C364G1> a skos:Concept ;
@@ -116,13 +169,6 @@
     skos:notation "C364G1" ;
     skos:prefLabel "Konzentration"@de ;
     skos:scopeNote "optional"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "C3A182" ;
-    skos:prefLabel "Konservatorische Bedingungen"@de ;
-    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C421BF> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CGC619> ;
@@ -139,11 +185,11 @@
     skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C6A532> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//BAA258> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "C6A532" ;
     skos:prefLabel "Anlass der Maßnahme"@de ;
-    skos:scopeNote "empfohlen"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C79561> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> ;
@@ -163,14 +209,22 @@
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "C8CG15" ;
-    skos:prefLabel "Zuständige Person (Beprobung)"@de ;
+    skos:prefLabel "Zuständige Person (Probeentnahme)"@de ;
     skos:scopeNote "Pflicht"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//C9C527> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "C9C527" ;
+    skos:prefLabel "LUX-Stunden"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> ;
+    skos:altLabel "Datum der Erfassung"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "CA1BC5" ;
-    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:prefLabel "Erfassungsdatum"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747> a skos:Concept ;
@@ -201,17 +255,12 @@
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22> a skos:Concept ;
+    skos:altLabel "Fragestellung"@de,
+        "Grund der Untersuchung"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "CF3C22" ;
-    skos:prefLabel "Grund der Untersuchung"@de ;
-    skos:scopeNote "Pflicht"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//CFGDA3> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "CFGDA3" ;
-    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:prefLabel "Untersuchungsgrund"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D1CFD5> a skos:Concept ;
@@ -221,11 +270,19 @@
     skos:prefLabel "verwendetes Material (Untersuchung)"@de ;
     skos:scopeNote "empfohlen"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "D1F5D3" ;
+    skos:prefLabel "Version"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A> a skos:Concept ;
+    skos:altLabel "Datum der Beprobung"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D3AF3A" ;
-    skos:prefLabel "Datum der Beprobung"@de ;
+    skos:prefLabel "Datum der Probenentnahme"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D> a skos:Concept ;
@@ -235,11 +292,21 @@
     skos:prefLabel "Schadensursache"@de ;
     skos:scopeNote "optional"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> a skos:Concept ;
+    skos:altLabel "Metadaten"@de,
+        "Parameter"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D949G6> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "D6A11G" ;
+    skos:prefLabel "Einstellungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//D78721> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D78721" ;
-    skos:prefLabel "Erstellungsdatum des Berichts"@de .
+    skos:prefLabel "Erstellungsdatum des Berichts"@de ;
+    skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D865C3> a skos:Concept ;
     skos:altLabel "Hersteller"@de ;
@@ -257,32 +324,19 @@
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D941BB> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D941BB" ;
     skos:prefLabel "Präsentationsvorgaben"@de ;
     skos:scopeNote "empfohlen"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//D949G6> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "D949G6" ;
-    skos:prefLabel "Untersuchungsgerät"@de ;
-    skos:scopeNote "empfohlen"@de .
-
 <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA> a skos:Concept ;
-    skos:altLabel "Entnahmemethode"@de ;
+    skos:altLabel "Beprobungsmethode"@de,
+        "Entnahmeverfahren"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D9A6FA" ;
-    skos:prefLabel "Beprobungsmethode"@de ;
-    skos:scopeNote "Pflicht"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//D9G51G> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "D9G51G" ;
-    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:prefLabel "Entnahmemethode"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//DBC278> a skos:Concept ;
@@ -291,6 +345,13 @@
     skos:notation "DBC278" ;
     skos:prefLabel "aktuelle Maße"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//DF7759> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "DF7759" ;
+    skos:prefLabel "LUX (konservatorische Bedingungen)"@de ;
+    skos:scopeNote "optional"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
@@ -298,11 +359,19 @@
     skos:prefLabel "Objekttyp"@de ;
     skos:scopeNote "Pflicht"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//F2244D> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F2244D" ;
+    skos:prefLabel "Verpackungs- und Transportempfehlungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//F285B2> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "F285B2" ;
-    skos:prefLabel "Bearbeiter*in des Berichts"@de .
+    skos:prefLabel "Bearbeiter*in des Berichts"@de ;
+    skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F2A45F> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> ;
@@ -310,6 +379,20 @@
     skos:notation "F2A45F" ;
     skos:prefLabel "Eingangsdatum"@de ;
     skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55> a skos:Concept ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F2AG55" ;
+    skos:prefLabel "Verwendete Literatur"@de ;
+    skos:scopeNote "optional"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F396G6> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C11192> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F396G6" ;
+    skos:prefLabel "Ergebnis des Monitorings"@de ;
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> ;
@@ -322,14 +405,28 @@
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "F58F6D" ;
-    skos:prefLabel "Stelle der Beprobung"@de ;
+    skos:prefLabel "Stelle der Probenentnahme"@de ;
     skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F5G576> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C11192> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F5G576" ;
+    skos:prefLabel "Datum des Monitoring"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F72743> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F72743" ;
+    skos:prefLabel "Durchführende Einrichtung (Probeentnahme)"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> ;
+    skos:definition "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich."@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "F7D3DB" ;
-    skos:prefLabel "Kennzeichennummer"@de ;
+    skos:prefLabel "Kennzeichnungsnummer"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F87124> a skos:Concept ;
@@ -339,6 +436,15 @@
     skos:notation "F87124" ;
     skos:prefLabel "Werkzeug"@de ;
     skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F8F594> a skos:Concept ;
+    skos:altLabel "Art der Untersuchung"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
+    skos:definition "Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "F8F594" ;
+    skos:prefLabel "Untersuchungsart"@de ;
+    skos:scopeNote "optionale"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> ;
@@ -369,11 +475,33 @@
     skos:prefLabel "Probenbeschreibung"@de ;
     skos:scopeNote "empfohlen"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//FD6617> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "FD6617" ;
+    skos:prefLabel "UV (konservatorische Bedingungen)"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//FGF575> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//BAA258> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "FGF575" ;
+    skos:prefLabel "Ziel der Maßnahme"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//G56866> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "G56866" ;
+    skos:prefLabel "Zugangsrecht"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//G73958> a skos:Concept ;
+    skos:altLabel "Datum der Untersuchung"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "G73958" ;
-    skos:prefLabel "Datum der Untersuchung"@de ;
+    skos:prefLabel "Untersuchungsdatum"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//G76A78> a skos:Concept ;
@@ -383,18 +511,18 @@
     skos:prefLabel "Schöpfer*in"@de ;
     skos:scopeNote "optional"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "G76B7G" ;
+    skos:prefLabel "Durchführende Einrichtung (Untersuchung)"@de ;
+    skos:scopeNote "empfohlen"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "G79CA9" ;
     skos:prefLabel "Umgebungsbedingungen"@de ;
-    skos:scopeNote "empfohlen"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//G79CAC> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "G79CAC" ;
-    skos:prefLabel "Verpackungs- und Transportempfehlungen"@de ;
     skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F> a skos:Concept ;
@@ -419,10 +547,11 @@
     skos:scopeNote "bedingte Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F> a skos:Concept ;
+    skos:altLabel "Kennnummer"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "GDF23F" ;
-    skos:prefLabel "Verweis/Kennnummer"@de ;
+    skos:prefLabel "Verweis"@de ;
     skos:scopeNote "bedingte Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG> a skos:Concept ;
@@ -433,57 +562,48 @@
     skos:prefLabel "Zuständige Restaurierungseinrichtung"@de ;
     skos:scopeNote "Pflicht"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> a skos:Concept ;
+    skos:altLabel "Zeitpunkt der Erfassung"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "GF9C49" ;
-    skos:prefLabel "Handhabungsempfehlungen"@de ;
-    skos:scopeNote "empfohlen"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//Pflicht> skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//AA6941> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D> ;
-    skos:notation "AA6941" ;
-    skos:prefLabel "Schadensphänomene"@de ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A4G52F> ;
+    skos:notation "A8ABBA" ;
+    skos:prefLabel "Erfassungszeitpunkt"@de ;
     skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F> ;
     skos:notation "CDD6B5" ;
     skos:prefLabel "Dokumentationsform"@de ;
     skos:scopeNote "bedingte Pflicht"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//Pflicht> ;
-    skos:definition "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"@de ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//D949G6> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D78721>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//F285B2> ;
-    skos:notation "AC16G1" ;
-    skos:prefLabel "Administrative Metadaten"@de .
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> ;
+    skos:notation "D949G6" ;
+    skos:prefLabel "Untersuchungsgerät"@de ;
+    skos:scopeNote "empfohlen"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> a skos:Concept ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//AA6941> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CFGDA3> ;
-    skos:notation "AC1786" ;
-    skos:prefLabel "Zustandserfassung"@de ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D> ;
+    skos:notation "AA6941" ;
+    skos:prefLabel "Schadensphänomene"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//BAA258> a skos:Concept ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C6A532>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//FGF575> ;
+    skos:notation "BAA258" ;
+    skos:prefLabel "Konservierungs-Restaurierungskonzept"@de ;
     skos:scopeNote "Pflicht"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A18D95>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D9G51G> ;
-    skos:notation "C2488A" ;
-    skos:prefLabel "Nachzustand"@de ;
-    skos:scopeNote "Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6> ;
@@ -495,20 +615,35 @@
     skos:scopeNote "optional"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7> a skos:Concept ;
+    skos:altLabel "Untersuchungsmethode"@de,
+        "Untersuchungstechnik"@de,
+        "praktische Vorgehensweise"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D1CFD5>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//D949G6> ;
     skos:notation "DAB4B7" ;
-    skos:prefLabel "Untersuchungsmethode"@de ;
+    skos:prefLabel "Untersuchungsverfahren"@de ;
     skos:scopeNote "Pflicht"@de .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//F52262> a skos:Concept ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
-    skos:notation "F52262" ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//AA6941>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9> ;
+    skos:notation "AC1786" ;
     skos:prefLabel "Zustandsbeschreibung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//C93638> a skos:Concept ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C11192>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> ;
+    skos:notation "C93638" ;
+    skos:prefLabel "Präventive Konservierung"@de ;
+    skos:scopeNote "empfohlen"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CGC619> a skos:Concept ;
@@ -521,6 +656,28 @@
     skos:prefLabel "Verwendetes Material"@de ;
     skos:scopeNote "Pflicht"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D941BB>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F2244D> ;
+    skos:notation "GF9C49" ;
+    skos:prefLabel "Allgemeine Umgangsempfehlungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> a skos:Concept ;
+    skos:definition "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D78721>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F285B2>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G56866> ;
+    skos:notation "AC16G1" ;
+    skos:prefLabel "Administrative Metadaten"@de ;
+    skos:scopeNote "Pflicht"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6> a skos:Concept ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2>,
@@ -532,56 +689,48 @@
     skos:scopeNote "bedingte Pflicht"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//C11192> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A4G52F>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//AA6941>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57>,
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//B9835A>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F396G6>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F5G576>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> ;
+    skos:notation "C11192" ;
+    skos:prefLabel "Monitoring"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C93638> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BA8198>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//DF7759>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//FD6617> ;
+    skos:notation "C3A182" ;
+    skos:prefLabel "Konservatorische Bedingungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//F52262> a skos:Concept ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9> ;
-    skos:notation "A8ABBA" ;
-    skos:prefLabel "Vorzustand"@de ;
-    skos:scopeNote "Pflicht"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> a skos:Concept ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//G73958>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F> ;
-    skos:notation "B3FCA1" ;
-    skos:prefLabel "Untersuchung"@de ;
-    skos:scopeNote "bedingte Pflicht"@de ;
+        <https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5> ;
+    skos:notation "F52262" ;
+    skos:prefLabel "Zustandserfassung"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//C93638> a skos:Concept ;
+<https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7> a skos:Concept ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C11192> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C11192>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D941BB>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//G79CAC>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49> ;
-    skos:notation "C93638" ;
-    skos:prefLabel "Präventive Konservierung"@de ;
-    skos:scopeNote "empfohlen"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> a skos:Concept ;
-    skos:altLabel "Probeentnahme"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B> ;
-    skos:notation "CD5C3F" ;
-    skos:prefLabel "Beprobung"@de ;
-    skos:scopeNote "bedingte Pflicht"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A5C668>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BF3639>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BF6D19>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C9C527> ;
+    skos:notation "FFFCB7" ;
+    skos:prefLabel "Überprüfte Bedingungen"@de ;
+    skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73> a skos:Concept ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
@@ -596,6 +745,21 @@
     skos:prefLabel "Objektbeschreibung"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> a skos:Concept ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A15F83>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F8F594>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G73958>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F> ;
+    skos:notation "B3FCA1" ;
+    skos:prefLabel "Untersuchung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF> a skos:Concept ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A>,
@@ -608,6 +772,22 @@
         <https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3> ;
     skos:notation "B51DAF" ;
     skos:prefLabel "Objektkennzeichnung"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F> a skos:Concept ;
+    skos:altLabel "Beprobung"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F72743>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B> ;
+    skos:notation "CD5C3F" ;
+    skos:prefLabel "Probeentnahme"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> a skos:Concept ;
@@ -634,14 +814,15 @@
         "Metadaten"@de,
         "Restaurierung"@de ;
     vann:preferredNamespaceUri "https://www.lassemempel.github.io/Restaurierungsdaten//" ;
-    skos:hasTopConcept <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786>,
+    skos:hasTopConcept <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C6A532>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//BAA258>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//C93638>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> .
 

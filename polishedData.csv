@@ -1,15 +1,15 @@
 notation,prefLabel,altLabel,definition,broader,note (source),scope
 B51DAF,Objektkennzeichnung,,,top,DIN EN 16095:2012-10,
-B5DD1A,Objektansprache,Objekttitel,,B51DAF,,Pflicht
-F7D3DB,Kennzeichennummer,,,B51DAF,,Pflicht
+B5DD1A,Objektansprache,Objekttitel,"Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel (z.B. ""Gemälde Mona-Lisa"" oder aus Objekttyp und beschreibenden Attributen (z.B. rotfiguriger Krater) zusammensetzen.",B51DAF,,Pflicht
+F7D3DB,Kennzeichnungsnummer,,"Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.",B51DAF,DIN EN 16095:2012-10,Pflicht
 F9GB13,Datierung,,,B51DAF,,empfohlen
 CD3341,Herkunft,Fundort|kulturelle Verortung|Herstellungsort,,B51DAF,DIN EN 16095: 2012-10,empfohlen
 F2A45F,Eingangsdatum,,,B51DAF,,Pflicht
 F3G8D1,Ansprechpartner*in,,,B51DAF,,optional
 G76A78,Schöpfer*in,,,B51DAF,DIN EN 16095:2012-10,optional
 GB6DF3,Objektbeziehung,,,B51DAF,,bedingte Pflicht
-A11ACA,,,,,,
-DA2D73,Objektbeschreibung,,,top,,
+,,,,,,
+DA2D73,Objektbeschreibung,,,top,DIN EN 16095:2012-10,
 F1BA31,Objekttyp,,,DA2D73,,Pflicht
 BGC9F3,Weitere Objekteigenschaften,,,DA2D73,,optional
 D866AD,Objektmaterial,,,DA2D73,,Pflicht
@@ -17,51 +17,56 @@ C4BCF8,Herstellungstechnik,,,DA2D73,,empfohlen
 DBC278,aktuelle Maße,,,DA2D73,,
 C7C3B7,aktuelles Gewicht,,,DA2D73,,optional
 FC3322,aktueller Standort,,,DA2D73,,Pflicht
-GC6983,,,,,,
-F52262,Zustandsbeschreibung,,,top,,
-A8ABBA,Vorzustand,,,F52262,,Pflicht
-G79CA9,Umgebungsbedingungen,,,A8ABBA,,empfohlen
-CA1BC5,Datum der Erfassung,,,A8ABBA,,Pflicht
-BC5B57,Physischer Objektzustand,,,A8ABBA,,Pflicht
-AA6941,Schadensphänomene,,,A8ABBA,,Pflicht
+,,,,,,
+F52262,Zustandserfassung,,,top,,
+A8ABBA,Erfassungszeitpunkt,Zeitpunkt der Erfassung,,F52262,,Pflicht
+CA1BC5,Erfassungsdatum,Datum der Erfassung,,F52262,,Pflicht
+CDD6B5,Dokumentationsform,,,F52262,,bedingte Pflicht
+GDF23F,Verweis,Kennnummer,,CDD6B5,,bedingte Pflicht
+AC1786,Zustandsbeschreibung,,,F52262,,Pflicht
+G79CA9,Umgebungsbedingungen,,,AC1786,,empfohlen
+BC5B57,Physischer Objektzustand,,,AC1786,,Pflicht
+AA6941,Schadensphänomene,,,AC1786,,Pflicht
+C2488A,Schadensgrad,Grad des Schadensphänomens,,AA6941,,empfohlen
 D4A13D,Schadensursache,,,AA6941,,optional
 A4G52F,Spuren früherer Konservierungs- /Restaurierunseingriffe,,,A8ABBA,,empfohlen
-C2488A,Nachzustand,,,F52262,,Pflicht
-D9G51G,Datum der Erfassung,,,C2488A,,Pflicht
-A18D95,Physischer Objektzustand,,,C2488A,,Pflicht
-DA4158,,,,,,
-AC1786,Zustandserfassung,,,top,,Pflicht
-CDD6B5,Dokumentationsform,,,AC1786,,bedingte Pflicht
-GDF23F,Verweis/Kennnummer,,,CDD6B5,,bedingte Pflicht
-CFGDA3,Datum der Erfassung,,,AC1786,,Pflicht
-G98FD4,,,,,,
+,,,,,,
 B3FCA1,Untersuchung,,,top,,bedingte Pflicht
 G7F25F,Zuständige Person (Untersuchung),,,B3FCA1,,Pflicht
-G73958,Datum der Untersuchung,,,B3FCA1,,Pflicht
-CF3C22,Grund der Untersuchung,,,B3FCA1,,Pflicht
-DAB4B7,Untersuchungsmethode,,,B3FCA1,,Pflicht
+G76B7G,Durchführende Einrichtung (Untersuchung),,,B3FCA1,,empfohlen
+,Untersuchungskennung,Kennung der Untersuchung,,,,bedingte Pflicht
+G73958,Untersuchungsdatum,Datum der Untersuchung,,B3FCA1,,Pflicht
+CF3C22,Untersuchungsgrund,Grund der Untersuchung| Fragestellung,,B3FCA1,,Pflicht
+F8F594,Untersuchungsart,Art der Untersuchung,"Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt.",B3FCA1,,optionale
+A15F83,Lokalisation,Untersuchungsstelle,"Angabe an welcher Stelle auf dem Objekt die Untersuchung durchgeführt wurde. Nur bei Untersuchungen direkt auf dem Originalenobjekt nötig, entfällt bei Untersuchungen von Proben",B3FCA1,,bedingte Pflicht
+DAB4B7,Untersuchungsverfahren,Untersuchungsmethode| Untersuchungstechnik| praktische Vorgehensweise,,B3FCA1,,Pflicht
 D1CFD5,verwendetes Material (Untersuchung),,,DAB4B7,,empfohlen
 D949G6,Untersuchungsgerät,,,DAB4B7,,empfohlen
+D6A11G,Einstellungen,Metadaten| Parameter,,D949G6,,empfohlen
 BGG5A6,Untersuchungsergebnis,Befund,,B3FCA1,,Pflicht
-D6A11G,,,,,,
-CD5C3F,Beprobung,Probeentnahme,,top,,bedingte Pflicht
-C8CG15,Zuständige Person (Beprobung),,,CD5C3F,,Pflicht
-D3AF3A,Datum der Beprobung,,,CD5C3F,,Pflicht
+,,,,,,
+CD5C3F,Probeentnahme,Beprobung,,top,,bedingte Pflicht
+C8CG15,Zuständige Person (Probeentnahme),,,CD5C3F,,Pflicht
+F72743,Durchführende Einrichtung (Probeentnahme),,,CD5C3F,,
+D3AF3A,Datum der Probenentnahme,Datum der Beprobung,,CD5C3F,,Pflicht
 CB7747,Kennung der Probe,Name der Probe| Nummer der Probe,,CD5C3F,,Pflicht
 FD2B2B,Probenbeschreibung,,,CD5C3F,,empfohlen
-C33D85,Anlass der Beprobung,Grund der Beprobung,,CD5C3F,,bedingte Pflicht
-F58F6D,Stelle der Beprobung,,,CD5C3F,,Pflicht
-D9A6FA,Beprobungsmethode,Entnahmemethode,,CD5C3F,,Pflicht
-BAA258,,,,,,
-C6A532,Anlass der Maßnahme,,,top,,empfohlen
-F72743,,,,,,
+C33D85,Anlass der Probenentnahme,Grund der Beprobung,,CD5C3F,,bedingte Pflicht
+F58F6D,Stelle der Probenentnahme,,,CD5C3F,,Pflicht
+D9A6FA,Entnahmemethode,Beprobungsmethode| Entnahmeverfahren,,CD5C3F,,Pflicht
+,,,,,,
+BAA258,Konservierungs-Restaurierungskonzept,,,top,,Pflicht
+C6A532,Anlass der Maßnahme,,,BAA258,,empfohlen
+FGF575,Ziel der Maßnahme,,,BAA258,,Pflicht
+,,,,,,
+,,,,,,
 DA9CGG,Durchgeführte Maßnahme,,,top,,
 GF41DG,Zuständige Restaurierungseinrichtung,,(z.B. Werkstatt/Atelier),DA9CGG,,Pflicht
 AF1F5C,Maßnahmenkennnummer,,"(z.B. Labornummer, Dokumentationsnummern, Werkblattnummer, etc.)",DA9CGG,,Bedingte Pflicht
 C79561,Zuständige Person,,,DA9CGG,,Pflicht
 CDD613,Beginn der Maßnahme/ Ende der Maßnahme,,(Datum),DA9CGG,,Pflicht
 G814D2,Zeitaufwand (in Stunden),,,DA9CGG,,(optional)
-A13CD1,Eingriff,Behandlung | Applikationstechnik,,DA9CGG,,Pflicht
+A13CD1,Eingriff,Behandlung | Applikationstechnik,,DA9CGG,DIN EN 15898:2020-02,Pflicht
 CGC619,Verwendetes Material,,,DA9CGG,,Pflicht
 D865C3,Bezugsquelle,Hersteller,,CGC619,,optional
 C364G1,Konzentration,Mischungsverhältnis,,CGC619,,optional
@@ -77,13 +82,27 @@ AFD671,Datum der Sicherheitsbewertung,,,CCCC7G,,empfohlen
 ADD53A,Einschätzung,,,CCCC7G,,empfohlen
 D9G356,,,,,,
 C93638,Präventive Konservierung,,,top,,empfohlen
-GF9C49,Handhabungsempfehlungen,,,C93638,,empfohlen
-D941BB,Präsentationsvorgaben,,,C93638,,empfohlen
+GF9C49,Allgemeine Umgangsempfehlungen,,,C93638,,empfohlen
+D941BB,Präsentationsvorgaben,,,GF9C49,,empfohlen
+F2244D,Verpackungs- und Transportempfehlungen,,,GF9C49,,empfohlen
+B14C4A,Handlingsempfehlungen,,,GF9C49,,empfohlen
 C3A182,Konservatorische Bedingungen,,,C93638,,empfohlen
-G79CAC,Verpackungs- und Transportempfehlungen,,,C93638,,empfohlen
+A2FA1B,Temperatur (konservatorische Bedingungen),,,C3A182,,empfohlen
+BA8198,Luftfeuchte (konservatorische Bedingungen),,,C3A182,,empfohlen
+DF7759,LUX (konservatorische Bedingungen),,,C3A182,,optional
+FD6617,UV (konservatorische Bedingungen),,,C3A182,,optional
 C11192,Monitoring,,,C93638,,empfohlen
-F5G576,,,,,,
-AC16G1,Administrative Metadaten,,administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten,Pflicht,,
-D78721,Erstellungsdatum des Berichts,,,AC16G1,,
-F285B2,Bearbeiter*in des Berichts,,,AC16G1,,
-G76B7G,,,,,,
+F5G576,Datum des Monitoring,,,C11192,,empfohlen
+B9835A,Zuständige Person (Monitoring),,,C11192,,empfohlen
+FFFCB7,Überprüfte Bedingungen,,,C11192,,empfohlen
+BF6D19,biologischer Befall,,,FFFCB7,,empfohlen
+A5C668,Klimawerte,,,FFFCB7,,empfohlen
+C9C527,LUX-Stunden,,,FFFCB7,,empfohlen
+BF3639,Schadstoffe,,,FFFCB7,,empfohlen
+F396G6,Ergebnis des Monitorings,,,C11192,,empfohlen
+AC16G1,Administrative Metadaten,,administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten,top,,Pflicht
+D78721,Erstellungsdatum des Berichts,,,AC16G1,,Pflicht
+F285B2,Bearbeiter*in des Berichts,,,AC16G1,,Pflicht
+D1F5D3,Version,,,AC16G1,,empfohlen
+G56866,Zugangsrecht,,,AC16G1,,empfohlen
+F2AG55,Verwendete Literatur,,,top,,optional
