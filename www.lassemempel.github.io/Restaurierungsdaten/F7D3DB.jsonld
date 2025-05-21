@@ -7,6 +7,11 @@
   "definition": {
     "de": "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich."
   },
+  "note": {
+    "de": [
+      "DIN EN 16095:2012-10"
+    ]
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

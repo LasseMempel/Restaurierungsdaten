@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Datierung"
   },
+  "definition": {
+    "de": "zeitliche Einordnung des Objektes."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"
