@@ -229,7 +229,7 @@
     skos:scopeNote "empfohlen"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5> a skos:Concept ;
-    skos:altLabel "Datum der Erfassung"@de ;
+    skos:altLabel "Datum der Erfassung (Zustandserfassung)"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//F52262> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "CA1BC5" ;
