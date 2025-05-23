@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Objektbeschreibung"
   },
+  "definition": {
+    "de": "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"
+  },
   "note": {
     "de": [
       "DIN EN 16095:2012-10"

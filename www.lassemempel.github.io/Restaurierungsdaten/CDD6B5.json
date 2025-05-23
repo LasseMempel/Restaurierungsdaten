@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Dokumentationsform"
   },
+  "definition": {
+    "de": "Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\n\nBeispiel: \"Zustandsbericht + Fotos\""
+  },
   "scopeNote": {
     "de": [
       "bedingte Pflicht"

@@ -9,6 +9,9 @@
       "Datum der Erfassung (Zustandserfassung)"
     ]
   },
+  "definition": {
+    "de": "Angabe des Datums, an dem die Erfassung des Zustandes durchgeführt wurde."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

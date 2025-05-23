@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Untersuchungsgerät"
   },
+  "definition": {
+    "de": "Angaben, welches Gerät für die Untersuchung verwendet wurde."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"

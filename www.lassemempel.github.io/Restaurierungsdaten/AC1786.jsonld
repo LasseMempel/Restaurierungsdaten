@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Zustandsbeschreibung"
   },
+  "altLabel": {
+    "de": [
+      "Diagnose"
+    ]
+  },
+  "definition": {
+    "de": "Oberbegriff für die konkreten Informationen, die den Zustand des Objektes zum Zeitpunkt der Erfassung näher beschreiben."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

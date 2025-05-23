@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel (z.B. \"Gemälde Mona-Lisa\" oder aus Objekttyp und beschreibenden Attributen (z.B. rotfiguriger Krater) zusammensetzen."
+    "de": "Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel oder aus Objekttyp und beschreibenden Attributen zusammensetzen.\n\nBeispiel: \"Mona-Lisa\", \"rotfiguriger Krater\""
   },
   "scopeNote": {
     "de": [

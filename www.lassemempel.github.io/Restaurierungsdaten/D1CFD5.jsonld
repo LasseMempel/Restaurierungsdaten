@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "verwendetes Material (Untersuchung)"
   },
+  "definition": {
+    "de": "Angaben zum Material, welches für die Untersuchung des Objektes verwendet wurde. Diese Angabe ist besonders dann wichtig, wenn die Materialien Spuren bzw. Rückstände auf dem Objekt hinterlassen haben könnten."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"

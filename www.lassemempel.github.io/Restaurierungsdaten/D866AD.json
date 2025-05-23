@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Objektmaterial"
   },
+  "altLabel": {
+    "de": [
+      "Objektwerkstoff"
+    ]
+  },
+  "definition": {
+    "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \n\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \n\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

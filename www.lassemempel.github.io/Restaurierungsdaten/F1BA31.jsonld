@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Objekttyp"
   },
+  "definition": {
+    "de": "grundlegende formale Kategorie, in die das Objekt eingeordnet wird. \n\nBeispiel: \"Gemälde\" , \"Skulptur\", \"Münze\""
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

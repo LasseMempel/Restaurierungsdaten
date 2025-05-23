@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Objektbeziehung"
   },
+  "definition": {
+    "de": "Sofern das Objekt Teil eines Ensemble, einer definierten Sammlung ist oder anderweitig besondere Beziehungen zu anderen Objekten aufweist, sollten diese erfasst werden. \n\nBeispiel: \"Teil der Sammlung Becker\""
+  },
   "scopeNote": {
     "de": [
       "bedingte Pflicht"

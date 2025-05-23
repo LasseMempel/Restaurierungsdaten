@@ -10,6 +10,9 @@
       "Parameter"
     ]
   },
+  "definition": {
+    "de": "Angaben zu den Einstellungen bzw. Metadaten des Gerätes, welches für die Untersuchung verwendet wurde."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"

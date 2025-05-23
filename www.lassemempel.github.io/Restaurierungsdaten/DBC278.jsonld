@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "aktuelle Maße"
   },
+  "definition": {
+    "de": "Angaben zu den räumlichen Dimensionen des Objektes, zum letzten Zeitpunkt der Begutachtung. Die Maße des Objektes können sich im Laufe der Zeit verändern (z.B. durch Beschädigung oder die Zusammensetzung eines zerscherbten Objektes)."
+  },
   "notation": [
     "DBC278"
   ],

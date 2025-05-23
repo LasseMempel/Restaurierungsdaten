@@ -2,7 +2,14 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konservierungs-Restaurierungskonzept"
+    "de": "Konservierungskonzept"
+  },
+  "altLabel": {
+    "de": [
+      "Konservierungsplan",
+      "Restaurierungskonzept",
+      "Restaurierungsplan"
+    ]
   },
   "scopeNote": {
     "de": [
