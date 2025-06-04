@@ -7,12 +7,17 @@
   "altLabel": {
     "de": [
       "Applikationstechnik",
-      "Behandlung"
+      "Behandlung",
+      "Methode",
+      "Vorgehensweise"
     ]
+  },
+  "definition": {
+    "de": "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde."
   },
   "note": {
     "de": [
-      "DIN EN 15898:2020-02"
+      "Begriff und Definition nach DIN EN 15898:2020-02"
     ]
   },
   "scopeNote": {

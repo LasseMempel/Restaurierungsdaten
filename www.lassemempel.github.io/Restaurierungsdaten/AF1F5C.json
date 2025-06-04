@@ -5,7 +5,7 @@
     "de": "Maßnahmenkennnummer"
   },
   "definition": {
-    "de": "(z.B. Labornummer, Dokumentationsnummern, Werkblattnummer, etc.)"
+    "de": "Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.\r\r\n\r\r\nBeipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc."
   },
   "scopeNote": {
     "de": [

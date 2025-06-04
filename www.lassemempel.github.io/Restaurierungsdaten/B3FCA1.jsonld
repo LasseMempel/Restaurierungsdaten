@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Untersuchung"
   },
+  "definition": {
+    "de": "Oberbegriff für Informationen im Kontext der systematischen Begutachtung und Analyse eines Objekte zur Ermittlung von Materialzusammensetzungen, Objektaufbau, Herstellungstechnik, Erhaltungszuständen und/oder weitere Fragestellungen"
+  },
+  "note": {
+    "de": [
+      "Begriff nach DIN EN 15898:2020-02"
+    ]
+  },
   "scopeNote": {
     "de": [
       "bedingte Pflicht"

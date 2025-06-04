@@ -2,7 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensursache"
+    "de": "Schadensfaktor"
+  },
+  "altLabel": {
+    "de": [
+      "Schadensursache"
+    ]
+  },
+  "definition": {
+    "de": "Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in wie weit es sich um eine interpretative/subjektive Aussage handelt."
+  },
+  "note": {
+    "de": [
+      "Begriff nach DIN EN 15898:2020-02"
+    ]
   },
   "scopeNote": {
     "de": [

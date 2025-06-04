@@ -6,10 +6,13 @@
   },
   "altLabel": {
     "de": [
-      "Konservierungsplan",
-      "Restaurierungskonzept",
-      "Restaurierungsplan"
+      "Konservierungs-Restaurierungsplanung",
+      "Konservierungsplanung",
+      "Restaurierungskonzept"
     ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden."
   },
   "scopeNote": {
     "de": [

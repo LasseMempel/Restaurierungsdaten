@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Verwendetes Material"
   },
+  "definition": {
+    "de": "Benennung des bzw. der Materialien, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

@@ -9,6 +9,9 @@
       "Gerät"
     ]
   },
+  "definition": {
+    "de": "Benennung des bzw. der Werkzeuge und Geräte, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden. Diese Angabe empfiehlt sich besonders dann, wenn durch die verwendeten Werkzeuge Spuren auf dem Objekt hinterlassen wurden."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"

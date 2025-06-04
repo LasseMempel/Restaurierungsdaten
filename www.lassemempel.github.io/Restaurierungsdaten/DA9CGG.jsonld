@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Durchgeführte Maßnahme"
   },
+  "altLabel": {
+    "de": [
+      "Bestandserhaltung",
+      "Konservierung",
+      "Konservierung-Restaurierung",
+      "Restaurierung"
+    ]
+  },
   "notation": [
     "DA9CGG"
   ],
@@ -29,7 +37,7 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C79561",
       "prefLabel": {
-        "de": "Zuständige Person"
+        "de": "Zuständige Person (Durchgeführte Maßnahme)"
       }
     },
     {

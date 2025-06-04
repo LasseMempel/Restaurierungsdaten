@@ -10,7 +10,12 @@
     ]
   },
   "definition": {
-    "de": "Oberbegriff für die konkreten Informationen, die den Zustand des Objektes zum Zeitpunkt der Erfassung näher beschreiben."
+    "de": "Oberbegriff für beobachtete, gemessene, geprüfte oder bewertete Informationen, die den Zustand des Objektes zum Zeitpunkt der Erfassung näher beschreiben. Insbesondere Veränderungen des Objektes, die im Vergleich zu einem früheren oder ursprünglichen Zustand bzw. vom zuletzt berichteten Zustand festgestellt werden, müssen dokumentiert werden."
+  },
+  "note": {
+    "de": [
+      "Begriff und Definition nach DIN EN 16095:2012-10 und DIN EN 15898:2020-02"
+    ]
   },
   "scopeNote": {
     "de": [

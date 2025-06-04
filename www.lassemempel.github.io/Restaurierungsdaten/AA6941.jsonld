@@ -4,6 +4,16 @@
   "prefLabel": {
     "de": "Schadensphänomene"
   },
+  "altLabel": {
+    "de": [
+      "Beschädigung",
+      "Schaden",
+      "Schadensbild"
+    ]
+  },
+  "definition": {
+    "de": "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"
@@ -22,7 +32,7 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
       "prefLabel": {
-        "de": "Schadensursache"
+        "de": "Schadensfaktor"
       }
     }
   ],

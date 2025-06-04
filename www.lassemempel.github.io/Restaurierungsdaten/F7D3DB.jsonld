@@ -5,11 +5,11 @@
     "de": "Kennzeichnungsnummer"
   },
   "definition": {
-    "de": "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.\n\nBeispiel: \"O.3649\", \"2025-05-21\""
+    "de": "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.\r\r\n\r\r\nBeispiel: \"O.3649\", \"2025-05-21\""
   },
   "note": {
     "de": [
-      "DIN EN 16095:2012-10"
+      "Begriff nach DIN EN 16095:2012-10"
     ]
   },
   "scopeNote": {

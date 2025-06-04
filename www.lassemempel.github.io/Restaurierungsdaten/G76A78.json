@@ -5,11 +5,11 @@
     "de": "Schöpfer*in"
   },
   "definition": {
-    "de": "Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. \n\nBeispiel: \"Leonardo da Vinci\""
+    "de": "Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. \r\r\n\r\r\nBeispiel: \"Leonardo da Vinci\""
   },
   "note": {
     "de": [
-      "DIN EN 16095:2012-10"
+      "Begriff nach DIN EN 16095:2012-10"
     ]
   },
   "scopeNote": {

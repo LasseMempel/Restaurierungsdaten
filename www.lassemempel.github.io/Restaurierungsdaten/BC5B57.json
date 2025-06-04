@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Physischer Objektzustand"
   },
+  "definition": {
+    "de": "Beschreibung der physischen Merkmale und Eigenschaften des Objektes wie Vollständigkeit, Stabilität, Festigkeit, Maße, Feuchtigkeitsgehalt, etc."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"
