@@ -75,7 +75,7 @@ G76B7G,Durchführende Einrichtung (Untersuchung),,"Benennung der Einrichtung, di
 
 Besonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.",B3FCA1,,empfohlen,string,
-,Untersuchungskennung,Kennung der Untersuchung,,,,bedingte Pflicht,string,
+A2AG55,Untersuchungskennung,Kennung der Untersuchung,,,,bedingte Pflicht,string,
 G73958,Untersuchungsdatum,Datum der Untersuchung,,B3FCA1,,Pflicht,date,
 CF3C22,Untersuchungsgrund,Grund der Untersuchung| Fragestellung,,B3FCA1,,Pflicht,string,
 F8F594,Untersuchungsart,Art der Untersuchung,"Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt.",B3FCA1,,optionale,thesaurus,

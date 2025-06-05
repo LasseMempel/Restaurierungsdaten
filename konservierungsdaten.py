@@ -6,7 +6,9 @@ from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS, VANN
 
 def csv2Df(link, propertyMatchDict):
     with open("data.csv", "w", encoding="utf-8") as f:
-        f.write(requests.get(link).text.encode("ISO-8859-1").decode())
+        text = requests.get(link).text.encode("ISO-8859-1").decode()
+        #text = text.replace("\n"," ")
+        f.write(text) 
     df = pd.read_csv('data.csv', encoding="utf-8")
     df.rename(columns=propertyMatchDict, inplace=True) # rename columns according to propertyMatchDict
     df = df.map(lambda x: x.strip() if isinstance(x, str) else x) # remove leading and trailing whitespaces from all cells
@@ -14,14 +16,28 @@ def csv2Df(link, propertyMatchDict):
     for col in ["closeMatch", "relatedMatch", "exactMatch"]:
         if col in df.columns:
             df[col] = df[col].map(lambda x: "|".join(x.split("\n")) if isinstance(x, str) else x)
-    
-    """
-    # generate special csv for mapping purposes
-    # create new df from all rows where # remove all rows where "http://vocab.getty.edu/page/aat/" is part of value either in closeMatch or relatedMatch
-    specialDf = df[df["closeMatch"].str.contains("http://vocab.getty.edu/page/aat/") | df["relatedMatch"].str.contains("http://vocab.getty.edu/page/aat/")]
-    # create csv from specialDf
-    specialDf.to_csv('specialData.csv', index=False, encoding="utf-8")
-    """
+    return df
+
+def sortNotation(df):
+    # generate an array of uuids from the notation column
+    uuids = df['notation'].tolist()
+    # delete all empty elements
+    uuids = [x.strip() for x in uuids if x != "" and not isinstance(x, float)]
+    # sort the uuids alphanumerically
+    uuids.sort() 
+    # iterate over every row and build a notation change dictionary
+    i = 0
+    changeDict = {}
+    for index, row in df.iterrows():
+        if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
+            oldNotation = row['notation'].strip()
+            newNotation = uuids[i]
+            i += 1
+            changeDict[oldNotation] = newNotation
+    # replace all notations in the df with the new notation
+    df.replace(changeDict, inplace=True)
+    print("exporting sorted csv...")
+    df.to_csv('sortedData.csv', index=False, encoding="utf-8")
     return df
 
 def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus):
@@ -134,6 +150,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
 def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     df = csv2Df(link, propertyMatchDict)
+    df = sortNotation(df)
     text = df.to_csv(index=False)
     with open('polishedData.csv', 'w', encoding="utf-8") as f:
         f.write(text)
