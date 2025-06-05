@@ -3,19 +3,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> a skos:Concept ;
-    skos:altLabel "Applikationstechnik"@de,
-        "Behandlung"@de,
-        "Methode"@de,
-        "Vorgehensweise"@de ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> ;
-    skos:definition "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "A13CD1" ;
-    skos:note "Begriff und Definition nach DIN EN 15898:2020-02"@de ;
-    skos:prefLabel "Eingriff"@de ;
-    skos:scopeNote "Pflicht"@de .
-
 <https://www.lassemempel.github.io/Restaurierungsdaten//A15F83> a skos:Concept ;
     skos:altLabel "Untersuchungsstelle"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1> ;
@@ -508,7 +495,7 @@ Beispiel: "O.3649", "2025-05-21\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//F87124> a skos:Concept ;
     skos:altLabel "Gerät"@de ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
     skos:definition "Benennung des bzw. der Werkzeuge und Geräte, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden. Diese Angabe empfiehlt sich besonders dann, wenn durch die verwendeten Werkzeuge Spuren auf dem Objekt hinterlassen wurden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "F87124" ;
@@ -683,6 +670,21 @@ Beispiel: "Zustandsbericht + Fotos\""""@de ;
     skos:prefLabel "Untersuchungsgerät"@de ;
     skos:scopeNote "empfohlen"@de .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> a skos:Concept ;
+    skos:altLabel "Applikationstechnik"@de,
+        "Behandlung"@de,
+        "Methode"@de,
+        "Vorgehensweise"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> ;
+    skos:definition "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//CGC619>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//F87124> ;
+    skos:notation "A13CD1" ;
+    skos:note "Begriff und Definition nach DIN EN 15898:2020-02"@de ;
+    skos:prefLabel "Eingriff"@de ;
+    skos:scopeNote "Pflicht"@de .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//AA6941> a skos:Concept ;
     skos:altLabel "Beschädigung"@de,
         "Schaden"@de,
@@ -757,7 +759,7 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CGC619> a skos:Concept ;
-    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
     skos:definition "Benennung des bzw. der Materialien, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden."@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C364G1>,
@@ -846,6 +848,22 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:prefLabel "Zustandserfassung"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
+<https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> a skos:Concept ;
+    skos:altLabel "Bestandserhaltung"@de,
+        "Konservierung"@de,
+        "Konservierung-Restaurierung"@de,
+        "Restaurierung"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C79561>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//CDD613>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//G814D2>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG> ;
+    skos:notation "DA9CGG" ;
+    skos:prefLabel "Durchgeführte Maßnahme"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
 <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73> a skos:Concept ;
     skos:definition "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
@@ -909,24 +927,6 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:notation "CD5C3F" ;
     skos:prefLabel "Probeentnahme"@de ;
     skos:scopeNote "bedingte Pflicht"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG> a skos:Concept ;
-    skos:altLabel "Bestandserhaltung"@de,
-        "Konservierung"@de,
-        "Konservierung-Restaurierung"@de,
-        "Restaurierung"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C79561>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CDD613>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CGC619>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//F87124>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//G814D2>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG> ;
-    skos:notation "DA9CGG" ;
-    skos:prefLabel "Durchgeführte Maßnahme"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten/> a skos:ConceptScheme ;
