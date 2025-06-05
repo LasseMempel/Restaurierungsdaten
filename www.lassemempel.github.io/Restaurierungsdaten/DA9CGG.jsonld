@@ -17,21 +17,9 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
-      "prefLabel": {
-        "de": "Eingriff"
-      }
-    },
-    {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C",
       "prefLabel": {
         "de": "Maßnahmenkennnummer"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
-      "prefLabel": {
-        "de": "Verwendetes Material"
       }
     },
     {
@@ -47,9 +35,9 @@
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
       "prefLabel": {
-        "de": "Werkzeug"
+        "de": "Eingriff"
       }
     },
     {

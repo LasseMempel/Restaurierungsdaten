@@ -28,6 +28,20 @@
   "notation": [
     "A13CD1"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
+      "prefLabel": {
+        "de": "Verwendetes Material"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+      "prefLabel": {
+        "de": "Werkzeug"
+      }
+    }
+  ],
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
     "prefLabel": {
