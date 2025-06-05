@@ -2,23 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektbeziehung"
-  },
-  "definition": {
-    "de": "Sofern das Objekt Teil eines Ensemble, einer definierten Sammlung ist oder anderweitig besondere Beziehungen zu anderen Objekten aufweist, sollten diese erfasst werden. \r\r\n\r\r\nBeispiel: \"Teil der Sammlung Becker\""
+    "de": "Bearbeiter*in des Berichts"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "Pflicht"
     ]
   },
   "notation": [
     "GB6DF3"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Administrative Metadaten"
     }
   },
   "inScheme": [

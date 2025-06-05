@@ -2,20 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum der Sicherheitsbewertung"
+    "de": "Objektmaterial"
+  },
+  "altLabel": {
+    "de": [
+      "Objektwerkstoff"
+    ]
+  },
+  "definition": {
+    "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "AFD671"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
     "prefLabel": {
-      "de": "Letzte Sicherheitsbewertung"
+      "de": "Objektbeschreibung"
     }
   },
   "inScheme": [

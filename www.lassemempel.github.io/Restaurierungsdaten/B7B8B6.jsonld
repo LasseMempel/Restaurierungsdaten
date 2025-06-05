@@ -2,39 +2,48 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Sicherheit & Arbeitsschutz"
+    "de": "Zustandserfassung"
   },
-  "scopeNote": {
+  "altLabel": {
     "de": [
-      "bedingte Pflicht"
+      "Zustandserhebung"
     ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Informationen, die die systematische Erfassung des Zustands eines Objektes zu einem definierten Zeitpunkt dokumentieren."
   },
   "notation": [
     "B7B8B6"
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
       "prefLabel": {
-        "de": "Letzte Sicherheitsbewertung"
+        "de": "Erfassungszeitpunkt"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BA8198",
       "prefLabel": {
-        "de": "Getroffene Schutzmaßnahmen"
+        "de": "Erfassungsdatum"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
       "prefLabel": {
-        "de": "Art der Gefährdung"
+        "de": "Dokumentationsform"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
       "prefLabel": {
-        "de": "Gefährdungshinweise"
+        "de": "Zustandsbeschreibung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+      "prefLabel": {
+        "de": "konservatorische Vorgeschichte"
       }
     }
   ],

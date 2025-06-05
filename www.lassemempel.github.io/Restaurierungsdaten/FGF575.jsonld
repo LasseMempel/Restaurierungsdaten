@@ -2,20 +2,46 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ziel der Maßnahme"
+    "de": "Überprüfte Bedingungen"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "FGF575"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G56866",
+      "prefLabel": {
+        "de": "biologischer Befall"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G73958",
+      "prefLabel": {
+        "de": "Klimawerte"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76A78",
+      "prefLabel": {
+        "de": "LUX-Stunden"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G",
+      "prefLabel": {
+        "de": "Schadstoffe"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
     "prefLabel": {
-      "de": "Konservierungskonzept"
+      "de": "Monitoring"
     }
   },
   "inScheme": [

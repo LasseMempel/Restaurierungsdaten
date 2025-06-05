@@ -2,7 +2,15 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF3639",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadstoffe"
+    "de": "Umgebungsbedingungen"
+  },
+  "definition": {
+    "de": "Aufzeichnung der Bedingungen, unter denen das Objekt bis zum Zeitpunkt der Zustandserfassung gehalten wurde. Insbesondere sofern Auswirkungen der Umgebung auf das Objekt erkannt werden, sollten diese in der Zustandsbeschreibung gemeinsam mit der vermuteten Ursache festgehalten werden."
+  },
+  "note": {
+    "de": [
+      "Begriff und Definition nach DIN EN 16095:2012-10"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -13,9 +21,9 @@
     "BF3639"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
     "prefLabel": {
-      "de": "Überprüfte Bedingungen"
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

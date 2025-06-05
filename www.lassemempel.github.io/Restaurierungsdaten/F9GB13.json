@@ -2,10 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datierung"
-  },
-  "definition": {
-    "de": "zeitliche Einordnung des Objektes.\r\r\n\r\r\nBeispiel: \"Urnenfelderzeit\" , \"15. Jh.\""
+    "de": "Luftfeuchte (konservatorische Bedingungen)"
   },
   "scopeNote": {
     "de": [
@@ -16,9 +13,9 @@
     "F9GB13"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [

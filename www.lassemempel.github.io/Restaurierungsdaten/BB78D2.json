@@ -2,10 +2,15 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Getroffene Schutzmaßnahmen"
+    "de": "Verweis"
+  },
+  "altLabel": {
+    "de": [
+      "Kennnummer"
+    ]
   },
   "definition": {
-    "de": "(z. B. PSA, Quarantänebereich)"
+    "de": "Eindeutiger Hinweis, an welchem Ort die Dokumentation(en) zu finden ist/sind. Dies kann zum Beispiel eine URI oder URL zum entsprechenden Datensatz sein oder bei analogen Daten eine Identifikationsnummer oder Angabe zum Standort der Ablage."
   },
   "scopeNote": {
     "de": [
@@ -16,9 +21,9 @@
     "BB78D2"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
     "prefLabel": {
-      "de": "Sicherheit & Arbeitsschutz"
+      "de": "Dokumentationsform"
     }
   },
   "inScheme": [

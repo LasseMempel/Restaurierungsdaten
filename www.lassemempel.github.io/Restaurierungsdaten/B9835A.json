@@ -2,20 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zuständige Person (Monitoring)"
+    "de": "Erfassungszeitpunkt"
+  },
+  "altLabel": {
+    "de": [
+      "Zeitpunkt der Erfassung"
+    ]
+  },
+  "definition": {
+    "de": "Angaben ob es sich bei dem erfassten Zustand um den Zeitpunkt vor, nach oder zwischen einem konservatorisch-restauratorischen Eingriff handelt oder der Zustand beispielsweise im Zuge eines Monitorings, ohne anschließendem Eingriff, erfasst wurde. \r\r\n\r\r\nDer Zustand vor und nach einem Eingriff sollte dabei verpflichtend erfasst werden. Weitere Zustandserfassungen sind bei Bedarf möglich."
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "B9835A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
     "prefLabel": {
-      "de": "Monitoring"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

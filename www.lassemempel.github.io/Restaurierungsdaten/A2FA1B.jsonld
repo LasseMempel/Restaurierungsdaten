@@ -2,7 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Temperatur (konservatorische Bedingungen)"
+    "de": "Datierung"
+  },
+  "definition": {
+    "de": "zeitliche Einordnung des Objektes.\r\r\n\r\r\nBeispiel: \"Urnenfelderzeit\" , \"15. Jh.\""
   },
   "scopeNote": {
     "de": [
@@ -13,9 +16,9 @@
     "A2FA1B"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
     "prefLabel": {
-      "de": "Konservatorische Bedingungen"
+      "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [

@@ -2,21 +2,14 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konservierungskonzept"
-  },
-  "altLabel": {
-    "de": [
-      "Konservierungs-Restaurierungsplanung",
-      "Konservierungsplanung",
-      "Restaurierungskonzept"
-    ]
+    "de": "Dokumentationsform"
   },
   "definition": {
-    "de": "Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden."
+    "de": "Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\r\r\n\r\r\nBeispiel: \"Zustandsbericht + Fotos\""
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "bedingte Pflicht"
     ]
   },
   "notation": [
@@ -24,29 +17,24 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C6A532",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2",
       "prefLabel": {
-        "de": "Anlass der Maßnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
-      "prefLabel": {
-        "de": "Ziel der Maßnahme"
+        "de": "Verweis"
       }
     }
   ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "prefLabel": {
+      "de": "Zustandserfassung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

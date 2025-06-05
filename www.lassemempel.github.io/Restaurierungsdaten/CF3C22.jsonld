@@ -2,26 +2,25 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsgrund"
+    "de": "Anlass der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Fragestellung",
-      "Grund der Untersuchung"
+      "Grund der Beprobung"
     ]
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "bedingte Pflicht"
     ]
   },
   "notation": [
     "CF3C22"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Untersuchung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

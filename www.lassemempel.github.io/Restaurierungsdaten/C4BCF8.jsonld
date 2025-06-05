@@ -2,23 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Herstellungstechnik"
+    "de": "Untersuchungsgrund"
   },
-  "definition": {
-    "de": "Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. \r\r\n\r\r\nBeispiel: \"Geschmiedet (Hammerspuren)\""
+  "altLabel": {
+    "de": [
+      "Fragestellung",
+      "Grund der Untersuchung"
+    ]
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "C4BCF8"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
     "prefLabel": {
-      "de": "Objektbeschreibung"
+      "de": "Untersuchung"
     }
   },
   "inScheme": [

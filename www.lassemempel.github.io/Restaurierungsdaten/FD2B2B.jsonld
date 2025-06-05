@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Probenbeschreibung"
+    "de": "Monitoring"
   },
   "scopeNote": {
     "de": [
@@ -12,10 +12,36 @@
   "notation": [
     "FD2B2B"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD6617",
+      "prefLabel": {
+        "de": "Datum des Monitoring"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+      "prefLabel": {
+        "de": "Zuständige Person (Monitoring)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
+      "prefLabel": {
+        "de": "Überprüfte Bedingungen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9",
+      "prefLabel": {
+        "de": "Ergebnis des Monitorings"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
     "prefLabel": {
-      "de": "Probeentnahme"
+      "de": "Präventive Konservierung"
     }
   },
   "inScheme": [

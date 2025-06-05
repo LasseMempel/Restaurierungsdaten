@@ -2,10 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zuständige Person (Untersuchung)"
+    "de": "Administrative Metadaten"
   },
   "definition": {
-    "de": "Benennung der Person, die die Untersuchung durchgeführt hat bzw. für diese verantwortlich ist. \r\r\n\r\r\nFür die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"
+    "de": "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"
   },
   "scopeNote": {
     "de": [
@@ -15,18 +15,43 @@
   "notation": [
     "G7F25F"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
-    "prefLabel": {
-      "de": "Untersuchung"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
+      "prefLabel": {
+        "de": "Erstellungsdatum des Berichts"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3",
+      "prefLabel": {
+        "de": "Bearbeiter*in des Berichts"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F",
+      "prefLabel": {
+        "de": "Version"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG",
+      "prefLabel": {
+        "de": "Zugangsrecht"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

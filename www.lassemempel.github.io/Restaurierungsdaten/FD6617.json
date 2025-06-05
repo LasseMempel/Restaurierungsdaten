@@ -2,20 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD6617",
   "type": "Concept",
   "prefLabel": {
-    "de": "UV (konservatorische Bedingungen)"
+    "de": "Datum des Monitoring"
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "empfohlen"
     ]
   },
   "notation": [
     "FD6617"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
     "prefLabel": {
-      "de": "Konservatorische Bedingungen"
+      "de": "Monitoring"
     }
   },
   "inScheme": [

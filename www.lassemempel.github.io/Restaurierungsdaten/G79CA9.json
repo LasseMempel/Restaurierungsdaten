@@ -2,15 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Umgebungsbedingungen"
-  },
-  "definition": {
-    "de": "Aufzeichnung der Bedingungen, unter denen das Objekt bis zum Zeitpunkt der Zustandserfassung gehalten wurde. Insbesondere sofern Auswirkungen der Umgebung auf das Objekt erkannt werden, sollten diese in der Zustandsbeschreibung gemeinsam mit der vermuteten Ursache festgehalten werden."
-  },
-  "note": {
-    "de": [
-      "Begriff und Definition nach DIN EN 16095:2012-10"
-    ]
+    "de": "Ergebnis des Monitorings"
   },
   "scopeNote": {
     "de": [
@@ -21,9 +13,9 @@
     "G79CA9"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
     "prefLabel": {
-      "de": "Zustandsbeschreibung"
+      "de": "Monitoring"
     }
   },
   "inScheme": [

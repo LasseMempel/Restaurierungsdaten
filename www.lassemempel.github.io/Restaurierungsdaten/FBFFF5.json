@@ -2,23 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gefährdungshinweise"
-  },
-  "definition": {
-    "de": "Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)"
+    "de": "LUX (konservatorische Bedingungen)"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "optional"
     ]
   },
   "notation": [
     "FBFFF5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
     "prefLabel": {
-      "de": "Sicherheit & Arbeitsschutz"
+      "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [

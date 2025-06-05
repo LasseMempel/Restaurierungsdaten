@@ -2,48 +2,33 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandserfassung"
+    "de": "Präventive Konservierung"
   },
-  "altLabel": {
+  "scopeNote": {
     "de": [
-      "Zustandserhebung"
+      "empfohlen"
     ]
-  },
-  "definition": {
-    "de": "Oberbegriff für Informationen, die die systematische Erfassung des Zustands eines Objektes zu einem definierten Zeitpunkt dokumentieren."
   },
   "notation": [
     "F52262"
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A4G52F",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
       "prefLabel": {
-        "de": "konservatorische Vorgeschichte"
+        "de": "Allgemeine Umgangsempfehlungen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
       "prefLabel": {
-        "de": "Erfassungszeitpunkt"
+        "de": "Konservatorische Bedingungen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
       "prefLabel": {
-        "de": "Zustandsbeschreibung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
-      "prefLabel": {
-        "de": "Erfassungsdatum"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5",
-      "prefLabel": {
-        "de": "Dokumentationsform"
+        "de": "Monitoring"
       }
     }
   ],

@@ -2,28 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76A78",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schöpfer*in"
-  },
-  "definition": {
-    "de": "Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. \r\r\n\r\r\nBeispiel: \"Leonardo da Vinci\""
-  },
-  "note": {
-    "de": [
-      "Begriff nach DIN EN 16095:2012-10"
-    ]
+    "de": "LUX-Stunden"
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "empfohlen"
     ]
   },
   "notation": [
     "G76A78"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [

@@ -2,10 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
   "type": "Concept",
   "prefLabel": {
-    "de": "Physischer Objektzustand"
+    "de": "Zustandsbeschreibung"
+  },
+  "altLabel": {
+    "de": [
+      "Diagnose"
+    ]
   },
   "definition": {
-    "de": "Beschreibung der physischen Merkmale und Eigenschaften des Objektes wie Vollständigkeit, Stabilität, Festigkeit, Maße, Feuchtigkeitsgehalt, etc."
+    "de": "Oberbegriff für beobachtete, gemessene, geprüfte oder bewertete Informationen, die den Zustand des Objektes zum Zeitpunkt der Erfassung näher beschreiben. Insbesondere Veränderungen des Objektes, die im Vergleich zu einem früheren oder ursprünglichen Zustand bzw. vom zuletzt berichteten Zustand festgestellt werden, müssen dokumentiert werden."
+  },
+  "note": {
+    "de": [
+      "Begriff und Definition nach DIN EN 16095:2012-10 und DIN EN 15898:2020-02"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -15,10 +25,30 @@
   "notation": [
     "BC5B57"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF3639",
+      "prefLabel": {
+        "de": "Umgebungsbedingungen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF6D19",
+      "prefLabel": {
+        "de": "Physischer Objektzustand"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
+      "prefLabel": {
+        "de": "Schadensphänomene"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
     "prefLabel": {
-      "de": "Zustandsbeschreibung"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

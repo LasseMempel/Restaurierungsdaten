@@ -2,7 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
   "type": "Concept",
   "prefLabel": {
-    "de": "LUX-Stunden"
+    "de": "Geräteeinstellungen (Untersuchungsgerät)"
+  },
+  "altLabel": {
+    "de": [
+      "Metadaten",
+      "Parameter"
+    ]
+  },
+  "definition": {
+    "de": "Angaben zu den Einstellungen bzw. Metadaten des Gerätes, welches für die Untersuchung verwendet wurde."
   },
   "scopeNote": {
     "de": [
@@ -13,9 +22,9 @@
     "C9C527"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
     "prefLabel": {
-      "de": "Überprüfte Bedingungen"
+      "de": "Untersuchungsgerät"
     }
   },
   "inScheme": [

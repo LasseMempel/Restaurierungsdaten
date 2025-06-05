@@ -2,23 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
   "type": "Concept",
   "prefLabel": {
-    "de": "Durchführende Einrichtung (Probeentnahme)"
-  },
-  "definition": {
-    "de": "Benennung der Einrichtung, die die Probenentnahme durchgeführt hat. \r\r\n\r\r\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. \r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
+    "de": "Verpackungs- und Transportempfehlungen"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "F72743"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
     "prefLabel": {
-      "de": "Probeentnahme"
+      "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [

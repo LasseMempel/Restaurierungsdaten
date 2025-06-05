@@ -2,28 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kennzeichnungsnummer"
-  },
-  "definition": {
-    "de": "Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.\r\r\n\r\r\nBeispiel: \"O.3649\", \"2025-05-21\""
-  },
-  "note": {
-    "de": [
-      "Begriff nach DIN EN 16095:2012-10"
-    ]
+    "de": "Handlingsempfehlungen"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "F7D3DB"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [

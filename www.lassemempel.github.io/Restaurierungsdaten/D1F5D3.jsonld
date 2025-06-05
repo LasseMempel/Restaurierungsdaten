@@ -2,28 +2,51 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Version"
+    "de": "Konservierungskonzept"
+  },
+  "altLabel": {
+    "de": [
+      "Konservierungs-Restaurierungsplanung",
+      "Konservierungsplanung",
+      "Restaurierungskonzept"
+    ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden."
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "D1F5D3"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1",
-    "prefLabel": {
-      "de": "Administrative Metadaten"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
+      "prefLabel": {
+        "de": "Anlass der Maßnahme"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+      "prefLabel": {
+        "de": "Ziel der Maßnahme"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

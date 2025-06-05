@@ -2,37 +2,68 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geräteeinstellungen (Untersuchungsgerät)"
+    "de": "Durchgeführte Maßnahme"
   },
   "altLabel": {
     "de": [
-      "Metadaten",
-      "Parameter"
-    ]
-  },
-  "definition": {
-    "de": "Angaben zu den Einstellungen bzw. Metadaten des Gerätes, welches für die Untersuchung verwendet wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
+      "Bestandserhaltung",
+      "Konservierung",
+      "Konservierung-Restaurierung",
+      "Restaurierung"
     ]
   },
   "notation": [
     "D6A11G"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D949G6",
-    "prefLabel": {
-      "de": "Untersuchungsgerät"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D78721",
+      "prefLabel": {
+        "de": "Zuständige Restaurierungseinrichtung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D865C3",
+      "prefLabel": {
+        "de": "Maßnahmenkennnummer"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D866AD",
+      "prefLabel": {
+        "de": "Zuständige Person (Durchgeführte Maßnahme)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
+      "prefLabel": {
+        "de": "Beginn der Maßnahme/ Ende der Maßnahme"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D949G6",
+      "prefLabel": {
+        "de": "Zeitaufwand (in Stunden)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
+      "prefLabel": {
+        "de": "Eingriff"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

@@ -2,27 +2,14 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eingriff"
-  },
-  "altLabel": {
-    "de": [
-      "Applikationstechnik",
-      "Behandlung",
-      "Methode",
-      "Vorgehensweise"
-    ]
+    "de": "Objektkennzeichnung"
   },
   "definition": {
-    "de": "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde."
+    "de": "Oberbegriff für eine Reihe von Informationen, die das Objekt kennzeichnen."
   },
   "note": {
     "de": [
-      "Begriff und Definition nach DIN EN 15898:2020-02"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
+      "Begriff nach DIN EN 16095:2012-10"
     ]
   },
   "notation": [
@@ -30,30 +17,65 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A15F83",
       "prefLabel": {
-        "de": "Verwendetes Material"
+        "de": "Objektansprache"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A2AG55",
       "prefLabel": {
-        "de": "Werkzeug"
+        "de": "Kennzeichnungsnummer"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B",
+      "prefLabel": {
+        "de": "Datierung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A4G52F",
+      "prefLabel": {
+        "de": "Herkunft"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A5C668",
+      "prefLabel": {
+        "de": "Eingangsdatum"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA",
+      "prefLabel": {
+        "de": "Ansprechpartner*in"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AA6941",
+      "prefLabel": {
+        "de": "Schöpfer*in"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1",
+      "prefLabel": {
+        "de": "Objektbeziehung"
       }
     }
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
-    "prefLabel": {
-      "de": "Durchgeführte Maßnahme"
-    }
-  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

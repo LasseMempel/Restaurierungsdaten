@@ -2,10 +2,13 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD613",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beginn der Maßnahme/ Ende der Maßnahme"
+    "de": "Kennung der Probe"
   },
-  "definition": {
-    "de": "(Datum)"
+  "altLabel": {
+    "de": [
+      "Name der Probe",
+      "Nummer der Probe"
+    ]
   },
   "scopeNote": {
     "de": [
@@ -16,9 +19,9 @@
     "CDD613"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Durchgeführte Maßnahme"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

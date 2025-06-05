@@ -2,25 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G73958",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsdatum"
-  },
-  "altLabel": {
-    "de": [
-      "Datum der Untersuchung"
-    ]
+    "de": "Klimawerte"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "G73958"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
     "prefLabel": {
-      "de": "Untersuchung"
+      "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [

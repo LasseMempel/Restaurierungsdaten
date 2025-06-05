@@ -2,7 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
   "type": "Concept",
   "prefLabel": {
-    "de": "Präventive Konservierung"
+    "de": "Untersuchungsgerät"
+  },
+  "definition": {
+    "de": "Angaben, welches Gerät für die Untersuchung verwendet wurde."
   },
   "scopeNote": {
     "de": [
@@ -14,35 +17,24 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
       "prefLabel": {
-        "de": "Konservatorische Bedingungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
-      "prefLabel": {
-        "de": "Allgemeine Umgangsempfehlungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
-      "prefLabel": {
-        "de": "Monitoring"
+        "de": "Geräteeinstellungen (Untersuchungsgerät)"
       }
     }
   ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C7C3B7",
+    "prefLabel": {
+      "de": "Untersuchungsverfahren"
+    }
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

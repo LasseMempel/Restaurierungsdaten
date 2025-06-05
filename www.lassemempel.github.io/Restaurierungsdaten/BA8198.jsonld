@@ -2,20 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BA8198",
   "type": "Concept",
   "prefLabel": {
-    "de": "Luftfeuchte (konservatorische Bedingungen)"
+    "de": "Erfassungsdatum"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Erfassung (Zustandserfassung)"
+    ]
+  },
+  "definition": {
+    "de": "Angabe des Datums, an dem die Erfassung des Zustandes durchgeführt wurde."
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "BA8198"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
     "prefLabel": {
-      "de": "Konservatorische Bedingungen"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

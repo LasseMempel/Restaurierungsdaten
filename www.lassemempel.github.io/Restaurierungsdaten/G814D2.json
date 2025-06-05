@@ -2,20 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zeitaufwand (in Stunden)"
+    "de": "Erstellungsdatum des Berichts"
   },
   "scopeNote": {
     "de": [
-      "(optional)"
+      "Pflicht"
     ]
   },
   "notation": [
     "G814D2"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
     "prefLabel": {
-      "de": "Durchgeführte Maßnahme"
+      "de": "Administrative Metadaten"
     }
   },
   "inScheme": [

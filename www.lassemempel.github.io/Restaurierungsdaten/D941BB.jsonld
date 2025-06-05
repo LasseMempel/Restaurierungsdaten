@@ -2,20 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Präsentationsvorgaben"
+    "de": "Beginn der Maßnahme/ Ende der Maßnahme"
+  },
+  "definition": {
+    "de": "(Datum)"
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "D941BB"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
-      "de": "Allgemeine Umgangsempfehlungen"
+      "de": "Durchgeführte Maßnahme"
     }
   },
   "inScheme": [

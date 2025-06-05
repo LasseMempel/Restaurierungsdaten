@@ -2,23 +2,33 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Art der Gefährdung"
+    "de": "Schadensfaktor"
+  },
+  "altLabel": {
+    "de": [
+      "Schadensursache"
+    ]
   },
   "definition": {
-    "de": "(z. B. chemisch, mikrobiologisch, physikalisch)"
+    "de": "Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in wie weit es sich um eine interpretative/subjektive Aussage handelt."
+  },
+  "note": {
+    "de": [
+      "Begriff nach DIN EN 15898:2020-02"
+    ]
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "optional"
     ]
   },
   "notation": [
     "BGGCA4"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
     "prefLabel": {
-      "de": "Sicherheit & Arbeitsschutz"
+      "de": "Schadensphänomene"
     }
   },
   "inScheme": [

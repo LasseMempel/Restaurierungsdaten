@@ -2,28 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verweis"
-  },
-  "altLabel": {
-    "de": [
-      "Kennnummer"
-    ]
-  },
-  "definition": {
-    "de": "Eindeutiger Hinweis, an welchem Ort die Dokumentation(en) zu finden ist/sind. Dies kann zum Beispiel eine URI oder URL zum entsprechenden Datensatz sein oder bei analogen Daten eine Identifikationsnummer oder Angabe zum Standort der Ablage."
+    "de": "Version"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "GDF23F"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
     "prefLabel": {
-      "de": "Dokumentationsform"
+      "de": "Administrative Metadaten"
     }
   },
   "inScheme": [

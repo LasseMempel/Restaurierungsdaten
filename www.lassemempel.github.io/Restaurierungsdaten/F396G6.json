@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ergebnis des Monitorings"
+    "de": "Datum der Sicherheitsbewertung"
   },
   "scopeNote": {
     "de": [
@@ -13,9 +13,9 @@
     "F396G6"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
     "prefLabel": {
-      "de": "Monitoring"
+      "de": "Letzte Sicherheitsbewertung"
     }
   },
   "inScheme": [

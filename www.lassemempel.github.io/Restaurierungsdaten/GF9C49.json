@@ -2,48 +2,27 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
   "type": "Concept",
   "prefLabel": {
-    "de": "Allgemeine Umgangsempfehlungen"
+    "de": "Verwendete Literatur"
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "optional"
     ]
   },
   "notation": [
     "GF9C49"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A",
-      "prefLabel": {
-        "de": "Handlingsempfehlungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
-      "prefLabel": {
-        "de": "Präsentationsvorgaben"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
-      "prefLabel": {
-        "de": "Verpackungs- und Transportempfehlungen"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
-    "prefLabel": {
-      "de": "Präventive Konservierung"
-    }
-  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

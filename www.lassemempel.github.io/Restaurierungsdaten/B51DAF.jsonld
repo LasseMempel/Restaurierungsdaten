@@ -2,80 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektkennzeichnung"
+    "de": "aktuelles Gewicht"
   },
-  "definition": {
-    "de": "Oberbegriff für eine Reihe von Informationen, die das Objekt kennzeichnen."
-  },
-  "note": {
+  "scopeNote": {
     "de": [
-      "Begriff nach DIN EN 16095:2012-10"
+      "optional"
     ]
   },
   "notation": [
     "B51DAF"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A",
-      "prefLabel": {
-        "de": "Objektansprache"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD3341",
-      "prefLabel": {
-        "de": "Herkunft"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2A45F",
-      "prefLabel": {
-        "de": "Eingangsdatum"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1",
-      "prefLabel": {
-        "de": "Ansprechpartner*in"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
-      "prefLabel": {
-        "de": "Kennzeichnungsnummer"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13",
-      "prefLabel": {
-        "de": "Datierung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76A78",
-      "prefLabel": {
-        "de": "Schöpfer*in"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3",
-      "prefLabel": {
-        "de": "Objektbeziehung"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "prefLabel": {
+      "de": "Objektbeschreibung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

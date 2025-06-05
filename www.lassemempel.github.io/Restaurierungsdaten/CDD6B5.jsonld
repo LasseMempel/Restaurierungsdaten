@@ -2,31 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dokumentationsform"
-  },
-  "definition": {
-    "de": "Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\r\r\n\r\r\nBeispiel: \"Zustandsbericht + Fotos\""
+    "de": "Probenbeschreibung"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "CDD6B5"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F",
-      "prefLabel": {
-        "de": "Verweis"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Zustandserfassung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

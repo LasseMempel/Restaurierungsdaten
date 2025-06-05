@@ -2,10 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verwendetes Material"
-  },
-  "definition": {
-    "de": "Benennung des bzw. der Materialien, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden."
+    "de": "Stelle der Probenentnahme"
   },
   "scopeNote": {
     "de": [
@@ -15,30 +12,10 @@
   "notation": [
     "CGC619"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C364G1",
-      "prefLabel": {
-        "de": "Konzentration"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C421BF",
-      "prefLabel": {
-        "de": "Herstellungsdatum"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D865C3",
-      "prefLabel": {
-        "de": "Bezugsquelle"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Eingriff"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

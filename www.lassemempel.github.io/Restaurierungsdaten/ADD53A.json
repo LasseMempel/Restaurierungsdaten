@@ -2,20 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Einschätzung"
+    "de": "Objekttyp"
+  },
+  "definition": {
+    "de": "grundlegende formale Kategorie, in die das Objekt eingeordnet wird. \r\r\n\r\r\nBeispiel: \"Gemälde\" , \"Skulptur\", \"Münze\""
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "ADD53A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
     "prefLabel": {
-      "de": "Letzte Sicherheitsbewertung"
+      "de": "Objektbeschreibung"
     }
   },
   "inScheme": [

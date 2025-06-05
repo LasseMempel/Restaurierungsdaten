@@ -2,34 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Letzte Sicherheitsbewertung"
+    "de": "Zuständige Person (Probeentnahme)"
+  },
+  "definition": {
+    "de": "Benennung der Person, die die Entnahme der Probe durchgeführt hat bzw. für diese verantwortlich ist. \r\r\n\r\r\nFür die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "Pflicht"
     ]
   },
   "notation": [
     "CCCC7G"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
-      "prefLabel": {
-        "de": "Einschätzung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
-      "prefLabel": {
-        "de": "Datum der Sicherheitsbewertung"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Sicherheit & Arbeitsschutz"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

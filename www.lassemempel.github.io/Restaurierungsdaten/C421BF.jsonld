@@ -2,20 +2,25 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C421BF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Herstellungsdatum"
+    "de": "Untersuchungsdatum"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Untersuchung"
+    ]
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "Pflicht"
     ]
   },
   "notation": [
     "C421BF"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
     "prefLabel": {
-      "de": "Verwendetes Material"
+      "de": "Untersuchung"
     }
   },
   "inScheme": [

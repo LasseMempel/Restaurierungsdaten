@@ -2,20 +2,40 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stelle der Probenentnahme"
+    "de": "Allgemeine Umgangsempfehlungen"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "empfohlen"
     ]
   },
   "notation": [
     "F58F6D"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
+      "prefLabel": {
+        "de": "Präsentationsvorgaben"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
+      "prefLabel": {
+        "de": "Verpackungs- und Transportempfehlungen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
+      "prefLabel": {
+        "de": "Handlingsempfehlungen"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
     "prefLabel": {
-      "de": "Probeentnahme"
+      "de": "Präventive Konservierung"
     }
   },
   "inScheme": [

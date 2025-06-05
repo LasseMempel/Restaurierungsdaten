@@ -2,20 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A5C668",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klimawerte"
+    "de": "Eingangsdatum"
+  },
+  "definition": {
+    "de": "Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint."
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "A5C668"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
     "prefLabel": {
-      "de": "Überprüfte Bedingungen"
+      "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [

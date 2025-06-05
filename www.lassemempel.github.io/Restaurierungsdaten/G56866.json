@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G56866",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zugangsrecht"
+    "de": "biologischer Befall"
   },
   "scopeNote": {
     "de": [
@@ -13,9 +13,9 @@
     "G56866"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
     "prefLabel": {
-      "de": "Administrative Metadaten"
+      "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [

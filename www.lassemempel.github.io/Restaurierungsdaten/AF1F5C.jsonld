@@ -2,23 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Maßnahmenkennnummer"
+    "de": "Weitere Objekteigenschaften"
   },
   "definition": {
-    "de": "Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.\r\r\n\r\r\nBeipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc."
+    "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r\n\r\r\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
   },
   "scopeNote": {
     "de": [
-      "Bedingte Pflicht"
+      "optional"
     ]
   },
   "notation": [
     "AF1F5C"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
     "prefLabel": {
-      "de": "Durchgeführte Maßnahme"
+      "de": "Objektbeschreibung"
     }
   },
   "inScheme": [

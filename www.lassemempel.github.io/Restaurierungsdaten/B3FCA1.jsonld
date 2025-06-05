@@ -2,85 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchung"
+    "de": "aktuelle Maße"
   },
   "definition": {
-    "de": "Oberbegriff für Informationen im Kontext der systematischen Begutachtung und Analyse eines Objekte zur Ermittlung von Materialzusammensetzungen, Objektaufbau, Herstellungstechnik, Erhaltungszuständen und/oder weitere Fragestellungen"
-  },
-  "note": {
-    "de": [
-      "Begriff nach DIN EN 15898:2020-02"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
+    "de": "Angaben zu den räumlichen Dimensionen des Objektes, zum letzten Zeitpunkt der Begutachtung. Die Maße des Objektes können sich im Laufe der Zeit verändern (z.B. durch Beschädigung oder die Zusammensetzung eines zerscherbten Objektes)."
   },
   "notation": [
     "B3FCA1"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A15F83",
-      "prefLabel": {
-        "de": "Lokalisation"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
-      "prefLabel": {
-        "de": "Untersuchungsergebnis"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
-      "prefLabel": {
-        "de": "Untersuchungsgrund"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DAB4B7",
-      "prefLabel": {
-        "de": "Untersuchungsverfahren"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
-      "prefLabel": {
-        "de": "Untersuchungsart"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G73958",
-      "prefLabel": {
-        "de": "Untersuchungsdatum"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G",
-      "prefLabel": {
-        "de": "Durchführende Einrichtung (Untersuchung)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
-      "prefLabel": {
-        "de": "Zuständige Person (Untersuchung)"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "prefLabel": {
+      "de": "Objektbeschreibung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

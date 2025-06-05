@@ -2,7 +2,15 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D78721",
   "type": "Concept",
   "prefLabel": {
-    "de": "Erstellungsdatum des Berichts"
+    "de": "Zuständige Restaurierungseinrichtung"
+  },
+  "altLabel": {
+    "de": [
+      "Werkstatt, Labor, Atelier, Restaurierungswerkstatt"
+    ]
+  },
+  "definition": {
+    "de": "Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff \"Einrichtung\" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie \"Werkstatt\", \"Atelier\", \"Labor\", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.\r\r\n\r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.\""
   },
   "scopeNote": {
     "de": [
@@ -13,9 +21,9 @@
     "D78721"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
-      "de": "Administrative Metadaten"
+      "de": "Durchgeführte Maßnahme"
     }
   },
   "inScheme": [

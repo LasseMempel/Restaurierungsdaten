@@ -2,20 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF6D19",
   "type": "Concept",
   "prefLabel": {
-    "de": "biologischer Befall"
+    "de": "Physischer Objektzustand"
+  },
+  "definition": {
+    "de": "Beschreibung der physischen Merkmale und Eigenschaften des Objektes wie Vollständigkeit, Stabilität, Festigkeit, Maße, Feuchtigkeitsgehalt, etc."
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "BF6D19"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
     "prefLabel": {
-      "de": "Überprüfte Bedingungen"
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

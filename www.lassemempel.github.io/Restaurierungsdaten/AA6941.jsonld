@@ -2,44 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AA6941",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensphänomene"
-  },
-  "altLabel": {
-    "de": [
-      "Beschädigung",
-      "Schaden",
-      "Schadensbild"
-    ]
+    "de": "Schöpfer*in"
   },
   "definition": {
-    "de": "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."
+    "de": "Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. \r\r\n\r\r\nBeispiel: \"Leonardo da Vinci\""
+  },
+  "note": {
+    "de": [
+      "Begriff nach DIN EN 16095:2012-10"
+    ]
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "optional"
     ]
   },
   "notation": [
     "AA6941"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
-      "prefLabel": {
-        "de": "Schadensgrad"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
-      "prefLabel": {
-        "de": "Schadensfaktor"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
     "prefLabel": {
-      "de": "Zustandsbeschreibung"
+      "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [

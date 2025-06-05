@@ -2,23 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2A45F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eingangsdatum"
+    "de": "Getroffene Schutzmaßnahmen"
   },
   "definition": {
-    "de": "Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint."
+    "de": "(z. B. PSA, Quarantänebereich)"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "bedingte Pflicht"
     ]
   },
   "notation": [
     "F2A45F"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [

@@ -2,20 +2,20 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FC3322",
   "type": "Concept",
   "prefLabel": {
-    "de": "aktueller Standort"
+    "de": "UV (konservatorische Bedingungen)"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "optional"
     ]
   },
   "notation": [
     "FC3322"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
     "prefLabel": {
-      "de": "Objektbeschreibung"
+      "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [

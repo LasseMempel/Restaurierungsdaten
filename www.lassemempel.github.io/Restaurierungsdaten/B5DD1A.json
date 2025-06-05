@@ -2,15 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektansprache"
-  },
-  "altLabel": {
-    "de": [
-      "Objekttitel"
-    ]
-  },
-  "definition": {
-    "de": "Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel oder aus Objekttyp und beschreibenden Attributen zusammensetzen.\r\r\n\r\r\nBeispiel: \"Mona-Lisa\", \"rotfiguriger Krater\""
+    "de": "aktueller Standort"
   },
   "scopeNote": {
     "de": [
@@ -21,9 +13,9 @@
     "B5DD1A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
     "prefLabel": {
-      "de": "Objektkennzeichnung"
+      "de": "Objektbeschreibung"
     }
   },
   "inScheme": [

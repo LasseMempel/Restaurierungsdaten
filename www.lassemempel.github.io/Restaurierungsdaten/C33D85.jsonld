@@ -2,25 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
   "type": "Concept",
   "prefLabel": {
-    "de": "Anlass der Probenentnahme"
+    "de": "Zuständige Person (Untersuchung)"
   },
-  "altLabel": {
-    "de": [
-      "Grund der Beprobung"
-    ]
+  "definition": {
+    "de": "Benennung der Person, die die Untersuchung durchgeführt hat bzw. für diese verantwortlich ist. \r\r\n\r\r\nFür die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "Pflicht"
     ]
   },
   "notation": [
     "C33D85"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
     "prefLabel": {
-      "de": "Probeentnahme"
+      "de": "Untersuchung"
     }
   },
   "inScheme": [

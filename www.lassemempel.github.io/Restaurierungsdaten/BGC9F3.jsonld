@@ -2,23 +2,44 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Weitere Objekteigenschaften"
+    "de": "Schadensphänomene"
+  },
+  "altLabel": {
+    "de": [
+      "Beschädigung",
+      "Schaden",
+      "Schadensbild"
+    ]
   },
   "definition": {
-    "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r\n\r\r\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
+    "de": "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "Pflicht"
     ]
   },
   "notation": [
     "BGC9F3"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
+      "prefLabel": {
+        "de": "Schadensgrad"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
+      "prefLabel": {
+        "de": "Schadensfaktor"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
     "prefLabel": {
-      "de": "Objektbeschreibung"
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

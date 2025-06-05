@@ -2,85 +2,33 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Probeentnahme"
+    "de": "Datum der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Beprobung"
+      "Datum der Beprobung"
     ]
-  },
-  "definition": {
-    "de": "Oberbegriff für Informationen, die die systematische Entnahme von Materialproben aus einem Objekt für Analyse- und Untersuchungszwecke dokumentieren."
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "Pflicht"
     ]
   },
   "notation": [
     "CD5C3F"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
-      "prefLabel": {
-        "de": "Anlass der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
-      "prefLabel": {
-        "de": "Zuständige Person (Probeentnahme)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
-      "prefLabel": {
-        "de": "Kennung der Probe"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
-      "prefLabel": {
-        "de": "Datum der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
-      "prefLabel": {
-        "de": "Entnahmemethode"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
-      "prefLabel": {
-        "de": "Stelle der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
-      "prefLabel": {
-        "de": "Durchführende Einrichtung (Probeentnahme)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
-      "prefLabel": {
-        "de": "Probenbeschreibung"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
+    "prefLabel": {
+      "de": "Probeentnahme"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

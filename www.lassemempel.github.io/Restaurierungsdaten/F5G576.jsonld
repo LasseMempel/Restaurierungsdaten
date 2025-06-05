@@ -2,7 +2,7 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum des Monitoring"
+    "de": "Präsentationsvorgaben"
   },
   "scopeNote": {
     "de": [
@@ -13,9 +13,9 @@
     "F5G576"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
     "prefLabel": {
-      "de": "Monitoring"
+      "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [

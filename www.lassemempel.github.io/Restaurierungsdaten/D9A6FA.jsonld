@@ -2,12 +2,22 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Entnahmemethode"
+    "de": "Eingriff"
   },
   "altLabel": {
     "de": [
-      "Beprobungsmethode",
-      "Entnahmeverfahren"
+      "Applikationstechnik",
+      "Behandlung",
+      "Methode",
+      "Vorgehensweise"
+    ]
+  },
+  "definition": {
+    "de": "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde."
+  },
+  "note": {
+    "de": [
+      "Begriff und Definition nach DIN EN 15898:2020-02"
     ]
   },
   "scopeNote": {
@@ -18,10 +28,24 @@
   "notation": [
     "D9A6FA"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+      "prefLabel": {
+        "de": "Verwendetes Material"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DF7759",
+      "prefLabel": {
+        "de": "Werkzeug"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
-      "de": "Probeentnahme"
+      "de": "Durchgeführte Maßnahme"
     }
   },
   "inScheme": [

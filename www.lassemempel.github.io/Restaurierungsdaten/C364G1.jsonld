@@ -2,25 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C364G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konzentration"
+    "de": "Durchführende Einrichtung (Untersuchung)"
   },
-  "altLabel": {
-    "de": [
-      "Mischungsverhältnis"
-    ]
+  "definition": {
+    "de": "Benennung der Einrichtung, die die Untersuchung durchgeführt hat. \r\r\n\r\r\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.\r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
   },
   "scopeNote": {
     "de": [
-      "optional"
+      "empfohlen"
     ]
   },
   "notation": [
     "C364G1"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
     "prefLabel": {
-      "de": "Verwendetes Material"
+      "de": "Untersuchung"
     }
   },
   "inScheme": [

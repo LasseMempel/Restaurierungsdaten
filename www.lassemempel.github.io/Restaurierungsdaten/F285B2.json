@@ -2,20 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F285B2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bearbeiter*in des Berichts"
+    "de": "Art der Gefährdung"
+  },
+  "definition": {
+    "de": "(z. B. chemisch, mikrobiologisch, physikalisch)"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "bedingte Pflicht"
     ]
   },
   "notation": [
     "F285B2"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31",
     "prefLabel": {
-      "de": "Administrative Metadaten"
+      "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [
