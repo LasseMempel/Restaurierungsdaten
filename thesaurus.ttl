@@ -3,18 +3,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> a skos:Concept ;
-    skos:altLabel "Kennung der Untersuchung"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:notation "C3A182" ;
-    skos:prefLabel "Untersuchungskennung"@de ;
-    skos:scopeNote "bedingte Pflicht"@de .
-
 <https://www.lassemempel.github.io/Restaurierungsdaten//A15F83> a skos:Concept ;
     skos:altLabel "Objekttitel"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel oder aus Objekttyp und beschreibenden Attributen zusammensetzen.\r\r
-\r\r
+    skos:definition """Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel oder aus Objekttyp und beschreibenden Attributen zusammensetzen.
+
 Beispiel: "Mona-Lisa", "rotfiguriger Krater\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "A15F83" ;
@@ -23,8 +16,8 @@ Beispiel: "Mona-Lisa", "rotfiguriger Krater\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//A2AG55> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.\r\r
-\r\r
+    skos:definition """Nummer, die das Objekt eindeutig identifiziert. Dies sollte im Idealfall eine Inventarnummer sein, aber auch andere Arten von eindeutigen Identifikationsnummern sind möglich.
+
 Beispiel: "O.3649", "2025-05-21\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "A2AG55" ;
@@ -34,8 +27,8 @@ Beispiel: "O.3649", "2025-05-21\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """zeitliche Einordnung des Objektes.\r\r
-\r\r
+    skos:definition """zeitliche Einordnung des Objektes.
+
 Beispiel: "Urnenfelderzeit" , "15. Jh.\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "A2FA1B" ;
@@ -47,8 +40,8 @@ Beispiel: "Urnenfelderzeit" , "15. Jh.\""""@de ;
         "Herstellungsort"@de,
         "kulturelle Verortung"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """Sammelbegriff für Angaben zur räumlichen oder kulturellen Verortung eines Objektes, die dessen Entstehungs- oder Auffindungskontext beschreiben. Soll als Einordnung von Objekten in ihren historischen, geografischen und kulturellen Zusammhang dienen. Die Angaben können dabei exakte Ortsangaben als auch größere geografische oder kulturelle Räume sein, je nach Überliefungslage bzw. Erkenntnisstand. \r\r
-\r\r
+    skos:definition """Sammelbegriff für Angaben zur räumlichen oder kulturellen Verortung eines Objektes, die dessen Entstehungs- oder Auffindungskontext beschreiben. Soll als Einordnung von Objekten in ihren historischen, geografischen und kulturellen Zusammhang dienen. Die Angaben können dabei exakte Ortsangaben als auch größere geografische oder kulturelle Räume sein, je nach Überliefungslage bzw. Erkenntnisstand. 
+
 Beispiel: "Fundort: Italien - Numana - Grab 34", "kultureller Kontext: Renaissance\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "A4G52F" ;
@@ -74,8 +67,8 @@ Beispiel: "Fundort: Italien - Numana - Grab 34", "kultureller Kontext: Renaissan
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//AA6941> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. \r\r
-\r\r
+    skos:definition """Angaben zur Person, die das Objekt hergestellt hat - sofern bekannt. 
+
 Beispiel: "Leonardo da Vinci\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "AA6941" ;
@@ -85,8 +78,8 @@ Beispiel: "Leonardo da Vinci\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//AC16G1> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1> ;
-    skos:definition """Sofern das Objekt Teil eines Ensemble, einer definierten Sammlung ist oder anderweitig besondere Beziehungen zu anderen Objekten aufweist, sollten diese erfasst werden. \r\r
-\r\r
+    skos:definition """Sofern das Objekt Teil eines Ensemble, einer definierten Sammlung ist oder anderweitig besondere Beziehungen zu anderen Objekten aufweist, sollten diese erfasst werden. 
+
 Beispiel: "Teil der Sammlung Becker\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "AC16G1" ;
@@ -95,8 +88,8 @@ Beispiel: "Teil der Sammlung Becker\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
-    skos:definition """grundlegende formale Kategorie, in die das Objekt eingeordnet wird. \r\r
-\r\r
+    skos:definition """grundlegende formale Kategorie, in die das Objekt eingeordnet wird. 
+
 Beispiel: "Gemälde" , "Skulptur", "Münze\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "ADD53A" ;
@@ -105,8 +98,8 @@ Beispiel: "Gemälde" , "Skulptur", "Münze\""""@de ;
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
-    skos:definition """Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r
-\r\r
+    skos:definition """Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. 
+
 Beispiel: Farbe, Form, Besonderheit beim Aussehen"""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "AF1F5C" ;
@@ -116,10 +109,10 @@ Beispiel: Farbe, Form, Besonderheit beim Aussehen"""@de ;
 <https://www.lassemempel.github.io/Restaurierungsdaten//AFD671> a skos:Concept ;
     skos:altLabel "Objektwerkstoff"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
-    skos:definition """Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r
-\r\r
-Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r
-\r\r
+    skos:definition """Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. 
+
+Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. 
+
 Beispiel: "Bronze (Ergebnis RFA)", "Buntmetall (Ergebnis visuelle Begutachtung) \""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "AFD671" ;
@@ -128,10 +121,10 @@ Beispiel: "Bronze (Ergebnis RFA)", "Buntmetall (Ergebnis visuelle Begutachtung) 
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> ;
-    skos:definition """Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. \r\r
-\r\r
-Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. \r\r
-\r\r
+    skos:definition """Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. 
+
+Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. 
+
 Beispiel: "Geschmiedet (Hammerspuren)\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "B14C4A" ;
@@ -162,8 +155,8 @@ Beispiel: "Geschmiedet (Hammerspuren)\""""@de ;
 <https://www.lassemempel.github.io/Restaurierungsdaten//B9835A> a skos:Concept ;
     skos:altLabel "Zeitpunkt der Erfassung"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6> ;
-    skos:definition """Angaben ob es sich bei dem erfassten Zustand um den Zeitpunkt vor, nach oder zwischen einem konservatorisch-restauratorischen Eingriff handelt oder der Zustand beispielsweise im Zuge eines Monitorings, ohne anschließendem Eingriff, erfasst wurde. \r\r
-\r\r
+    skos:definition """Angaben ob es sich bei dem erfassten Zustand um den Zeitpunkt vor, nach oder zwischen einem konservatorisch-restauratorischen Eingriff handelt oder der Zustand beispielsweise im Zuge eines Monitorings, ohne anschließendem Eingriff, erfasst wurde. 
+
 Der Zustand vor und nach einem Eingriff sollte dabei verpflichtend erfasst werden. Weitere Zustandserfassungen sind bei Bedarf möglich."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "B9835A" ;
@@ -208,10 +201,10 @@ Der Zustand vor und nach einem Eingriff sollte dabei verpflichtend erfasst werde
 <https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6> a skos:Concept ;
     skos:altLabel "Grad des Schadensphänomens"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3> ;
-    skos:definition """Bewertungsskala zur Quantifizierung des Ausmaßes der Beschädigung eines Objektes.\r\r
-\r\r
-Idealerweise sollte auch eine kurze Erklärung zur Bewertungsskala erfasst werden, da diese unter Umständen relativ subjektiv ausfallen kann. \r\r
-\r\r
+    skos:definition """Bewertungsskala zur Quantifizierung des Ausmaßes der Beschädigung eines Objektes.
+
+Idealerweise sollte auch eine kurze Erklärung zur Bewertungsskala erfasst werden, da diese unter Umständen relativ subjektiv ausfallen kann. 
+
 z.B. "mittel", "gering", "stark\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "BGG5A6" ;
@@ -221,8 +214,8 @@ z.B. "mittel", "gering", "stark\""""@de ;
 <https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4> a skos:Concept ;
     skos:altLabel "Schadensursache"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3> ;
-    skos:definition """Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. \r\r
-\r\r
+    skos:definition """Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. 
+
 Idealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in wie weit es sich um eine interpretative/subjektive Aussage handelt."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "BGGCA4" ;
@@ -241,8 +234,8 @@ Idealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
-    skos:definition """Benennung der Person, die die Untersuchung durchgeführt hat bzw. für diese verantwortlich ist. \r\r
-\r\r
+    skos:definition """Benennung der Person, die die Untersuchung durchgeführt hat bzw. für diese verantwortlich ist. 
+
 Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "C33D85" ;
@@ -251,14 +244,22 @@ Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohle
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C364G1> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
-    skos:definition """Benennung der Einrichtung, die die Untersuchung durchgeführt hat. \r\r
-\r\r
-Besonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.\r\r
+    skos:definition """Benennung der Einrichtung, die die Untersuchung durchgeführt hat. 
+
+Besonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "C364G1" ;
     skos:prefLabel "Durchführende Einrichtung (Untersuchung)"@de ;
     skos:scopeNote "empfohlen"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//C3A182> a skos:Concept ;
+    skos:altLabel "Kennung der Untersuchung"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:notation "C3A182" ;
+    skos:prefLabel "Untersuchungskennung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//C421BF> a skos:Concept ;
     skos:altLabel "Datum der Untersuchung"@de ;
@@ -324,8 +325,8 @@ In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige P
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747> ;
-    skos:definition """Benennung der Person, die die Entnahme der Probe durchgeführt hat bzw. für diese verantwortlich ist. \r\r
-\r\r
+    skos:definition """Benennung der Person, die die Entnahme der Probe durchgeführt hat bzw. für diese verantwortlich ist. 
+
 Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "CCCC7G" ;
@@ -334,9 +335,9 @@ Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohle
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//CD3341> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747> ;
-    skos:definition """Benennung der Einrichtung, die die Probenentnahme durchgeführt hat. \r\r
-\r\r
-Besonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. \r\r
+    skos:definition """Benennung der Einrichtung, die die Probenentnahme durchgeführt hat. 
+
+Besonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. 
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "CD3341" ;
@@ -408,8 +409,8 @@ In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige P
 <https://www.lassemempel.github.io/Restaurierungsdaten//D78721> a skos:Concept ;
     skos:altLabel "Werkstatt, Labor, Atelier, Restaurierungswerkstatt"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> ;
-    skos:definition """Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff "Einrichtung" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie "Werkstatt", "Atelier", "Labor", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.\r\r
-\r\r
+    skos:definition """Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff "Einrichtung" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie "Werkstatt", "Atelier", "Labor", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.
+
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D78721" ;
@@ -418,8 +419,8 @@ In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige P
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D865C3> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> ;
-    skos:definition """Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.\r\r
-\r\r
+    skos:definition """Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.
+
 Beipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D865C3" ;
@@ -430,9 +431,9 @@ Beipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc."""@de ;
     skos:altLabel "Konservator*in"@de,
         "Restaurator*in"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> ;
-    skos:definition """Benennung der Person, die die jeweilige Maßnahme durchgeführt hat bzw. für diese verantwortlich ist. \r\r
-\r\r
-Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. \r\r
+    skos:definition """Benennung der Person, die die jeweilige Maßnahme durchgeführt hat bzw. für diese verantwortlich ist. 
+
+Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. 
 Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann! \""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:notation "D866AD" ;
@@ -659,8 +660,8 @@ Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außer
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//BAA258> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6> ;
-    skos:definition """Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\r\r
-\r\r
+    skos:definition """Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.
+
 Beispiel: "Zustandsbericht + Fotos\""""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2> ;
@@ -682,8 +683,8 @@ Beispiel: "Zustandsbericht + Fotos\""""@de ;
         "Schaden"@de,
         "Schadensbild"@de ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57> ;
-    skos:definition """Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r
-\r\r
+    skos:definition """Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. 
+
 Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."""@de ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6>,
@@ -704,19 +705,6 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:notation "C7C3B7" ;
     skos:prefLabel "Untersuchungsverfahren"@de ;
     skos:scopeNote "Pflicht"@de .
-
-<https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3> a skos:Concept ;
-    skos:altLabel "Konservierungs-Restaurierungsplanung"@de,
-        "Konservierungsplanung"@de,
-        "Restaurierungskonzept"@de ;
-    skos:definition "Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden."@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D> ;
-    skos:notation "D1F5D3" ;
-    skos:prefLabel "Konservierungskonzept"@de ;
-    skos:scopeNote "Pflicht"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA> a skos:Concept ;
     skos:altLabel "Applikationstechnik"@de,
@@ -754,6 +742,20 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:note "Begriff und Definition nach DIN EN 16095:2012-10 und DIN EN 15898:2020-02"@de ;
     skos:prefLabel "Zustandsbeschreibung"@de ;
     skos:scopeNote "Pflicht"@de .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3> a skos:Concept ;
+    skos:altLabel "Konservierungs-Restaurierungsplanung"@de,
+        "Konservierungsplanung"@de,
+        "Restaurierungskonzept"@de ;
+    skos:definition "Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden."@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G> ;
+    skos:notation "D1F5D3" ;
+    skos:prefLabel "Konservierungskonzept"@de ;
+    skos:scopeNote "Pflicht"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73> a skos:Concept ;
     skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA> ;
@@ -860,6 +862,7 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
         "Konservierung"@de,
         "Konservierung-Restaurierung"@de,
         "Restaurierung"@de ;
+    skos:broader <https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3> ;
     skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
     skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//D78721>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//D865C3>,
@@ -868,8 +871,7 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
         <https://www.lassemempel.github.io/Restaurierungsdaten//D949G6>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA> ;
     skos:notation "D6A11G" ;
-    skos:prefLabel "Durchgeführte Maßnahme"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+    skos:prefLabel "Durchgeführte Maßnahme"@de .
 
 <https://www.lassemempel.github.io/Restaurierungsdaten//AC1786> a skos:Concept ;
     skos:definition "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"@de ;
@@ -902,23 +904,6 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
     skos:prefLabel "Objektkennzeichnung"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
-<https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> a skos:Concept ;
-    skos:definition "Oberbegriff für Informationen im Kontext der systematischen Begutachtung und Analyse eines Objekte zur Ermittlung von Materialzusammensetzungen, Objektaufbau, Herstellungstechnik, Erhaltungszuständen und/oder weitere Fragestellungen"@de ;
-    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
-    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C364G1>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C421BF>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C6A532>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C79561>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//C7C3B7>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5> ;
-    skos:notation "C2488A" ;
-    skos:note "Begriff nach DIN EN 15898:2020-02"@de ;
-    skos:prefLabel "Untersuchung"@de ;
-    skos:scopeNote "bedingte Pflicht"@de ;
-    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
-
 <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747> a skos:Concept ;
     skos:altLabel "Beprobung"@de ;
     skos:definition "Oberbegriff für Informationen, die die systematische Entnahme von Materialproben aus einem Objekt für Analyse- und Untersuchungszwecke dokumentieren."@de ;
@@ -933,6 +918,24 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
         <https://www.lassemempel.github.io/Restaurierungsdaten//D1CFD5> ;
     skos:notation "CB7747" ;
     skos:prefLabel "Probeentnahme"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
+    skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
+
+<https://www.lassemempel.github.io/Restaurierungsdaten//C2488A> a skos:Concept ;
+    skos:definition "Oberbegriff für Informationen im Kontext der systematischen Begutachtung und Analyse eines Objekte zur Ermittlung von Materialzusammensetzungen, Objektaufbau, Herstellungstechnik, Erhaltungszuständen und/oder weitere Fragestellungen"@de ;
+    skos:inScheme <https://www.lassemempel.github.io/Restaurierungsdaten/> ;
+    skos:narrower <https://www.lassemempel.github.io/Restaurierungsdaten//C33D85>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C364G1>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C3A182>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C421BF>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C6A532>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C79561>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//C7C3B7>,
+        <https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5> ;
+    skos:notation "C2488A" ;
+    skos:note "Begriff nach DIN EN 15898:2020-02"@de ;
+    skos:prefLabel "Untersuchung"@de ;
     skos:scopeNote "bedingte Pflicht"@de ;
     skos:topConceptOf <https://www.lassemempel.github.io/Restaurierungsdaten/> .
 
@@ -952,7 +955,6 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, in
         <https://www.lassemempel.github.io/Restaurierungsdaten//C2488A>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//CB7747>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3>,
-        <https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//F52262>,
         <https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F>,
