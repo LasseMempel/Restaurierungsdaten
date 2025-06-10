@@ -17,6 +17,12 @@
   "notation": [
     "C3A182"
   ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
+    "prefLabel": {
+      "de": "Untersuchung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"

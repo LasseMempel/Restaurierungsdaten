@@ -34,6 +34,12 @@
       }
     },
     {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C3A182",
+      "prefLabel": {
+        "de": "Untersuchungskennung"
+      }
+    },
+    {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C421BF",
       "prefLabel": {
         "de": "Untersuchungsdatum"

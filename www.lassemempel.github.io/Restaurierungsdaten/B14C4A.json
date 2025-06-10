@@ -5,7 +5,7 @@
     "de": "Herstellungstechnik"
   },
   "definition": {
-    "de": "Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. \r\r\n\r\r\nBeispiel: \"Geschmiedet (Hammerspuren)\""
+    "de": "Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. \n\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. \n\nBeispiel: \"Geschmiedet (Hammerspuren)\""
   },
   "scopeNote": {
     "de": [

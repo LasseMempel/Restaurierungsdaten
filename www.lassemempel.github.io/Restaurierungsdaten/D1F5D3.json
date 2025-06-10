@@ -34,6 +34,12 @@
       "prefLabel": {
         "de": "Ziel der Maßnahme"
       }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
+      "prefLabel": {
+        "de": "Durchgeführte Maßnahme"
+      }
     }
   ],
   "inScheme": [

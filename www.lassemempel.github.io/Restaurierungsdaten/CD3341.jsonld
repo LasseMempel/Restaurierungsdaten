@@ -5,7 +5,7 @@
     "de": "Durchführende Einrichtung (Probeentnahme)"
   },
   "definition": {
-    "de": "Benennung der Einrichtung, die die Probenentnahme durchgeführt hat. \r\r\n\r\r\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. \r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
+    "de": "Benennung der Einrichtung, die die Probenentnahme durchgeführt hat. \n\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. \nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
   },
   "scopeNote": {
     "de": [

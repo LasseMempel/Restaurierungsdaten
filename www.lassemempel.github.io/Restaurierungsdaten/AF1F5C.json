@@ -5,7 +5,7 @@
     "de": "Weitere Objekteigenschaften"
   },
   "definition": {
-    "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r\n\r\r\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
+    "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \n\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
   },
   "scopeNote": {
     "de": [
