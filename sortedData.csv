@@ -39,8 +39,8 @@ Idealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.
 
 Beispiel: ""Geschmiedet (Hammerspuren)""",AC1786,,empfohlen,thesaurus,x
 B3FCA1,aktuelle Maße,,"Angaben zu den räumlichen Dimensionen des Objektes, zum letzten Zeitpunkt der Begutachtung. Die Maße des Objektes können sich im Laufe der Zeit verändern (z.B. durch Beschädigung oder die Zusammensetzung eines zerscherbten Objektes).",AC1786,,,string,
-B51DAF,aktuelles Gewicht,,,AC1786,,optional,string,
-B5DD1A,aktueller Standort,,,AC1786,,Pflicht,string,
+B51DAF,aktuelles Gewicht,,Angaben zum Gewicht des Objekts zum letzten Zeitpunkt der Objektuntersuchung,AC1786,,optional,string,
+B5DD1A,aktueller Standort,,Angaben zum letzten bekannten Standort des Objekts.,AC1786,,Pflicht,string,
 ,,,,,,,,
 B7B8B6,Zustandserfassung,Zustandserhebung,"Oberbegriff für Informationen, die die systematische Erfassung des Zustands eines Objektes zu einem definierten Zeitpunkt dokumentieren.",top,,,,x
 B9835A,Erfassungszeitpunkt,Zeitpunkt der Erfassung,"Angaben ob es sich bei dem erfassten Zustand um den Zeitpunkt vor, nach oder zwischen einem konservatorisch-restauratorischen Eingriff handelt oder der Zustand beispielsweise im Zuge eines Monitorings, ohne anschließendem Eingriff, erfasst wurde. 
@@ -75,9 +75,11 @@ C364G1,Durchführende Einrichtung (Untersuchung),,"Benennung der Einrichtung, di
 
 Besonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.",C2488A,,empfohlen,string,
-C3A182,Untersuchungskennung,Kennung der Untersuchung,,C2488A,,bedingte Pflicht,string,
-C421BF,Untersuchungsdatum,Datum der Untersuchung,,C2488A,,Pflicht,date,
-C4BCF8,Untersuchungsgrund,Grund der Untersuchung| Fragestellung,,C2488A,,Pflicht,string,
+C3A182,Untersuchungskennung,Kennung der Untersuchung,"Bezeichnung oder Nummer, mit der die jeweilige Untersuchung eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Untersuchung sich die Angaben beziehen. 
+
+Beispiel: 2025-05-13_RFA_1 oder XY_24601",C2488A,,bedingte Pflicht,string,
+C421BF,Untersuchungsdatum,Datum der Untersuchung,"Datum, an dem die jeweilige Untersuchung durchgeführt wurde.",C2488A,,Pflicht,date,
+C4BCF8,Untersuchungsanlass,Grund der Untersuchung| Fragestellung| Untersuchungsgrund,"Hintergrundinformationen, warum diese Untersuchung durchgeführt wurde. Angabe der Fragestellung, die mit der Untersuchung bearbeitet werden soll.",C2488A,,Pflicht,string,
 C6A532,Untersuchungsart,Art der Untersuchung,"Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt.",C2488A,,optionale,thesaurus,
 C79561,Lokalisation,Untersuchungsstelle,"Angabe, an welcher Stelle auf dem Objekt die Untersuchung durchgeführt wurde. Nur bei Untersuchungen direkt auf dem Originalenobjekt nötig, entfällt bei Untersuchungen von Proben",C2488A,,bedingte Pflicht,string,
 C7C3B7,Untersuchungsverfahren,Untersuchungsmethode| Untersuchungstechnik| praktische Vorgehensweise,"Angabe, auf welche Art und Weise die Untersuchung durchgeführt wurde.",C2488A,,Pflicht,thesaurus,
@@ -94,43 +96,62 @@ CD3341,Durchführende Einrichtung (Probeentnahme),,"Benennung der Einrichtung, d
 
 Besonders wenn dies von einer externen Einrichtung durchgeführt wird, sollte die Erfassung verpflichtend angesehen werden. 
 In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.",CB7747,,bedingte Pflicht,string,
-CD5C3F,Datum der Probenentnahme,Datum der Beprobung,,CB7747,,Pflicht,date,
-CDD613,Kennung der Probe,Name der Probe| Nummer der Probe,,CB7747,,Pflicht,string,
-CDD6B5,Probenbeschreibung,,,CB7747,,empfohlen,string,
-CF3C22,Anlass der Probenentnahme,Grund der Beprobung,,CB7747,,bedingte Pflicht,string,
-CGC619,Stelle der Probenentnahme,,,CB7747,,Pflicht,string,
-D1CFD5,Entnahmemethode,Beprobungsmethode| Entnahmeverfahren,,CB7747,,Pflicht,string,
+CD5C3F,Datum der Probenentnahme,Datum der Beprobung,"Datum, an dem die Probe aus dem Objekt entnommen wurde.",CB7747,,Pflicht,date,
+CDD613,Kennung der Probe,Name der Probe| Nummer der Probe,"Bezeichnung oder Nummer, mit der die jeweilige Probe eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Probe sich die Angaben beziehen. 
+
+Beispiel: Metall-Probe_24601",CB7747,,Pflicht,string,
+CDD6B5,Probenbeschreibung,,"Kurze Definition der wichtigsten Eigenschaften und Beschaffenheit der Probe. Möglichkeit, weitere Hintergrundinformationen zur Probe bzw. dem Befund, aus dem die Probe entstammt, zu erfassen.
+
+Beispiel: ""Erdreste mit roten Verfärbungen"" , ""Textilfasern von rechter Skelettrippe""",CB7747,,empfohlen,string,
+CDF685,Anlass der Probenentnahme,Grund der Beprobung,"Hintergrundinformationen, warum die Probe entnommen wurde. Angabe zur Fragestellung, die mit der Probennahme bearbeitet werden soll, oder der geplanten Untersuchungsart.
+
+Beispiel: Materialbestimmung, Altersdatierung",CB7747,,bedingte Pflicht,string,
+CF3C22,Stelle der Probenentnahme,Lokalisation der Probenentnahme,"Angabe, an welcher Stelle des Objekts die Probe entnommen wurde. Möglichst genaue Beschreibung des Probenortes zur späteren Zuordnung.
+
+Beispiele: Vorderseite, linker unterer Rand, Bruchkante der Scherbe, Sockelinnenseite",CB7747,,Pflicht,string,
+CGC619,Entnahmemethode,Beprobungsmethode| Entnahmeverfahren,"Beschreibung, mit welcher Methode die Probe entnommen wurde. Angaben zur Vorgehensweise und zum eingesetzten Werkzeug.
+
+Beispiel: Skalpellentnahme, Bohrkernentnahme, Abstrich mit Wattestäbchen",CB7747,,Pflicht,string,
 ,,,,,,,,
-D1F5D3,Konservierungskonzept,Restaurierungskonzept| Konservierungsplanung| Konservierungs-Restaurierungsplanung,"Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden.",top,,Pflicht,,
-D3AF3A,Anlass der Maßnahme,,,D1F5D3,,empfohlen,string,
-D4A13D,Ziel der Maßnahme,,,D1F5D3,,Pflicht,string,
-D6A11G,Durchgeführte Maßnahme,Konservierung| Restaurierung| Konservierung-Restaurierung| Bestandserhaltung,,D1F5D3,,,,x
-D78721,Zuständige Restaurierungseinrichtung,"Werkstatt, Labor, Atelier, Restaurierungswerkstatt","Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff ""Einrichtung"" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie ""Werkstatt"", ""Atelier"", ""Labor"", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.
+D1CFD5,Konservierungskonzept,Restaurierungskonzept| Konservierungsplanung| Konservierungs-Restaurierungsplanung,"Oberbegriff für Informationen, die im Vorfeld des Eingriffs zur Entscheidung und Koordination der durchgeführte(n) Maßnahmen(n) erfasst werden.",top,,Pflicht,,
+D1F5D3,Anlass der Maßnahme,,"Hintergrundinformationen, aus welchem Grund das Objekt konservatorisch-restauratorisch behandelt werden soll. I.d.R. beziehen sich diese Angaben darauf, was im Anschluss mit dem Objekt geschehen soll oder zuvor bereits geschehen ist. 
 
-In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.""",D6A11G,,Pflicht,string,
-D865C3,Maßnahmenkennnummer,,"Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.
+Beispiel: Ausstellungsvorbereitung, Rückkehr aus Leihverkehr",D1CFD5,,empfohlen,string,
+D3AF3A,konservatorische Zielsetzung,Konservierungsziel| konservatorische Zielsetzung| Erhaltungsziel,"Beschreibung der angestrebten Ergebnisse, die mit der durchgeführten Maßnahme erreicht werden sollen.
 
-Beipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc.",D6A11G,,Bedingte Pflicht,string,
-D866AD,Zuständige Person (Durchgeführte Maßnahme),Restaurator*in| Konservator*in,"Benennung der Person, die die jeweilige Maßnahme durchgeführt hat bzw. für diese verantwortlich ist. 
+Beispiel: Sicherung der Malschichten, Volle Rekonstruktion der ursprünglichen Form",D1CFD5,,Pflicht,string,
+D4A13D,Durchgeführte Maßnahme,Konservierung| Restaurierung| Konservierung-Restaurierung| Bestandserhaltung,"Oberbegriff für die Sammlung an Angaben, die zur konkreten Maßnahme erfasst werden.",D1CFD5,,,,x
+D6A11G,Zuständige Restaurierungseinrichtung,"Werkstatt, Labor, Atelier, Restaurierungswerkstatt","Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff ""Einrichtung"" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie ""Werkstatt"", ""Atelier"", ""Labor"", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.
+
+In Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.""",D4A13D,,Pflicht,string,
+D78721,Maßnahmenkennnummer,,"Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.
+
+Beipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc.",D4A13D,,Bedingte Pflicht,string,
+D865C3,Zuständige Person (Durchgeführte Maßnahme),Restaurator*in| Konservator*in,"Benennung der Person, die die jeweilige Maßnahme durchgeführt hat bzw. für diese verantwortlich ist. 
 
 Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. 
-Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann! """,D6A11G,,Pflicht,string,
-D941BB,Beginn der Maßnahme/ Ende der Maßnahme,,(Datum),D6A11G,,Pflicht,daterange,
-D949G6,Zeitaufwand (in Stunden),,,D6A11G,,(optional),integer,
-D9A6FA,Eingriff,Behandlung | Applikationstechnik|Methode| Vorgehensweise,Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung des festgelegten Konservierungsziel behandelt wurde.,D6A11G,Begriff und Definition nach DIN EN 15898:2020-02,Pflicht,thesaurus,x
+Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann! """,D4A13D,,Pflicht,string,
+D866AD,Beginn der Maßnahme,,"kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme begonnen wurde.",D4A13D,,Pflicht,daterange,
+D941BB,Ende der Maßnahme,,"kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme beendet wurde.",D4A13D,,Pflicht,daterange,
+D949G6,Zeitaufwand,,"Summe der tatsächlich am Objekt geleisteten Arbeitsstunden währen der Maßnahme, ohne passive Zeiten wie Trocknungsphasen oder parallele Wartezeiten.",D4A13D,,(optional),integer,
+D9A6FA,Eingriff,Behandlung | Applikationstechnik|Methode| Vorgehensweise,Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung der festgelegten konservatorischen Zielsetzung behandelt wurde.,D4A13D,Begriff und Definition nach DIN EN 15898:2020-02,Pflicht,thesaurus,x
 DA2D73,Verwendetes Material,,"Benennung des bzw. der Materialien, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden.",D9A6FA,,Pflicht,thesaurus,x
-DA9CGG,Bezugsquelle,Hersteller,,DA2D73,,optional,string,
-DAB4B7,Konzentration,Mischungsverhältnis,,DA2D73,,optional,string,
-DBC278,Herstellungsdatum,,,DA2D73,,optional,date,
+DA9CGG,Bezugsquelle,Hersteller,"Angabe des Herstellers, Lieferanten oder der sonstigen Herkunft des verwendeten Materials zur Rückverfolgbarkeit und Qualitätssicherung. Diese Angaben liefern für spätere erneute Objektuntersuchungen und/oder Maßnahmen Hintergrundinformationen zu den Eigenschaften des Materials.",DA2D73,,optional,string,
+DAB4B7,Konzentration,Mischungsverhältnis,Beschreibung der genauen Konzentration oder Zusammensetzung des Materials zur Sicherstellung der Reproduzierbarkeit und Beurteilung der Langzeitwirkung bzw.-stabilität.,DA2D73,,optional,string,
+DBC278,Herstellungsdatum,,Erfassung des Produktions- oder Abfülldatums industrieller Produkte zur Nachvollziehbarkeit von Rezepturänderungen und Qualitätsschwankungen. Dient der Rückverfolgung von Chargen bei ungewöhnlichen Vorkommnissen und ermöglicht das Einholen relevanter Hintergrundinformationen zur Langzeitstabilität,DA2D73,,optional,date,
 DF7759,Werkzeug,Gerät,"Benennung des bzw. der Werkzeuge und Geräte, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden. Diese Angabe empfiehlt sich besonders dann, wenn durch die verwendeten Werkzeuge Spuren auf dem Objekt hinterlassen wurden.",D9A6FA,,empfohlen,thesaurus,x
 ,,,,,,,,
-F1BA31,Sicherheit & Arbeitsschutz,,,top,,bedingte Pflicht,,
-F2244D,Gefährdungshinweise,,"Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)",F1BA31,,Pflicht,string,
-F285B2,Art der Gefährdung,,"(z. B. chemisch, mikrobiologisch, physikalisch)",F1BA31,,bedingte Pflicht,thesaurus,x
-F2A45F,Getroffene Schutzmaßnahmen,,"(z. B. PSA, Quarantänebereich)",F1BA31,,bedingte Pflicht,thesaurus,x
-F2AG55,Letzte Sicherheitsbewertung,,,F1BA31,,optional,,
-F396G6,Datum der Sicherheitsbewertung,,,F2AG55,,empfohlen,date,
-F3G8D1,Einschätzung,,,F2AG55,,empfohlen,string,
+F1BA31,Sicherheit & Arbeitsschutz,,"Übergeordneter Begriff zur Strukturierung aller Angaben, die dem Schutz der Gesundheit, der Unfallverhütung und der Einhaltung sicherheitsrelevanter Vorschriften bei Konservierungs-Restaurierungsarbeiten oder dem Umgang mit den jeweiligen behandelten Objekten dienen.",top,,bedingte Pflicht,,
+F2244D,Gefährdungshinweise,,"Hinweise auf potenzielle Gefahrenquellen und Risiken im Zusammenhang mit dem Objekt oder den bei der konservatorisch-restauratorischen Maßnahme (oder früheren Maßnahmen) verwendeten Materialien.
+
+Beispiel: Schimmelbefall, Schadstoff kontaminiert",F1BA31,,Pflicht,string,
+F285B2,Art der Gefährdung,,"Kategorisierung und Beschreibung der konkreten Gefährdungsart, z. B. chemisch, physikalisch oder biologisch",F1BA31,,bedingte Pflicht,thesaurus,x
+F2A45F,Getroffene Schutzmaßnahmen,,"Dokumentation der bereits umgesetzten und/oder während der Objektbehandlung einzuhaltenden Schutzmaßnahmen zur Minimierung der Gefährdung. Einschließlich persönlicher Schutzausrüstung (PSA), technischer und organisatorischer Maßnahmen.
+
+Beispiele: Tragen von Schutzhandschuhen, Arbeiten unter Abzug/ im Quarantänebereich, Objekt eingeschweißt",F1BA31,,bedingte Pflicht,thesaurus,x
+F2AG55,Letzte Sicherheitsbewertung,,Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit,F1BA31,,optional,,
+F396G6,Datum der Sicherheitsbewertung,,"Erfassung des Datums, an dem die letzte Sicherheitsbewertung durchgeführt wurde.",F2AG55,,empfohlen,date,
+F3G8D1,Einschätzung (Sicherheitsbewertung),,Bewertung des aktuellen Sicherheitsstatus und der verbleibenden Risiken basierend auf der letzten Sicherheitsbewertung.,F2AG55,,empfohlen,string,
 ,,,,,,,,
 F52262,Präventive Konservierung,,,top,,empfohlen,,
 F58F6D,Allgemeine Umgangsempfehlungen,,,F52262,,empfohlen,string,
