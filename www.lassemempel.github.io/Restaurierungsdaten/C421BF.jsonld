@@ -9,6 +9,9 @@
       "Datum der Untersuchung"
     ]
   },
+  "definition": {
+    "de": "Datum, an dem die jeweilige Untersuchung durchgeführt wurde."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

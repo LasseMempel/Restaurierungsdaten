@@ -2,16 +2,19 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
   "type": "Concept",
   "prefLabel": {
-    "de": "Anlass der Probenentnahme"
+    "de": "Stelle der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Grund der Beprobung"
+      "Lokalisation der Probenentnahme"
     ]
+  },
+  "definition": {
+    "de": "Angabe, an welcher Stelle des Objekts die Probe entnommen wurde. Möglichst genaue Beschreibung des Probenortes zur späteren Zuordnung.\r\r\n\r\r\nBeispiele: Vorderseite, linker unterer Rand, Bruchkante der Scherbe, Sockelinnenseite"
   },
   "scopeNote": {
     "de": [
-      "bedingte Pflicht"
+      "Pflicht"
     ]
   },
   "notation": [

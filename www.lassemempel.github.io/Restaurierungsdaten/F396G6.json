@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Datum der Sicherheitsbewertung"
   },
+  "definition": {
+    "de": "Erfassung des Datums, an dem die letzte Sicherheitsbewertung durchgeführt wurde."
+  },
   "scopeNote": {
     "de": [
       "empfohlen"

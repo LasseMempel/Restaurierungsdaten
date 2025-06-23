@@ -2,18 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Anlass der Maßnahme"
+    "de": "konservatorische Zielsetzung"
+  },
+  "altLabel": {
+    "de": [
+      "Erhaltungsziel",
+      "Konservierungsziel",
+      "konservatorische Zielsetzung"
+    ]
+  },
+  "definition": {
+    "de": "Beschreibung der angestrebten Ergebnisse, die mit der durchgeführten Maßnahme erreicht werden sollen.\r\r\n\r\r\nBeispiel: Sicherung der Malschichten, Volle Rekonstruktion der ursprünglichen Form"
   },
   "scopeNote": {
     "de": [
-      "empfohlen"
+      "Pflicht"
     ]
   },
   "notation": [
     "D3AF3A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1CFD5",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }

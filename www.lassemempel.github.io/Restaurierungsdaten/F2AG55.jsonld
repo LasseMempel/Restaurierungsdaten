@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Letzte Sicherheitsbewertung"
   },
+  "definition": {
+    "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
+  },
   "scopeNote": {
     "de": [
       "optional"
@@ -22,7 +25,7 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1",
       "prefLabel": {
-        "de": "Einschätzung"
+        "de": "Einschätzung (Sicherheitsbewertung)"
       }
     }
   ],

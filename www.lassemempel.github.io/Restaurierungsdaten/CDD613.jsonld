@@ -10,6 +10,9 @@
       "Nummer der Probe"
     ]
   },
+  "definition": {
+    "de": "Bezeichnung oder Nummer, mit der die jeweilige Probe eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Probe sich die Angaben beziehen. \r\r\n\r\r\nBeispiel: Metall-Probe_24601"
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

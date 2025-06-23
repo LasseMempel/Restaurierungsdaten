@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "aktueller Standort"
   },
+  "definition": {
+    "de": "Angaben zum letzten bekannten Standort des Objekts."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

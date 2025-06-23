@@ -9,6 +9,9 @@
       "Datum der Beprobung"
     ]
   },
+  "definition": {
+    "de": "Datum, an dem die Probe aus dem Objekt entnommen wurde."
+  },
   "scopeNote": {
     "de": [
       "Pflicht"

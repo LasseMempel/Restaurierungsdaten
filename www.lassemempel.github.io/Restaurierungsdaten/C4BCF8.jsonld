@@ -2,13 +2,17 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsgrund"
+    "de": "Untersuchungsanlass"
   },
   "altLabel": {
     "de": [
       "Fragestellung",
-      "Grund der Untersuchung"
+      "Grund der Untersuchung",
+      "Untersuchungsgrund"
     ]
+  },
+  "definition": {
+    "de": "Hintergrundinformationen, warum diese Untersuchung durchgeführt wurde. Angabe der Fragestellung, die mit der Untersuchung bearbeitet werden soll."
   },
   "scopeNote": {
     "de": [

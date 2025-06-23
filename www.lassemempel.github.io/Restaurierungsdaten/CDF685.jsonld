@@ -1,29 +1,29 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
+  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDF685",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektmaterial"
+    "de": "Anlass der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Objektwerkstoff"
+      "Grund der Beprobung"
     ]
   },
   "definition": {
-    "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
+    "de": "Hintergrundinformationen, warum die Probe entnommen wurde. Angabe zur Fragestellung, die mit der Probennahme bearbeitet werden soll, oder der geplanten Untersuchungsart.\r\r\n\r\r\nBeispiel: Materialbestimmung, Altersdatierung"
   },
   "scopeNote": {
     "de": [
-      "Pflicht"
+      "bedingte Pflicht"
     ]
   },
   "notation": [
-    "AFD671"
+    "CDF685"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
     "prefLabel": {
-      "de": "Objektbeschreibung"
+      "de": "Probeentnahme"
     }
   },
   "inScheme": [

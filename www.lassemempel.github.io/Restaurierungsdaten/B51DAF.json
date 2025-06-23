@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "aktuelles Gewicht"
   },
+  "definition": {
+    "de": "Angaben zum Gewicht des Objekts zum letzten Zeitpunkt der Objektuntersuchung"
+  },
   "scopeNote": {
     "de": [
       "optional"

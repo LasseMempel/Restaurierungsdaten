@@ -9,6 +9,9 @@
       "Mischungsverhältnis"
     ]
   },
+  "definition": {
+    "de": "Beschreibung der genauen Konzentration oder Zusammensetzung des Materials zur Sicherstellung der Reproduzierbarkeit und Beurteilung der Langzeitwirkung bzw.-stabilität."
+  },
   "scopeNote": {
     "de": [
       "optional"

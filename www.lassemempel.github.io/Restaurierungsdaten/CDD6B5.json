@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Probenbeschreibung"
   },
+  "definition": {
+    "de": "Kurze Definition der wichtigsten Eigenschaften und Beschaffenheit der Probe. Möglichkeit, weitere Hintergrundinformationen zur Probe bzw. dem Befund, aus dem die Probe entstammt, zu erfassen.\r\r\n\r\r\nBeispiel: \"Erdreste mit roten Verfärbungen\" , \"Textilfasern von rechter Skelettrippe\""
+  },
   "scopeNote": {
     "de": [
       "empfohlen"
