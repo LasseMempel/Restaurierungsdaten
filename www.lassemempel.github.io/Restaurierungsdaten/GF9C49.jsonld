@@ -2,27 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verwendete Literatur"
+    "de": "Zugangsrecht"
   },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
+  "definition": {
+    "de": "Angaben zum Urheberrecht bzw. der Nutzungsrechte des Berichtes"
   },
   "notation": [
     "GF9C49"
   ],
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
+    "prefLabel": {
+      "de": "Administrative Metadaten"
+    }
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

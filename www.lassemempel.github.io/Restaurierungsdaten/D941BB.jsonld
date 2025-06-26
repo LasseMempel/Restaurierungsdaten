@@ -2,21 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ende der Maßnahme"
+    "de": "Beginn der Maßnahme"
   },
   "definition": {
-    "de": "kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme beendet wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme begonnen wurde."
   },
   "notation": [
     "D941BB"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
       "de": "Durchgeführte Maßnahme"
     }

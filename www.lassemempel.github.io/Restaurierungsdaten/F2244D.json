@@ -2,31 +2,51 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gefährdungshinweise"
+    "de": "Sicherheit & Arbeitsschutz"
   },
   "definition": {
-    "de": "Hinweise auf potenzielle Gefahrenquellen und Risiken im Zusammenhang mit dem Objekt oder den bei der konservatorisch-restauratorischen Maßnahme (oder früheren Maßnahmen) verwendeten Materialien.\r\r\n\r\r\nBeispiel: Schimmelbefall, Schadstoff kontaminiert"
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Übergeordneter Begriff zur Strukturierung aller Angaben, die dem Schutz der Gesundheit, der Unfallverhütung und der Einhaltung sicherheitsrelevanter Vorschriften bei Konservierungs-Restaurierungsarbeiten oder dem Umgang mit den jeweiligen behandelten Objekten dienen."
   },
   "notation": [
     "F2244D"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31",
-    "prefLabel": {
-      "de": "Sicherheit & Arbeitsschutz"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F285B2",
+      "prefLabel": {
+        "de": "Gefährdungshinweise"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2A45F",
+      "prefLabel": {
+        "de": "Art der Gefährdung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
+      "prefLabel": {
+        "de": "Getroffene Schutzmaßnahmen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
+      "prefLabel": {
+        "de": "Letzte Sicherheitsbewertung"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

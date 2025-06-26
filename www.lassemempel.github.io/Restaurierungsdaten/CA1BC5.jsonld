@@ -2,28 +2,24 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsergebnis"
+    "de": "Geräteeinstellungen (Untersuchungsgerät)"
   },
   "altLabel": {
     "de": [
-      "Befund"
+      "Metadaten",
+      "Parameter"
     ]
   },
   "definition": {
-    "de": "Angabe, der bei der Untersuchung festgestellten Beobachtungen und Ergebnisse."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Angaben zu den Einstellungen bzw. Metadaten des Gerätes, welches für die Untersuchung verwendet wurde."
   },
   "notation": [
     "CA1BC5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
     "prefLabel": {
-      "de": "Untersuchung"
+      "de": "Untersuchungsgerät"
     }
   },
   "inScheme": [

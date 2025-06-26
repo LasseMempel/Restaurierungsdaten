@@ -2,35 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
   "type": "Concept",
   "prefLabel": {
-    "de": "Letzte Sicherheitsbewertung"
+    "de": "Getroffene Schutzmaßnahmen"
   },
   "definition": {
-    "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
-  },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
+    "de": "Dokumentation der bereits umgesetzten und/oder während der Objektbehandlung einzuhaltenden Schutzmaßnahmen zur Minimierung der Gefährdung. Einschließlich persönlicher Schutzausrüstung (PSA), technischer und organisatorischer Maßnahmen.\r\r\n\r\r\nBeispiele: Tragen von Schutzhandschuhen, Arbeiten unter Abzug/ im Quarantänebereich, Objekt eingeschweißt"
   },
   "notation": [
     "F2AG55"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
-      "prefLabel": {
-        "de": "Datum der Sicherheitsbewertung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1",
-      "prefLabel": {
-        "de": "Einschätzung (Sicherheitsbewertung)"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F1BA31",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
     "prefLabel": {
       "de": "Sicherheit & Arbeitsschutz"
     }

@@ -2,85 +2,31 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
   "type": "Concept",
   "prefLabel": {
-    "de": "Probeentnahme"
+    "de": "Untersuchungsergebnis"
   },
   "altLabel": {
     "de": [
-      "Beprobung"
+      "Befund"
     ]
   },
   "definition": {
-    "de": "Oberbegriff für Informationen, die die systematische Entnahme von Materialproben aus einem Objekt für Analyse- und Untersuchungszwecke dokumentieren."
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
+    "de": "Angabe, der bei der Untersuchung festgestellten Beobachtungen und Ergebnisse."
   },
   "notation": [
     "CB7747"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
-      "prefLabel": {
-        "de": "Zuständige Person (Probeentnahme)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD3341",
-      "prefLabel": {
-        "de": "Durchführende Einrichtung (Probeentnahme)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD5C3F",
-      "prefLabel": {
-        "de": "Datum der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD613",
-      "prefLabel": {
-        "de": "Kennung der Probe"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5",
-      "prefLabel": {
-        "de": "Probenbeschreibung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDF685",
-      "prefLabel": {
-        "de": "Anlass der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CF3C22",
-      "prefLabel": {
-        "de": "Stelle der Probenentnahme"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
-      "prefLabel": {
-        "de": "Entnahmemethode"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
+    "prefLabel": {
+      "de": "Untersuchung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

@@ -2,29 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dokumentationsform"
+    "de": "Erfassungsdatum"
+  },
+  "altLabel": {
+    "de": [
+      "Datum der Erfassung (Zustandserfassung)"
+    ]
   },
   "definition": {
-    "de": "Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\r\r\n\r\r\nBeispiel: \"Zustandsbericht + Fotos\""
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
+    "de": "Angabe des Datums, an dem die Erfassung des Zustandes durchgeführt wurde."
   },
   "notation": [
     "BAA258"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2",
-      "prefLabel": {
-        "de": "Verweis"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
     "prefLabel": {
       "de": "Zustandserfassung"
     }

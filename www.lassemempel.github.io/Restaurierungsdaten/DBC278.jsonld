@@ -2,21 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DBC278",
   "type": "Concept",
   "prefLabel": {
-    "de": "Herstellungsdatum"
+    "de": "Konzentration"
+  },
+  "altLabel": {
+    "de": [
+      "Mischungsverhältnis"
+    ]
   },
   "definition": {
-    "de": "Erfassung des Produktions- oder Abfülldatums industrieller Produkte zur Nachvollziehbarkeit von Rezepturänderungen und Qualitätsschwankungen. Dient der Rückverfolgung von Chargen bei ungewöhnlichen Vorkommnissen und ermöglicht das Einholen relevanter Hintergrundinformationen zur Langzeitstabilität"
-  },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
+    "de": "Beschreibung der genauen Konzentration oder Zusammensetzung des Materials zur Sicherstellung der Reproduzierbarkeit und Beurteilung der Langzeitwirkung bzw.-stabilität."
   },
   "notation": [
     "DBC278"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
     "prefLabel": {
       "de": "Verwendetes Material"
     }

@@ -2,18 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FC3322",
   "type": "Concept",
   "prefLabel": {
-    "de": "UV (konservatorische Bedingungen)"
+    "de": "Beleuchtungsstärke (konservatorische Bedingungen)"
   },
-  "scopeNote": {
+  "altLabel": {
     "de": [
-      "optional"
+      "LUX (konservatorische Bedingung)"
+    ]
+  },
+  "definition": {
+    "de": "Angabe der maximal zulässigen Beleuchtungsstärke in LUX für die schonende Präsenation zur Minimierung photochemischer und photophysikalischer Schädigungsprozesse bei gleichzeitig Gewährleistung ausreichender Sichtbarkeit für Betrachtung."
+  },
+  "note": {
+    "de": [
+      "F72743"
     ]
   },
   "notation": [
     "FC3322"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }

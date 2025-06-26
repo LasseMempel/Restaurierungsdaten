@@ -2,42 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensphänomene"
-  },
-  "altLabel": {
-    "de": [
-      "Beschädigung",
-      "Schaden",
-      "Schadensbild"
-    ]
+    "de": "Physischer Objektzustand"
   },
   "definition": {
-    "de": "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Beschreibung der physischen Merkmale und Eigenschaften des Objektes wie Vollständigkeit, Stabilität, Festigkeit, Maße, Feuchtigkeitsgehalt, etc."
   },
   "notation": [
     "BGC9F3"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
-      "prefLabel": {
-        "de": "Schadensgrad"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
-      "prefLabel": {
-        "de": "Schadensfaktor"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF3639",
     "prefLabel": {
       "de": "Zustandsbeschreibung"
     }

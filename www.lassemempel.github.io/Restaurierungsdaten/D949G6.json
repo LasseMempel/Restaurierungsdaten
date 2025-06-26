@@ -2,21 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D949G6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zeitaufwand"
+    "de": "Ende der Maßnahme"
   },
   "definition": {
-    "de": "Summe der tatsächlich am Objekt geleisteten Arbeitsstunden währen der Maßnahme, ohne passive Zeiten wie Trocknungsphasen oder parallele Wartezeiten."
-  },
-  "scopeNote": {
-    "de": [
-      "(optional)"
-    ]
+    "de": "kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme beendet wurde."
   },
   "notation": [
     "D949G6"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
       "de": "Durchgeführte Maßnahme"
     }

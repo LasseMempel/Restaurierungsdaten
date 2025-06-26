@@ -2,23 +2,39 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
   "type": "Concept",
   "prefLabel": {
-    "de": "verwendetes Material (Untersuchung)"
+    "de": "Untersuchungsverfahren"
+  },
+  "altLabel": {
+    "de": [
+      "Untersuchungsmethode",
+      "Untersuchungstechnik",
+      "praktische Vorgehensweise"
+    ]
   },
   "definition": {
-    "de": "Angaben zum Material, welches für die Untersuchung des Objektes verwendet wurde. Diese Angabe ist besonders dann wichtig, wenn die Materialien Spuren bzw. Rückstände auf dem Objekt hinterlassen haben könnten."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Angabe, auf welche Art und Weise die Untersuchung durchgeführt wurde."
   },
   "notation": [
     "C8CG15"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
+      "prefLabel": {
+        "de": "verwendetes Material (Untersuchung)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
+      "prefLabel": {
+        "de": "Untersuchungsgerät"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C7C3B7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
     "prefLabel": {
-      "de": "Untersuchungsverfahren"
+      "de": "Untersuchung"
     }
   },
   "inScheme": [

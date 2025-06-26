@@ -2,21 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Einschätzung (Sicherheitsbewertung)"
+    "de": "Datum der Sicherheitsbewertung"
   },
   "definition": {
-    "de": "Bewertung des aktuellen Sicherheitsstatus und der verbleibenden Risiken basierend auf der letzten Sicherheitsbewertung."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Erfassung des Datums, an dem die letzte Sicherheitsbewertung durchgeführt wurde."
   },
   "notation": [
     "F3G8D1"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
     "prefLabel": {
       "de": "Letzte Sicherheitsbewertung"
     }

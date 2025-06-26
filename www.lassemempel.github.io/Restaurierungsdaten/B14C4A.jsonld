@@ -2,21 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Herstellungstechnik"
+    "de": "Objektmaterial"
+  },
+  "altLabel": {
+    "de": [
+      "Objektwerkstoff"
+    ]
   },
   "definition": {
-    "de": "Angaben zur Technik bzw. zu Techniken, die zur Herstellung des Objektes verwendet wurden. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, z.B. die Spuren/Indizien die auf dem Objekt beobachtet wurden. \r\r\n\r\r\nBeispiel: \"Geschmiedet (Hammerspuren)\""
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
   },
   "notation": [
     "B14C4A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }

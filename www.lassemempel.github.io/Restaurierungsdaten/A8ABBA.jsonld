@@ -2,15 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A8ABBA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ansprechpartner*in"
+    "de": "Eingangsdatum"
   },
   "definition": {
-    "de": "Benannte Person, die für Rückfragen in Bezug auf das Objekt und den Umgang mit diesem kontaktiert werden kann. Dies kann bei Privatbesitz der Eigentümer sein oder bei Objekten aus öffentlichen Einrichtungen z.B. der/die zuständige Kurator*in.  Für die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. Bei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann!"
-  },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
+    "de": "Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint."
   },
   "notation": [
     "A8ABBA"

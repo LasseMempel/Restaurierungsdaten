@@ -2,31 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensfaktor"
+    "de": "Schadensgrad"
   },
   "altLabel": {
     "de": [
-      "Schadensursache"
+      "Grad des Schadensphänomens"
     ]
   },
   "definition": {
-    "de": "Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in wie weit es sich um eine interpretative/subjektive Aussage handelt."
-  },
-  "note": {
-    "de": [
-      "Begriff nach DIN EN 15898:2020-02"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
+    "de": "Bewertungsskala zur Quantifizierung des Ausmaßes der Beschädigung eines Objektes.\r\r\n\r\r\nIdealerweise sollte auch eine kurze Erklärung zur Bewertungsskala erfasst werden, da diese unter Umständen relativ subjektiv ausfallen kann. \r\r\n\r\r\nz.B. \"mittel\", \"gering\", \"stark\""
   },
   "notation": [
     "BGGCA4"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
     "prefLabel": {
       "de": "Schadensphänomene"
     }

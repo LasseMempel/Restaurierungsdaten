@@ -2,26 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDF685",
   "type": "Concept",
   "prefLabel": {
-    "de": "Anlass der Probenentnahme"
-  },
-  "altLabel": {
-    "de": [
-      "Grund der Beprobung"
-    ]
+    "de": "Probenbeschreibung"
   },
   "definition": {
-    "de": "Hintergrundinformationen, warum die Probe entnommen wurde. Angabe zur Fragestellung, die mit der Probennahme bearbeitet werden soll, oder der geplanten Untersuchungsart.\r\r\n\r\r\nBeispiel: Materialbestimmung, Altersdatierung"
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
+    "de": "Kurze Definition der wichtigsten Eigenschaften und Beschaffenheit der Probe. Möglichkeit, weitere Hintergrundinformationen zur Probe bzw. dem Befund, aus dem die Probe entstammt, zu erfassen.\r\r\n\r\r\nBeispiel: \"Erdreste mit roten Verfärbungen\" , \"Textilfasern von rechter Skelettrippe\""
   },
   "notation": [
     "CDF685"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
     "prefLabel": {
       "de": "Probeentnahme"
     }

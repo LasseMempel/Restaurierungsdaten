@@ -2,74 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektbeschreibung"
+    "de": "Objektbeziehung"
   },
   "definition": {
-    "de": "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"
-  },
-  "note": {
-    "de": [
-      "Begriff nach DIN EN 16095:2012-10"
-    ]
+    "de": "Sofern das Objekt Teil eines Ensemble, einer definierten Sammlung ist oder anderweitig besondere Beziehungen zu anderen Objekten aufweist, sollten diese erfasst werden. \r\r\n\r\r\nBeispiel: \"Teil der Sammlung Becker\""
   },
   "notation": [
     "AC1786"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
-      "prefLabel": {
-        "de": "Objekttyp"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C",
-      "prefLabel": {
-        "de": "Weitere Objekteigenschaften"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
-      "prefLabel": {
-        "de": "Objektmaterial"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A",
-      "prefLabel": {
-        "de": "Herstellungstechnik"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
-      "prefLabel": {
-        "de": "aktuelle Maße"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
-      "prefLabel": {
-        "de": "aktuelles Gewicht"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A",
-      "prefLabel": {
-        "de": "aktueller Standort"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "prefLabel": {
+      "de": "Objektkennzeichnung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

@@ -2,48 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eingriff"
-  },
-  "altLabel": {
-    "de": [
-      "Applikationstechnik",
-      "Behandlung",
-      "Methode",
-      "Vorgehensweise"
-    ]
+    "de": "Zeitaufwand"
   },
   "definition": {
-    "de": "Beschreibung der konkreten Vorgehensweise und Techniken mit denen das Objekt zur Erreichung der festgelegten konservatorischen Zielsetzung behandelt wurde."
-  },
-  "note": {
-    "de": [
-      "Begriff und Definition nach DIN EN 15898:2020-02"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Summe der tatsächlich am Objekt geleisteten Arbeitsstunden währen der Maßnahme, ohne passive Zeiten wie Trocknungsphasen oder parallele Wartezeiten."
   },
   "notation": [
     "D9A6FA"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
-      "prefLabel": {
-        "de": "Verwendetes Material"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DF7759",
-      "prefLabel": {
-        "de": "Werkzeug"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
       "de": "Durchgeführte Maßnahme"
     }

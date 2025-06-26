@@ -2,27 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CGC619",
   "type": "Concept",
   "prefLabel": {
-    "de": "Entnahmemethode"
+    "de": "Stelle der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Beprobungsmethode",
-      "Entnahmeverfahren"
+      "Lokalisation der Probenentnahme"
     ]
   },
   "definition": {
-    "de": "Beschreibung, mit welcher Methode die Probe entnommen wurde. Angaben zur Vorgehensweise und zum eingesetzten Werkzeug.\r\r\n\r\r\nBeispiel: Skalpellentnahme, Bohrkernentnahme, Abstrich mit Wattestäbchen"
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Angabe, an welcher Stelle des Objekts die Probe entnommen wurde. Möglichst genaue Beschreibung des Probenortes zur späteren Zuordnung.\r\r\n\r\r\nBeispiele: Vorderseite, linker unterer Rand, Bruchkante der Scherbe, Sockelinnenseite"
   },
   "notation": [
     "CGC619"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
     "prefLabel": {
       "de": "Probeentnahme"
     }

@@ -2,28 +2,51 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Erstellungsdatum des Berichts"
+    "de": "Administrative Metadaten"
   },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+  "definition": {
+    "de": "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"
   },
   "notation": [
     "G814D2"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
-    "prefLabel": {
-      "de": "Administrative Metadaten"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3",
+      "prefLabel": {
+        "de": "Erstellungsdatum des Berichts"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GDF23F",
+      "prefLabel": {
+        "de": "Bearbeiter*in des Berichts"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG",
+      "prefLabel": {
+        "de": "Version"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF9C49",
+      "prefLabel": {
+        "de": "Zugangsrecht"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

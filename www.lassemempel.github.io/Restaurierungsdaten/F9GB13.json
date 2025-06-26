@@ -2,18 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Luftfeuchte (konservatorische Bedingungen)"
+    "de": "Temperatur (konservatorische Bedingungen)"
   },
-  "scopeNote": {
+  "definition": {
+    "de": "Angabe der erforderlichen Temperaturwerte und zulässigen Schwankungsbereiche (maximal tolerierbare Abweichungen) für die sachgerechte Lagerung zur Vermeidung temperaturbedingter Schäden."
+  },
+  "note": {
     "de": [
-      "empfohlen"
+      "F72743"
     ]
   },
   "notation": [
     "F9GB13"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }

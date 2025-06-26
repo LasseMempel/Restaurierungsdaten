@@ -2,28 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BB78D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verweis"
-  },
-  "altLabel": {
-    "de": [
-      "Kennnummer"
-    ]
+    "de": "Dokumentationsform"
   },
   "definition": {
-    "de": "Eindeutiger Hinweis, an welchem Ort die Dokumentation(en) zu finden ist/sind. Dies kann zum Beispiel eine URI oder URL zum entsprechenden Datensatz sein oder bei analogen Daten eine Identifikationsnummer oder Angabe zum Standort der Ablage."
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
+    "de": "Angaben, in welcher Form der Zustand erfasst wurde bzw. in welcher/welchen Datenformen/Medien die Dokumentation des Zustandes vorliegt.\r\r\n\r\r\nBeispiel: \"Zustandsbericht + Fotos\""
   },
   "notation": [
     "BB78D2"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
+      "prefLabel": {
+        "de": "Verweis"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
     "prefLabel": {
-      "de": "Dokumentationsform"
+      "de": "Zustandserfassung"
     }
   },
   "inScheme": [

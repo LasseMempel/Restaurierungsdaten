@@ -2,29 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsgerät"
+    "de": "verwendetes Material (Untersuchung)"
   },
   "definition": {
-    "de": "Angaben, welches Gerät für die Untersuchung verwendet wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Angaben zum Material, welches für die Untersuchung des Objektes verwendet wurde. Diese Angabe ist besonders dann wichtig, wenn die Materialien Spuren bzw. Rückstände auf dem Objekt hinterlassen haben könnten."
   },
   "notation": [
     "C93638"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
-      "prefLabel": {
-        "de": "Geräteeinstellungen (Untersuchungsgerät)"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C7C3B7",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
     "prefLabel": {
       "de": "Untersuchungsverfahren"
     }

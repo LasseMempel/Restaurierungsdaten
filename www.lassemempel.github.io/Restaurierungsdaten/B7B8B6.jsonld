@@ -2,62 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandserfassung"
-  },
-  "altLabel": {
-    "de": [
-      "Zustandserhebung"
-    ]
+    "de": "aktueller Standort"
   },
   "definition": {
-    "de": "Oberbegriff für Informationen, die die systematische Erfassung des Zustands eines Objektes zu einem definierten Zeitpunkt dokumentieren."
+    "de": "Angaben zum letzten bekannten Standort des Objekts."
   },
   "notation": [
     "B7B8B6"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
-      "prefLabel": {
-        "de": "Erfassungszeitpunkt"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BA8198",
-      "prefLabel": {
-        "de": "Erfassungsdatum"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BAA258",
-      "prefLabel": {
-        "de": "Dokumentationsform"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BC5B57",
-      "prefLabel": {
-        "de": "Zustandsbeschreibung"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
-      "prefLabel": {
-        "de": "konservatorische Vorgeschichte"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "prefLabel": {
+      "de": "Objektbeschreibung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

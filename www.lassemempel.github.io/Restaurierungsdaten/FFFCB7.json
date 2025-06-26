@@ -2,18 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zuständige Person (Monitoring)"
+    "de": "Datum des Monitoring"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Zeitpunkt der durchgeführten Kontrollmaßnahme zur chronologischen Dokumentation und Nachvollziehbarkeit"
   },
   "notation": [
     "FFFCB7"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD6617",
     "prefLabel": {
       "de": "Monitoring"
     }

@@ -2,12 +2,10 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Allgemeine Umgangsempfehlungen"
+    "de": "Präventive Konservierung"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Übergeordneter Begriff zur Erfassung aller Angaben bezüglich vorbeugender Maßnahmen, die ohne direkten Eingriff am Objekt selbst darauf abzielen Schäden am Objekt zu vermindern."
   },
   "notation": [
     "F58F6D"
@@ -16,34 +14,33 @@
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
       "prefLabel": {
-        "de": "Präsentationsvorgaben"
+        "de": "Allgemeine Umgangsempfehlungen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
       "prefLabel": {
-        "de": "Verpackungs- und Transportempfehlungen"
+        "de": "Konservatorische Bedingungen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD6617",
       "prefLabel": {
-        "de": "Handlingsempfehlungen"
+        "de": "Monitoring"
       }
     }
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
-    "prefLabel": {
-      "de": "Präventive Konservierung"
-    }
-  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

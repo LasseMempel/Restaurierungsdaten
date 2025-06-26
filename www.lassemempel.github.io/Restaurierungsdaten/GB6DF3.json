@@ -2,18 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GB6DF3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bearbeiter*in des Berichts"
+    "de": "Erstellungsdatum des Berichts"
   },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+  "definition": {
+    "de": "Zeitpunkt, zu dem der Bericht erstellt wurde"
   },
   "notation": [
     "GB6DF3"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
     "prefLabel": {
       "de": "Administrative Metadaten"
     }

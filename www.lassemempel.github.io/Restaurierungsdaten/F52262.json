@@ -2,47 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
   "type": "Concept",
   "prefLabel": {
-    "de": "Präventive Konservierung"
+    "de": "Einschätzung (Sicherheitsbewertung)"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Bewertung des aktuellen Sicherheitsstatus und der verbleibenden Risiken basierend auf der letzten Sicherheitsbewertung."
   },
   "notation": [
     "F52262"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
-      "prefLabel": {
-        "de": "Allgemeine Umgangsempfehlungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
-      "prefLabel": {
-        "de": "Konservatorische Bedingungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
-      "prefLabel": {
-        "de": "Monitoring"
-      }
+  "broader": {
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
+    "prefLabel": {
+      "de": "Letzte Sicherheitsbewertung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

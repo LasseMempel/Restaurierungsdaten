@@ -2,26 +2,23 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C6A532",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsart"
+    "de": "Untersuchungsanlass"
   },
   "altLabel": {
     "de": [
-      "Art der Untersuchung"
+      "Fragestellung",
+      "Grund der Untersuchung",
+      "Untersuchungsgrund"
     ]
   },
   "definition": {
-    "de": "Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt."
-  },
-  "scopeNote": {
-    "de": [
-      "optionale"
-    ]
+    "de": "Hintergrundinformationen, warum diese Untersuchung durchgeführt wurde. Angabe der Fragestellung, die mit der Untersuchung bearbeitet werden soll."
   },
   "notation": [
     "C6A532"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }

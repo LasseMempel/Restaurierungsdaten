@@ -2,31 +2,74 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objekttyp"
+    "de": "Objektbeschreibung"
   },
   "definition": {
-    "de": "grundlegende formale Kategorie, in die das Objekt eingeordnet wird. \r\r\n\r\r\nBeispiel: \"Gemälde\" , \"Skulptur\", \"Münze\""
+    "de": "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"
   },
-  "scopeNote": {
+  "note": {
     "de": [
-      "Pflicht"
+      "Begriff nach DIN EN 16095:2012-10"
     ]
   },
   "notation": [
     "ADD53A"
   ],
-  "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
-    "prefLabel": {
-      "de": "Objektbeschreibung"
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AF1F5C",
+      "prefLabel": {
+        "de": "Objekttyp"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
+      "prefLabel": {
+        "de": "Weitere Objekteigenschaften"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A",
+      "prefLabel": {
+        "de": "Objektmaterial"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B3FCA1",
+      "prefLabel": {
+        "de": "Herstellungstechnik"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B51DAF",
+      "prefLabel": {
+        "de": "aktuelle Maße"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A",
+      "prefLabel": {
+        "de": "aktuelles Gewicht"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+      "prefLabel": {
+        "de": "aktueller Standort"
+      }
     }
-  },
+  ],
   "inScheme": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
     }

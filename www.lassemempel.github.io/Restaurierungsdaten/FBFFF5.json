@@ -2,18 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
   "type": "Concept",
   "prefLabel": {
-    "de": "LUX (konservatorische Bedingungen)"
+    "de": "Luftfeuchte (konservatorische Bedingungen)"
   },
-  "scopeNote": {
+  "definition": {
+    "de": "Angabe der einzuhaltenden relativen Luftfeuchtigkeit und zulässigen Schwankungsbereiche (maximal tolerierbare Abweichungen) für die sachgerechte Lagerung zur Vermeidung feuchtigkeitsbedingter Schäden."
+  },
+  "note": {
     "de": [
-      "optional"
+      "F72743"
     ]
   },
   "notation": [
     "FBFFF5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }

@@ -2,21 +2,22 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD6B5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Probenbeschreibung"
+    "de": "Kennung der Probe"
+  },
+  "altLabel": {
+    "de": [
+      "Name der Probe",
+      "Nummer der Probe"
+    ]
   },
   "definition": {
-    "de": "Kurze Definition der wichtigsten Eigenschaften und Beschaffenheit der Probe. Möglichkeit, weitere Hintergrundinformationen zur Probe bzw. dem Befund, aus dem die Probe entstammt, zu erfassen.\r\r\n\r\r\nBeispiel: \"Erdreste mit roten Verfärbungen\" , \"Textilfasern von rechter Skelettrippe\""
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Bezeichnung oder Nummer, mit der die jeweilige Probe eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Probe sich die Angaben beziehen. \r\r\n\r\r\nBeispiel: Metall-Probe_24601"
   },
   "notation": [
     "CDD6B5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
     "prefLabel": {
       "de": "Probeentnahme"
     }

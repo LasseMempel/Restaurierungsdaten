@@ -2,20 +2,18 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ergebnis des Monitorings"
+    "de": "Schadstoffe"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Angabe ob Vorhandensein von luftgetragenen Verunreinigungen, Ausgasungen oder andere chemische Belastungen in der Objektumgebung kontrolliert wurden."
   },
   "notation": [
     "G79CA9"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G56866",
     "prefLabel": {
-      "de": "Monitoring"
+      "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [

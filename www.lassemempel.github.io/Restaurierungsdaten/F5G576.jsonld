@@ -2,20 +2,38 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
   "type": "Concept",
   "prefLabel": {
-    "de": "Präsentationsvorgaben"
+    "de": "Allgemeine Umgangsempfehlungen"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Sammelbegriff zur Strukturierung von Richtlinien und Handlungsanweisungen für den sachgerechten Umgang mit dem behandelten Objekt, die zur langfristigen Erhaltung und Vermeidung von Folgeschäden generell und/oder nach abgeschlossener Konservierungs-Restaurierungsbehandlung zu beachten sind."
   },
   "notation": [
     "F5G576"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
+      "prefLabel": {
+        "de": "Präsentationsvorgaben"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F7D3DB",
+      "prefLabel": {
+        "de": "Verpackungs- und Transportempfehlungen"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+      "prefLabel": {
+        "de": "Handlingsempfehlungen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
     "prefLabel": {
-      "de": "Allgemeine Umgangsempfehlungen"
+      "de": "Präventive Konservierung"
     }
   },
   "inScheme": [

@@ -2,28 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
   "type": "Concept",
   "prefLabel": {
-    "de": "konservatorische Vorgeschichte"
+    "de": "Schadensfaktor"
   },
   "altLabel": {
     "de": [
-      "Spuren früherer Konservierungs- /Restaurierunseingriffe"
+      "Schadensursache"
     ]
   },
   "definition": {
-    "de": "Beschreibung von Spuren früherer, nicht dokumentierter konservatorisch-restauratorischer Eingriffe am Objekt sowie der vermuteten Behandlungsmaßnahmen, die diese Spuren verursacht haben könnten."
+    "de": "Beschreibung der ermittelten oder vermuteten Ursachen für die Beschädigung des Objektes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angabe erfasst werden, d.h. in wie weit es sich um eine interpretative/subjektive Aussage handelt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
-      "empfohlen"
+      "Begriff nach DIN EN 15898:2020-02"
     ]
   },
   "notation": [
     "C11192"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
     "prefLabel": {
-      "de": "Zustandserfassung"
+      "de": "Schadensphänomene"
     }
   },
   "inScheme": [

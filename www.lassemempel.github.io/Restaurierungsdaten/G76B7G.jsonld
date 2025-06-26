@@ -2,18 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadstoffe"
+    "de": "Lichtexposition"
   },
-  "scopeNote": {
+  "altLabel": {
     "de": [
-      "empfohlen"
+      "LUX-Stunden"
     ]
+  },
+  "definition": {
+    "de": "Angabe ob akkumulierte Lichtexposition in LUX-Stunden während des Monitorings gemessen wurden."
   },
   "notation": [
     "G76B7G"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G56866",
     "prefLabel": {
       "de": "Überprüfte Bedingungen"
     }

@@ -2,27 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CDD613",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kennung der Probe"
+    "de": "Datum der Probenentnahme"
   },
   "altLabel": {
     "de": [
-      "Name der Probe",
-      "Nummer der Probe"
+      "Datum der Beprobung"
     ]
   },
   "definition": {
-    "de": "Bezeichnung oder Nummer, mit der die jeweilige Probe eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Probe sich die Angaben beziehen. \r\r\n\r\r\nBeispiel: Metall-Probe_24601"
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Datum, an dem die Probe aus dem Objekt entnommen wurde."
   },
   "notation": [
     "CDD613"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CB7747",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
     "prefLabel": {
       "de": "Probeentnahme"
     }

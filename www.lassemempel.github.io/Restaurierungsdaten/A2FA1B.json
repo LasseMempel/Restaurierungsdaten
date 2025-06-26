@@ -2,15 +2,15 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A2FA1B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datierung"
+    "de": "Weitere Objektnummern"
+  },
+  "altLabel": {
+    "de": [
+      "Alternative Nummern"
+    ]
   },
   "definition": {
-    "de": "zeitliche Einordnung des Objektes.\r\r\n\r\r\nBeispiel: \"Urnenfelderzeit\" , \"15. Jh.\""
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Weitere Nummern, die in der Vergangenheit dem Objekt zugeordnet wurden."
   },
   "notation": [
     "A2FA1B"

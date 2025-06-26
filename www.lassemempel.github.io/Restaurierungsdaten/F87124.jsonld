@@ -2,46 +2,18 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konservatorische Bedingungen"
+    "de": "Handlingsempfehlungen"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Angaben zu Besonderheiten, die im Zuge der Handhabung des Objektes berücksichtigt werden müssen. \r\r\n\r\r\nBeispiel: \"Nicht an den Henkeln anfassen\""
   },
   "notation": [
     "F87124"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
-      "prefLabel": {
-        "de": "Temperatur (konservatorische Bedingungen)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13",
-      "prefLabel": {
-        "de": "Luftfeuchte (konservatorische Bedingungen)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
-      "prefLabel": {
-        "de": "LUX (konservatorische Bedingungen)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FC3322",
-      "prefLabel": {
-        "de": "UV (konservatorische Bedingungen)"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
     "prefLabel": {
-      "de": "Präventive Konservierung"
+      "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [

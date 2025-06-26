@@ -2,14 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A5C668",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eingangsdatum"
+    "de": "Herkunft"
+  },
+  "altLabel": {
+    "de": [
+      "Fundort",
+      "Herstellungsort",
+      "kulturelle Verortung"
+    ]
   },
   "definition": {
-    "de": "Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint."
+    "de": "Sammelbegriff für Angaben zur räumlichen oder kulturellen Verortung eines Objektes, die dessen Entstehungs- oder Auffindungskontext beschreiben. Soll als Einordnung von Objekten in ihren historischen, geografischen und kulturellen Zusammhang dienen. Die Angaben können dabei exakte Ortsangaben als auch größere geografische oder kulturelle Räume sein, je nach Überliefungslage bzw. Erkenntnisstand. \r\r\n\r\r\nBeispiel: \"Fundort: Italien - Numana - Grab 34\", \"kultureller Kontext: Renaissance\""
   },
-  "scopeNote": {
+  "note": {
     "de": [
-      "Pflicht"
+      "Begriff und Definition nach DIN EN 16095: 2012-10"
     ]
   },
   "notation": [

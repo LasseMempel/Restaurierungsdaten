@@ -2,46 +2,28 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Monitoring"
+    "de": "UV-Schutz (konservatorische Bedingungen)"
   },
-  "scopeNote": {
+  "altLabel": {
     "de": [
-      "empfohlen"
+      "UV (konservatorische Bedingungen)"
+    ]
+  },
+  "definition": {
+    "de": "Angabe der Anforderungen bezüglich ultravioletter Strahlung, einschließlich maximal zulässiger UV-Anteile im Beleuchtungsspektrum oder erforderliche UV-Filtermaßnahmen, zur Verhinderung UV-bedingter Materialschäden am Objekt."
+  },
+  "note": {
+    "de": [
+      "F72743"
     ]
   },
   "notation": [
     "FD2B2B"
   ],
-  "narrower": [
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD6617",
-      "prefLabel": {
-        "de": "Datum des Monitoring"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FFFCB7",
-      "prefLabel": {
-        "de": "Zuständige Person (Monitoring)"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FGF575",
-      "prefLabel": {
-        "de": "Überprüfte Bedingungen"
-      }
-    },
-    {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G79CA9",
-      "prefLabel": {
-        "de": "Ergebnis des Monitorings"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
     "prefLabel": {
-      "de": "Präventive Konservierung"
+      "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [

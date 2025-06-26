@@ -2,18 +2,25 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F72743",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verpackungs- und Transportempfehlungen"
+    "de": "Präsentationsvorgaben"
   },
-  "scopeNote": {
+  "definition": {
+    "de": "Angaben zu Besonderheiten, die bei der Ausstellung/Präsentation des Objektes zu beachten sind. \r\r\n\r\r\nBeispiel: \"Objekt ausschließlich auf individuell angepasster Stützkonstruktion präsentieren\", \"Ausstellung nur in klimatisierter Vitrine\""
+  },
+  "note": {
     "de": [
-      "empfohlen"
+      "A2FA1B",
+      "BA8198",
+      "C3A182",
+      "DF7759",
+      "FD6617"
     ]
   },
   "notation": [
     "F72743"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F5G576",
     "prefLabel": {
       "de": "Allgemeine Umgangsempfehlungen"
     }

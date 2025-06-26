@@ -2,28 +2,18 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DF7759",
   "type": "Concept",
   "prefLabel": {
-    "de": "Werkzeug"
-  },
-  "altLabel": {
-    "de": [
-      "Gerät"
-    ]
+    "de": "Herstellungsdatum"
   },
   "definition": {
-    "de": "Benennung des bzw. der Werkzeuge und Geräte, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden. Diese Angabe empfiehlt sich besonders dann, wenn durch die verwendeten Werkzeuge Spuren auf dem Objekt hinterlassen wurden."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Erfassung des Produktions- oder Abfülldatums industrieller Produkte zur Nachvollziehbarkeit von Rezepturänderungen und Qualitätsschwankungen. Dient der Rückverfolgung von Chargen bei ungewöhnlichen Vorkommnissen und ermöglicht das Einholen relevanter Hintergrundinformationen zur Langzeitstabilität"
   },
   "notation": [
     "DF7759"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA9CGG",
     "prefLabel": {
-      "de": "Eingriff"
+      "de": "Verwendetes Material"
     }
   },
   "inScheme": [

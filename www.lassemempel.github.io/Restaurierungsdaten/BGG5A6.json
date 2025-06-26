@@ -2,28 +2,39 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGG5A6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensgrad"
+    "de": "Schadensphänomene"
   },
   "altLabel": {
     "de": [
-      "Grad des Schadensphänomens"
+      "Beschädigung",
+      "Schaden",
+      "Schadensbild"
     ]
   },
   "definition": {
-    "de": "Bewertungsskala zur Quantifizierung des Ausmaßes der Beschädigung eines Objektes.\r\r\n\r\r\nIdealerweise sollte auch eine kurze Erklärung zur Bewertungsskala erfasst werden, da diese unter Umständen relativ subjektiv ausfallen kann. \r\r\n\r\r\nz.B. \"mittel\", \"gering\", \"stark\""
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, indem z.B. die Art der Untersuchung/Feststellung dieser Veränderung dokumentiert wird."
   },
   "notation": [
     "BGG5A6"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGGCA4",
+      "prefLabel": {
+        "de": "Schadensgrad"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C11192",
+      "prefLabel": {
+        "de": "Schadensfaktor"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BGC9F3",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF3639",
     "prefLabel": {
-      "de": "Schadensphänomene"
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

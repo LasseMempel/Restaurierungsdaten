@@ -2,23 +2,32 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datum der Sicherheitsbewertung"
+    "de": "Letzte Sicherheitsbewertung"
   },
   "definition": {
-    "de": "Erfassung des Datums, an dem die letzte Sicherheitsbewertung durchgeführt wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
   },
   "notation": [
     "F396G6"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F3G8D1",
+      "prefLabel": {
+        "de": "Datum der Sicherheitsbewertung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F52262",
+      "prefLabel": {
+        "de": "Einschätzung (Sicherheitsbewertung)"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
     "prefLabel": {
-      "de": "Letzte Sicherheitsbewertung"
+      "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [

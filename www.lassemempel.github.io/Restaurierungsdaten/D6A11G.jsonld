@@ -2,28 +2,70 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zuständige Restaurierungseinrichtung"
+    "de": "Durchgeführte Maßnahme"
   },
   "altLabel": {
     "de": [
-      "Werkstatt, Labor, Atelier, Restaurierungswerkstatt"
+      "Bestandserhaltung",
+      "Konservierung",
+      "Konservierung-Restaurierung",
+      "Restaurierung"
     ]
   },
   "definition": {
-    "de": "Benennung der Einrichtung, in der die jeweilige Maßnahme durchgeführt würde. Der Begriff \"Einrichtung\" wurde dabei als generischer Überbegriff verwendet, um individuelle Bezeichnungen wie \"Werkstatt\", \"Atelier\", \"Labor\", etc. unter einem Begriff zu vereinen. Institutionen können den jeweils in ihrem Arbeitsalltag verwendeten Begriff auf diesen Überbegriff mappen, ohne ihre eigene hausinterne Terminologie verändern zu müssen.\r\r\n\r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein.\""
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Oberbegriff für die Sammlung an Angaben, die zur konkreten Maßnahme erfasst werden."
   },
   "notation": [
     "D6A11G"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D78721",
+      "prefLabel": {
+        "de": "Zuständige Restaurierungseinrichtung"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D865C3",
+      "prefLabel": {
+        "de": "Maßnahmenkennnummer"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D866AD",
+      "prefLabel": {
+        "de": "Zuständige Person (Durchgeführte Maßnahme)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
+      "prefLabel": {
+        "de": "Beginn der Maßnahme"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D949G6",
+      "prefLabel": {
+        "de": "Ende der Maßnahme"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
+      "prefLabel": {
+        "de": "Zeitaufwand"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+      "prefLabel": {
+        "de": "Eingriff"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3",
     "prefLabel": {
-      "de": "Durchgeführte Maßnahme"
+      "de": "Konservierungskonzept"
     }
   },
   "inScheme": [

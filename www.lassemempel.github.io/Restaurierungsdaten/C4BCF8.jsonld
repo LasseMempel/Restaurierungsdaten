@@ -2,28 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Untersuchungsanlass"
+    "de": "Untersuchungsdatum"
   },
   "altLabel": {
     "de": [
-      "Fragestellung",
-      "Grund der Untersuchung",
-      "Untersuchungsgrund"
+      "Datum der Untersuchung"
     ]
   },
   "definition": {
-    "de": "Hintergrundinformationen, warum diese Untersuchung durchgeführt wurde. Angabe der Fragestellung, die mit der Untersuchung bearbeitet werden soll."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Datum, an dem die jeweilige Untersuchung durchgeführt wurde."
   },
   "notation": [
     "C4BCF8"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C2488A",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }

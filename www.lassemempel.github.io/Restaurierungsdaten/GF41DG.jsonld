@@ -2,18 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//GF41DG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zugangsrecht"
+    "de": "Version"
   },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+  "definition": {
+    "de": "Angaben zur Versionierung bzw. Überarbeitung des Berichtes"
   },
   "notation": [
     "GF41DG"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G7F25F",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G814D2",
     "prefLabel": {
       "de": "Administrative Metadaten"
     }

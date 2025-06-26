@@ -2,21 +2,22 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D866AD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beginn der Maßnahme"
+    "de": "Zuständige Person (Durchgeführte Maßnahme)"
+  },
+  "altLabel": {
+    "de": [
+      "Konservator*in",
+      "Restaurator*in"
+    ]
   },
   "definition": {
-    "de": "kalendermäßige Erfassung des Zeitpunktes, an dem die jeweilige Maßnahme begonnen wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Benennung der Person, die die jeweilige Maßnahme durchgeführt hat bzw. für diese verantwortlich ist. \r\r\n\r\r\nFür die interne Zuweisung der Verantwortlichkeit/Zuständigkeit ist es empfohlen, diese Daten regelhaft zu erfassen. \r\r\nBei der potenziellen Veröffentlichung bzw. dem Austausch des Datensatzes außerhalb der eigenen Einrichtung ist an dieser Stelle zu entscheiden, in wie fern die Person namentlich genannt werden möchte/kann! \""
   },
   "notation": [
     "D866AD"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
     "prefLabel": {
       "de": "Durchgeführte Maßnahme"
     }

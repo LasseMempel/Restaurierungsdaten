@@ -2,29 +2,26 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geräteeinstellungen (Untersuchungsgerät)"
-  },
-  "altLabel": {
-    "de": [
-      "Metadaten",
-      "Parameter"
-    ]
+    "de": "Untersuchungsgerät"
   },
   "definition": {
-    "de": "Angaben zu den Einstellungen bzw. Metadaten des Gerätes, welches für die Untersuchung verwendet wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
+    "de": "Angaben, welches Gerät für die Untersuchung verwendet wurde."
   },
   "notation": [
     "C9C527"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
+      "prefLabel": {
+        "de": "Geräteeinstellungen (Untersuchungsgerät)"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C93638",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
     "prefLabel": {
-      "de": "Untersuchungsgerät"
+      "de": "Untersuchungsverfahren"
     }
   },
   "inScheme": [

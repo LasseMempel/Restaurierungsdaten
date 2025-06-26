@@ -2,21 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B5DD1A",
   "type": "Concept",
   "prefLabel": {
-    "de": "aktueller Standort"
+    "de": "aktuelles Gewicht"
   },
   "definition": {
-    "de": "Angaben zum letzten bekannten Standort des Objekts."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Angaben zum Gewicht des Objekts zum letzten Zeitpunkt der Objektuntersuchung"
   },
   "notation": [
     "B5DD1A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }

@@ -2,26 +2,16 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AFD671",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektmaterial"
-  },
-  "altLabel": {
-    "de": [
-      "Objektwerkstoff"
-    ]
+    "de": "Weitere Objekteigenschaften"
   },
   "definition": {
-    "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r\n\r\r\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
   },
   "notation": [
     "AFD671"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AC1786",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }

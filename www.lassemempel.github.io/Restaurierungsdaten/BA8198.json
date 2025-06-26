@@ -2,26 +2,21 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BA8198",
   "type": "Concept",
   "prefLabel": {
-    "de": "Erfassungsdatum"
+    "de": "Erfassungszeitpunkt"
   },
   "altLabel": {
     "de": [
-      "Datum der Erfassung (Zustandserfassung)"
+      "Zeitpunkt der Erfassung"
     ]
   },
   "definition": {
-    "de": "Angabe des Datums, an dem die Erfassung des Zustandes durchgeführt wurde."
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
+    "de": "Angaben ob es sich bei dem erfassten Zustand um den Zeitpunkt vor, nach oder zwischen einem konservatorisch-restauratorischen Eingriff handelt oder der Zustand beispielsweise im Zuge eines Monitorings, ohne anschließendem Eingriff, erfasst wurde. \r\r\n\r\r\nDer Zustand vor und nach einem Eingriff sollte dabei verpflichtend erfasst werden. Weitere Zustandserfassungen sind bei Bedarf möglich."
   },
   "notation": [
     "BA8198"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B9835A",
     "prefLabel": {
       "de": "Zustandserfassung"
     }

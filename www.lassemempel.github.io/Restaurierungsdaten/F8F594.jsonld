@@ -2,20 +2,49 @@
   "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
   "type": "Concept",
   "prefLabel": {
-    "de": "Temperatur (konservatorische Bedingungen)"
+    "de": "Konservatorische Bedingungen"
   },
-  "scopeNote": {
+  "definition": {
+    "de": "Sammeloberbegriff für Angaben bezüglich erforderlicher Umgebungsparameter und physikalischer Rahmenbedingungen, die für die optimale Erhaltung des Objektes notwendig sind."
+  },
+  "note": {
     "de": [
-      "empfohlen"
+      "F72743"
     ]
   },
   "notation": [
     "F8F594"
   ],
+  "narrower": [
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F9GB13",
+      "prefLabel": {
+        "de": "Temperatur (konservatorische Bedingungen)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
+      "prefLabel": {
+        "de": "Luftfeuchte (konservatorische Bedingungen)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FC3322",
+      "prefLabel": {
+        "de": "Beleuchtungsstärke (konservatorische Bedingungen)"
+      }
+    },
+    {
+      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FD2B2B",
+      "prefLabel": {
+        "de": "UV-Schutz (konservatorische Bedingungen)"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F87124",
+    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F58F6D",
     "prefLabel": {
-      "de": "Konservatorische Bedingungen"
+      "de": "Präventive Konservierung"
     }
   },
   "inScheme": [
