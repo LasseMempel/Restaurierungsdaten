@@ -83,8 +83,11 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
         ("source", SKOS.note, Literal, True), #DC.source # False
         #("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
-        ("scope", SKOS.scopeNote, Literal, True),
-        ("translation", SKOS.altLabel, Literal, True)
+        ("Verpflichtungsgrad", SKOS.scopeNote, Literal, False),
+        ("translation", SKOS.altLabel, Literal, True),
+        ("Feldwert", SKOS.editorialNote, Literal, False), 
+        ("Wiederholbar", SKOS.historyNote, Literal, False),
+        ("Empfohlene Vokabulare", SKOS.changeNote, Literal, False),
     ]
 
     g = Graph()
