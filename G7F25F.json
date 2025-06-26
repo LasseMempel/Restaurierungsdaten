@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//G7F25F",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/G7F25F",
   "type": "Concept",
   "prefLabel": {
     "de": "Ergebnis des Monitorings"
@@ -35,19 +35,19 @@
     "G7F25F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//FD6617",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/FD6617",
     "prefLabel": {
       "de": "Monitoring"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

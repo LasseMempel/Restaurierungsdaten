@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//DBC278",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/DBC278",
   "type": "Concept",
   "prefLabel": {
     "de": "Konzentration"
@@ -26,19 +26,19 @@
     "DBC278"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/DA9CGG",
     "prefLabel": {
       "de": "Verwendetes Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

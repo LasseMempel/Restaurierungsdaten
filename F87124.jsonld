@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F87124",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F87124",
   "type": "Concept",
   "prefLabel": {
     "de": "Handlingsempfehlungen"
@@ -26,19 +26,19 @@
     "F87124"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F5G576",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F5G576",
     "prefLabel": {
       "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

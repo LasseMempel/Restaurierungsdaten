@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//B51DAF",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/B51DAF",
   "type": "Concept",
   "prefLabel": {
     "de": "aktuelle Maße"
@@ -21,19 +21,19 @@
     "B51DAF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

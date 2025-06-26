@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//GF41DG",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/GF41DG",
   "type": "Concept",
   "prefLabel": {
     "de": "Version"
@@ -21,19 +21,19 @@
     "GF41DG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//G814D2",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/G814D2",
     "prefLabel": {
       "de": "Administrative Metadaten"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

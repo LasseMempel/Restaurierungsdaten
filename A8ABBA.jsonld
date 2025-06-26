@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//A8ABBA",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/A8ABBA",
   "type": "Concept",
   "prefLabel": {
     "de": "Eingangsdatum"
@@ -21,19 +21,19 @@
     "A8ABBA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/A13CD1",
     "prefLabel": {
       "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

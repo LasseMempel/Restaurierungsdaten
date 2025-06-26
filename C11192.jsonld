@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//C11192",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/C11192",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadensfaktor"
@@ -31,19 +31,19 @@
     "C11192"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//BGG5A6",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/BGG5A6",
     "prefLabel": {
       "de": "Schadensphänomene"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

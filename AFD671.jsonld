@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//AFD671",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/AFD671",
   "type": "Concept",
   "prefLabel": {
     "de": "Weitere Objekteigenschaften"
@@ -21,19 +21,19 @@
     "AFD671"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

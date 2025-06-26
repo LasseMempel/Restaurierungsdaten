@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/ADD53A",
   "type": "Concept",
   "prefLabel": {
     "de": "Objektbeschreibung"
@@ -17,43 +17,43 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//AF1F5C",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/AF1F5C",
       "prefLabel": {
         "de": "Objekttyp"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//AFD671",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/AFD671",
       "prefLabel": {
         "de": "Weitere Objekteigenschaften"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//B14C4A",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/B14C4A",
       "prefLabel": {
         "de": "Objektmaterial"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//B3FCA1",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/B3FCA1",
       "prefLabel": {
         "de": "Herstellungstechnik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//B51DAF",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/B51DAF",
       "prefLabel": {
         "de": "aktuelle Maße"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//B5DD1A",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/B5DD1A",
       "prefLabel": {
         "de": "aktuelles Gewicht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//B7B8B6",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/B7B8B6",
       "prefLabel": {
         "de": "aktueller Standort"
       }
@@ -61,17 +61,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

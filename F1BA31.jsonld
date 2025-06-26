@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F1BA31",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F1BA31",
   "type": "Concept",
   "prefLabel": {
     "de": "Werkzeug"
@@ -31,19 +31,19 @@
     "F1BA31"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/DA2D73",
     "prefLabel": {
       "de": "Eingriff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F2A45F",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F2A45F",
   "type": "Concept",
   "prefLabel": {
     "de": "Art der Gefährdung"
@@ -26,19 +26,19 @@
     "F2A45F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F2244D",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F2244D",
     "prefLabel": {
       "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//A4G52F",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/A4G52F",
   "type": "Concept",
   "prefLabel": {
     "de": "Datierung"
@@ -26,19 +26,19 @@
     "A4G52F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/A13CD1",
     "prefLabel": {
       "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

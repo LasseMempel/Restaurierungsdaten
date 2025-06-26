@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//A13CD1",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/A13CD1",
   "type": "Concept",
   "prefLabel": {
     "de": "Objektkennzeichnung"
@@ -17,55 +17,55 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A15F83",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A15F83",
       "prefLabel": {
         "de": "Objektansprache"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A2AG55",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A2AG55",
       "prefLabel": {
         "de": "Kennzeichnungsnummer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A2FA1B",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A2FA1B",
       "prefLabel": {
         "de": "Weitere Objektnummern"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A4G52F",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A4G52F",
       "prefLabel": {
         "de": "Datierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A5C668",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A5C668",
       "prefLabel": {
         "de": "Herkunft"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//A8ABBA",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/A8ABBA",
       "prefLabel": {
         "de": "Eingangsdatum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//AA6941",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/AA6941",
       "prefLabel": {
         "de": "Ansprechpartner*in"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//AC16G1",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/AC16G1",
       "prefLabel": {
         "de": "Schöpfer*in"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//AC1786",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/AC1786",
       "prefLabel": {
         "de": "Objektbeziehung"
       }
@@ -73,17 +73,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

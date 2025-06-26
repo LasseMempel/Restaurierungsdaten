@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//D3AF3A",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/D3AF3A",
   "type": "Concept",
   "prefLabel": {
     "de": "Anlass der Maßnahme"
@@ -21,19 +21,19 @@
     "D3AF3A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//D1F5D3",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/D1F5D3",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

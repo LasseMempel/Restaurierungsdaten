@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BAA258",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BAA258",
   "type": "Concept",
   "prefLabel": {
     "de": "Erfassungsdatum"
@@ -26,19 +26,19 @@
     "BAA258"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//B9835A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/B9835A",
     "prefLabel": {
       "de": "Zustandserfassung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

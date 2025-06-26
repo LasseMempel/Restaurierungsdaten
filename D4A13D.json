@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//D4A13D",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/D4A13D",
   "type": "Concept",
   "prefLabel": {
     "de": "konservatorische Zielsetzung"
@@ -28,19 +28,19 @@
     "D4A13D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//D1F5D3",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/D1F5D3",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

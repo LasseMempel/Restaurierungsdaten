@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F58F6D",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F58F6D",
   "type": "Concept",
   "prefLabel": {
     "de": "Präventive Konservierung"
@@ -17,19 +17,19 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//F5G576",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/F5G576",
       "prefLabel": {
         "de": "Allgemeine Umgangsempfehlungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//F8F594",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/F8F594",
       "prefLabel": {
         "de": "Konservatorische Bedingungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FD6617",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FD6617",
       "prefLabel": {
         "de": "Monitoring"
       }
@@ -37,17 +37,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

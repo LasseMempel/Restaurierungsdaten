@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F3G8D1",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F3G8D1",
   "type": "Concept",
   "prefLabel": {
     "de": "Datum der Sicherheitsbewertung"
@@ -21,19 +21,19 @@
     "F3G8D1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F396G6",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F396G6",
     "prefLabel": {
       "de": "Letzte Sicherheitsbewertung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

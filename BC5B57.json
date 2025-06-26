@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BC5B57",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BC5B57",
   "type": "Concept",
   "prefLabel": {
     "de": "Verweis"
@@ -26,19 +26,19 @@
     "BC5B57"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//BB78D2",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/BB78D2",
     "prefLabel": {
       "de": "Dokumentationsform"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

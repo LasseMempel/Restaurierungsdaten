@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//FC3322",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/FC3322",
   "type": "Concept",
   "prefLabel": {
     "de": "Beleuchtungsstärke (konservatorische Bedingungen)"
@@ -31,19 +31,19 @@
     "FC3322"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F8F594",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

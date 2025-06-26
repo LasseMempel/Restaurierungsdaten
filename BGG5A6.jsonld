@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BGG5A6",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BGG5A6",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadensphänomene"
@@ -34,32 +34,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//BGGCA4",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/BGGCA4",
       "prefLabel": {
         "de": "Schadensgrad"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C11192",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C11192",
       "prefLabel": {
         "de": "Schadensfaktor"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//BF3639",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/BF3639",
     "prefLabel": {
       "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

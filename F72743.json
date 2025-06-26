@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F72743",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F72743",
   "type": "Concept",
   "prefLabel": {
     "de": "Präsentationsvorgaben"
@@ -35,19 +35,19 @@
     "F72743"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F5G576",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F5G576",
     "prefLabel": {
       "de": "Allgemeine Umgangsempfehlungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

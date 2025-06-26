@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//A2FA1B",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/A2FA1B",
   "type": "Concept",
   "prefLabel": {
     "de": "Weitere Objektnummern"
@@ -31,19 +31,19 @@
     "A2FA1B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/A13CD1",
     "prefLabel": {
       "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

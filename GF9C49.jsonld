@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//GF9C49",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/GF9C49",
   "type": "Concept",
   "prefLabel": {
     "de": "Zugangsrecht"
@@ -21,19 +21,19 @@
     "GF9C49"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//G814D2",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/G814D2",
     "prefLabel": {
       "de": "Administrative Metadaten"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

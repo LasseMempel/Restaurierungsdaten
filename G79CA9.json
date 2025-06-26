@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//G79CA9",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/G79CA9",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadstoffe"
@@ -21,19 +21,19 @@
     "G79CA9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//G56866",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/G56866",
     "prefLabel": {
       "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

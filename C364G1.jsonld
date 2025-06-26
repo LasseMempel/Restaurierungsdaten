@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//C364G1",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/C364G1",
   "type": "Concept",
   "prefLabel": {
     "de": "Zuständige Person (Untersuchung)"
@@ -21,19 +21,19 @@
     "C364G1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//C33D85",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

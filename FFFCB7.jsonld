@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/FFFCB7",
   "type": "Concept",
   "prefLabel": {
     "de": "Datum des Monitoring"
@@ -21,19 +21,19 @@
     "FFFCB7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//FD6617",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/FD6617",
     "prefLabel": {
       "de": "Monitoring"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//GDF23F",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/GDF23F",
   "type": "Concept",
   "prefLabel": {
     "de": "Bearbeiter*in des Berichts"
@@ -21,19 +21,19 @@
     "GDF23F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//G814D2",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/G814D2",
     "prefLabel": {
       "de": "Administrative Metadaten"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

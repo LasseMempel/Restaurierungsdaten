@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/DA9CGG",
   "type": "Concept",
   "prefLabel": {
     "de": "Verwendetes Material"
@@ -27,38 +27,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//DAB4B7",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/DAB4B7",
       "prefLabel": {
         "de": "Bezugsquelle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//DBC278",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/DBC278",
       "prefLabel": {
         "de": "Konzentration"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//DF7759",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/DF7759",
       "prefLabel": {
         "de": "Herstellungsdatum"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//DA2D73",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/DA2D73",
     "prefLabel": {
       "de": "Eingriff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F9GB13",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F9GB13",
   "type": "Concept",
   "prefLabel": {
     "de": "Temperatur (konservatorische Bedingungen)"
@@ -26,19 +26,19 @@
     "F9GB13"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F8F594",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F2AG55",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F2AG55",
   "type": "Concept",
   "prefLabel": {
     "de": "Getroffene Schutzmaßnahmen"
@@ -26,19 +26,19 @@
     "F2AG55"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F2244D",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F2244D",
     "prefLabel": {
       "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

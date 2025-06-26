@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BF3639",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BF3639",
   "type": "Concept",
   "prefLabel": {
     "de": "Zustandsbeschreibung"
@@ -32,38 +32,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//BF6D19",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/BF6D19",
       "prefLabel": {
         "de": "Umgebungsbedingungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//BGC9F3",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/BGC9F3",
       "prefLabel": {
         "de": "Physischer Objektzustand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//BGG5A6",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/BGG5A6",
       "prefLabel": {
         "de": "Schadensphänomene"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//B9835A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/B9835A",
     "prefLabel": {
       "de": "Zustandserfassung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

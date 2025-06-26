@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//C33D85",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/C33D85",
   "type": "Concept",
   "prefLabel": {
     "de": "Untersuchung"
@@ -27,55 +27,55 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C364G1",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C364G1",
       "prefLabel": {
         "de": "Zuständige Person (Untersuchung)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C3A182",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C3A182",
       "prefLabel": {
         "de": "Durchführende Einrichtung (Untersuchung)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C421BF",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C421BF",
       "prefLabel": {
         "de": "Untersuchungskennung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C4BCF8",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C4BCF8",
       "prefLabel": {
         "de": "Untersuchungsdatum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C6A532",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C6A532",
       "prefLabel": {
         "de": "Untersuchungsanlass"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C79561",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C79561",
       "prefLabel": {
         "de": "Untersuchungsart"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C7C3B7",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C7C3B7",
       "prefLabel": {
         "de": "Lokalisation"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//C8CG15",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/C8CG15",
       "prefLabel": {
         "de": "Untersuchungsverfahren"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CB7747",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CB7747",
       "prefLabel": {
         "de": "Untersuchungsergebnis"
       }
@@ -83,17 +83,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

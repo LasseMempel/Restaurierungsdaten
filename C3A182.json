@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//C3A182",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/C3A182",
   "type": "Concept",
   "prefLabel": {
     "de": "Durchführende Einrichtung (Untersuchung)"
@@ -21,19 +21,19 @@
     "C3A182"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//C33D85",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

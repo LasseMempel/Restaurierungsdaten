@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//B3FCA1",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/B3FCA1",
   "type": "Concept",
   "prefLabel": {
     "de": "Herstellungstechnik"
@@ -26,19 +26,19 @@
     "B3FCA1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

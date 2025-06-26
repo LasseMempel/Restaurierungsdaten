@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//FD6617",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/FD6617",
   "type": "Concept",
   "prefLabel": {
     "de": "Monitoring"
@@ -22,44 +22,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FFFCB7",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FFFCB7",
       "prefLabel": {
         "de": "Datum des Monitoring"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FGF575",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FGF575",
       "prefLabel": {
         "de": "Zuständige Person (Monitoring)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//G56866",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/G56866",
       "prefLabel": {
         "de": "Überprüfte Bedingungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//G7F25F",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/G7F25F",
       "prefLabel": {
         "de": "Ergebnis des Monitorings"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F58F6D",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F58F6D",
     "prefLabel": {
       "de": "Präventive Konservierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

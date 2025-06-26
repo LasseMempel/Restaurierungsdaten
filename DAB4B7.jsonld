@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//DAB4B7",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/DAB4B7",
   "type": "Concept",
   "prefLabel": {
     "de": "Bezugsquelle"
@@ -26,19 +26,19 @@
     "DAB4B7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//DA9CGG",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/DA9CGG",
     "prefLabel": {
       "de": "Verwendetes Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

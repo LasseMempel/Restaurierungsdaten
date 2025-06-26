@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BGC9F3",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BGC9F3",
   "type": "Concept",
   "prefLabel": {
     "de": "Physischer Objektzustand"
@@ -21,19 +21,19 @@
     "BGC9F3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//BF3639",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/BF3639",
     "prefLabel": {
       "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//B5DD1A",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/B5DD1A",
   "type": "Concept",
   "prefLabel": {
     "de": "aktuelles Gewicht"
@@ -21,19 +21,19 @@
     "B5DD1A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

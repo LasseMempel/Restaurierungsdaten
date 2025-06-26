@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F52262",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F52262",
   "type": "Concept",
   "prefLabel": {
     "de": "Einschätzung (Sicherheitsbewertung)"
@@ -21,19 +21,19 @@
     "F52262"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F396G6",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F396G6",
     "prefLabel": {
       "de": "Letzte Sicherheitsbewertung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

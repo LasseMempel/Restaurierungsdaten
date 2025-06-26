@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//CCCC7G",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/CCCC7G",
   "type": "Concept",
   "prefLabel": {
     "de": "Probeentnahme"
@@ -27,49 +27,49 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CD3341",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CD3341",
       "prefLabel": {
         "de": "Zuständige Person (Probeentnahme)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CD5C3F",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CD5C3F",
       "prefLabel": {
         "de": "Durchführende Einrichtung (Probeentnahme)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CDD613",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CDD613",
       "prefLabel": {
         "de": "Datum der Probenentnahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CDD6B5",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CDD6B5",
       "prefLabel": {
         "de": "Kennung der Probe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CDF685",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CDF685",
       "prefLabel": {
         "de": "Probenbeschreibung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CF3C22",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CF3C22",
       "prefLabel": {
         "de": "Anlass der Probenentnahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//CGC619",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/CGC619",
       "prefLabel": {
         "de": "Stelle der Probenentnahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//D1CFD5",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/D1CFD5",
       "prefLabel": {
         "de": "Entnahmemethode"
       }
@@ -77,17 +77,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

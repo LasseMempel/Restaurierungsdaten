@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//BB78D2",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/BB78D2",
   "type": "Concept",
   "prefLabel": {
     "de": "Dokumentationsform"
@@ -22,26 +22,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//BC5B57",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/BC5B57",
       "prefLabel": {
         "de": "Verweis"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//B9835A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/B9835A",
     "prefLabel": {
       "de": "Zustandserfassung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//F8F594",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/F8F594",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservatorische Bedingungen"
@@ -22,44 +22,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//F9GB13",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/F9GB13",
       "prefLabel": {
         "de": "Temperatur (konservatorische Bedingungen)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FBFFF5",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FBFFF5",
       "prefLabel": {
         "de": "Luftfeuchte (konservatorische Bedingungen)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FC3322",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FC3322",
       "prefLabel": {
         "de": "Beleuchtungsstärke (konservatorische Bedingungen)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten//FD2B2B",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/FD2B2B",
       "prefLabel": {
         "de": "UV-Schutz (konservatorische Bedingungen)"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//F58F6D",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/F58F6D",
     "prefLabel": {
       "de": "Präventive Konservierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {

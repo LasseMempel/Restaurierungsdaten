@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Restaurierungsdaten//C6A532",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten/C6A532",
   "type": "Concept",
   "prefLabel": {
     "de": "Untersuchungsanlass"
@@ -28,19 +28,19 @@
     "C6A532"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Restaurierungsdaten//C33D85",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten/C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten"
     }
   ],
   "@context": {
