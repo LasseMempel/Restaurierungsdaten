@@ -7,6 +7,21 @@
   "definition": {
     "de": "Angaben zu Besonderheiten, die im Zuge der Handhabung des Objektes berücksichtigt werden müssen. \r\r\n\r\r\nBeispiel: \"Nicht an den Henkeln anfassen\""
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "F87124"
   ],

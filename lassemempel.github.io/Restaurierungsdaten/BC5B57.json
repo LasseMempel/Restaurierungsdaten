@@ -12,6 +12,16 @@
   "definition": {
     "de": "Eindeutiger Hinweis, an welchem Ort die Dokumentation(en) zu finden ist/sind. Dies kann zum Beispiel eine URI oder URL zum entsprechenden Datensatz sein oder bei analogen Daten eine Identifikationsnummer oder Angabe zum Standort der Ablage."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "bedingte Pflicht"
+    ]
+  },
   "notation": [
     "BC5B57"
   ],

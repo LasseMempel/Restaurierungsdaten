@@ -7,6 +7,16 @@
   "definition": {
     "de": "Summe der tatsächlich am Objekt geleisteten Arbeitsstunden währen der Maßnahme, ohne passive Zeiten wie Trocknungsphasen oder parallele Wartezeiten."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Standartisiertes Zeitformat)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "(optional)"
+    ]
+  },
   "notation": [
     "D9A6FA"
   ],

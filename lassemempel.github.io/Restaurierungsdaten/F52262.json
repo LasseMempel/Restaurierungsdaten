@@ -7,6 +7,16 @@
   "definition": {
     "de": "Bewertung des aktuellen Sicherheitsstatus und der verbleibenden Risiken basierend auf der letzten Sicherheitsbewertung."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "F52262"
   ],

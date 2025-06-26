@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe ob akkumulierte Lichtexposition in LUX-Stunden während des Monitorings gemessen wurden."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Ja/Nein)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "G76B7G"
   ],

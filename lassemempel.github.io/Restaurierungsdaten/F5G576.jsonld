@@ -7,6 +7,11 @@
   "definition": {
     "de": "Sammelbegriff zur Strukturierung von Richtlinien und Handlungsanweisungen für den sachgerechten Umgang mit dem behandelten Objekt, die zur langfristigen Erhaltung und Vermeidung von Folgeschäden generell und/oder nach abgeschlossener Konservierungs-Restaurierungsbehandlung zu beachten sind."
   },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "F5G576"
   ],

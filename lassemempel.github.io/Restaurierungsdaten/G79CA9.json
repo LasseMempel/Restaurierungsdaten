@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angabe ob Vorhandensein von luftgetragenen Verunreinigungen, Ausgasungen oder andere chemische Belastungen in der Objektumgebung kontrolliert wurden."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Ja/Nein)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "G79CA9"
   ],

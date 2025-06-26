@@ -7,6 +7,16 @@
   "definition": {
     "de": "Zeitpunkt der durchgeführten Kontrollmaßnahme zur chronologischen Dokumentation und Nachvollziehbarkeit"
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "FFFCB7"
   ],

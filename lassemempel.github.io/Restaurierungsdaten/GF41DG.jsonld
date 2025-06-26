@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angaben zur Versionierung bzw. Überarbeitung des Berichtes"
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "GF41DG"
   ],

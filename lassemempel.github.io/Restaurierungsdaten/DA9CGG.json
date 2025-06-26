@@ -7,6 +7,21 @@
   "definition": {
     "de": "Benennung des bzw. der Materialien, die für die jeweilige konservatorische und/oder restauratorische Maßnahme verwendet wurden."
   },
+  "editorialNote": {
+    "de": [
+      "Text/URI"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "DA9CGG"
   ],

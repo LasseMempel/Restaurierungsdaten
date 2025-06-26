@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angaben zum letzten bekannten Standort des Objekts."
   },
+  "editorialNote": {
+    "de": [
+      "string"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "B7B8B6"
   ],

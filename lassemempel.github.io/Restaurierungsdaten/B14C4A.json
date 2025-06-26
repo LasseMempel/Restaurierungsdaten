@@ -12,6 +12,21 @@
   "definition": {
     "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
   },
+  "editorialNote": {
+    "de": [
+      "URI"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "B14C4A"
   ],

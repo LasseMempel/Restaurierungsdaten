@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angaben zum Gewicht des Objekts zum letzten Zeitpunkt der Objektuntersuchung"
   },
+  "editorialNote": {
+    "de": [
+      "Text (standartisiertes Gewichtsmaß)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "B5DD1A"
   ],

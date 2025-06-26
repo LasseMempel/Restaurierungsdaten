@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe, an welcher Stelle des Objekts die Probe entnommen wurde. Möglichst genaue Beschreibung des Probenortes zur späteren Zuordnung.\r\r\n\r\r\nBeispiele: Vorderseite, linker unterer Rand, Bruchkante der Scherbe, Sockelinnenseite"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "CGC619"
   ],

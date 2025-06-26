@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angabe ob Temperatur- und Luftfeuchtigkeitswerte im Zuge des Monitorings kontrolliert wurden."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Ja/Nein)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "G76A78"
   ],

@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angabe ob Kontrolle auf Schädlingsbefall, Schimmelbildung oder ander biologische Aktivität am Objekt oder in dessen unmittelbarer Umgebung durchgeführt wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Ja/Nein)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "G73958"
   ],

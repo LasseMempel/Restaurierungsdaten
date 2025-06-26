@@ -7,6 +7,16 @@
   "definition": {
     "de": "Hintergrundinformationen, aus welchem Grund das Objekt konservatorisch-restauratorisch behandelt werden soll. I.d.R. beziehen sich diese Angaben darauf, was im Anschluss mit dem Objekt geschehen soll oder zuvor bereits geschehen ist. \r\r\n\r\r\nBeispiel: Ausstellungsvorbereitung, Rückkehr aus Leihverkehr"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "D3AF3A"
   ],

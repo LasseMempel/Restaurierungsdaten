@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe des Herstellers, Lieferanten oder der sonstigen Herkunft des verwendeten Materials zur Rückverfolgbarkeit und Qualitätssicherung. Diese Angaben liefern für spätere erneute Objektuntersuchungen und/oder Maßnahmen Hintergrundinformationen zu den Eigenschaften des Materials."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "DAB4B7"
   ],

@@ -7,6 +7,21 @@
   "definition": {
     "de": "Angaben zum Material, welches für die Untersuchung des Objektes verwendet wurde. Diese Angabe ist besonders dann wichtig, wenn die Materialien Spuren bzw. Rückstände auf dem Objekt hinterlassen haben könnten."
   },
+  "editorialNote": {
+    "de": [
+      "Text/URI"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "C93638"
   ],

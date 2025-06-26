@@ -7,6 +7,21 @@
   "definition": {
     "de": "Angaben, welches Gerät für die Untersuchung verwendet wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text/URI"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "C9C527"
   ],

@@ -7,6 +7,16 @@
   "definition": {
     "de": "Benennung der Einrichtung, die die Untersuchung durchgeführt hat. \r\r\n\r\r\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.\r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
   },
+  "editorialNote": {
+    "de": [
+      "Text/URI"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "C3A182"
   ],

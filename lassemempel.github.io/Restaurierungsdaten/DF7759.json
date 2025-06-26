@@ -7,6 +7,16 @@
   "definition": {
     "de": "Erfassung des Produktions- oder Abfülldatums industrieller Produkte zur Nachvollziehbarkeit von Rezepturänderungen und Qualitätsschwankungen. Dient der Rückverfolgung von Chargen bei ungewöhnlichen Vorkommnissen und ermöglicht das Einholen relevanter Hintergrundinformationen zur Langzeitstabilität"
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "DF7759"
   ],

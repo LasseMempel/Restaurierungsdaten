@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angaben zu den räumlichen Dimensionen des Objektes, zum letzten Zeitpunkt der Begutachtung. Die Maße des Objektes können sich im Laufe der Zeit verändern (z.B. durch Beschädigung oder die Zusammensetzung eines zerscherbten Objektes)."
   },
+  "editorialNote": {
+    "de": [
+      "Text (standartisiertes Längenmaß)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "B51DAF"
   ],

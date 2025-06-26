@@ -7,6 +7,16 @@
   "definition": {
     "de": "Angaben zum Urheberrecht bzw. der Nutzungsrechte des Berichtes"
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "GF9C49"
   ],

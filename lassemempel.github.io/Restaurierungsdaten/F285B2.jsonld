@@ -7,6 +7,21 @@
   "definition": {
     "de": "Hinweise auf potenzielle Gefahrenquellen und Risiken im Zusammenhang mit dem Objekt oder den bei der konservatorisch-restauratorischen Maßnahme (oder früheren Maßnahmen) verwendeten Materialien.\r\r\n\r\r\nBeispiel: Schimmelbefall, Schadstoff kontaminiert"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "F285B2"
   ],

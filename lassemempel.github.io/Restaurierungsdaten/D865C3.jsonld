@@ -7,6 +7,16 @@
   "definition": {
     "de": "Nummer, die die jeweilige Maßnahme eindeutig identifiziert. Wie genau diese Nummer in den jeweiligen Einrichtungen bezeichnet wird, bleibt individuell und wird auf diesen generischen Oberbegriff gemappt.\r\r\n\r\r\nBeipspiel: Labornummer, Dokumentationsnummern, Werkblattnummer, etc."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Bedingte Pflicht"
+    ]
+  },
   "notation": [
     "D865C3"
   ],

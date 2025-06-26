@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe, an welcher Stelle auf dem Objekt die Untersuchung durchgeführt wurde. Nur bei Untersuchungen direkt auf dem Originalenobjekt nötig, entfällt bei Untersuchungen von Proben"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "bedingte Pflicht"
+    ]
+  },
   "notation": [
     "C7C3B7"
   ],

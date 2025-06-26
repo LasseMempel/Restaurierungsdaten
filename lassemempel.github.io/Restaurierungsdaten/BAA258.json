@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe des Datums, an dem die Erfassung des Zustandes durchgeführt wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "BAA258"
   ],

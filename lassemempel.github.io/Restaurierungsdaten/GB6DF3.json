@@ -7,6 +7,16 @@
   "definition": {
     "de": "Zeitpunkt, zu dem der Bericht erstellt wurde"
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "GB6DF3"
   ],

@@ -12,6 +12,21 @@
   "definition": {
     "de": "Benennung des konkreten Objektes. Kann sich aus einem offiziellen Titel oder aus Objekttyp und beschreibenden Attributen zusammensetzen.\r\r\n\r\r\nBeispiel: \"Mona-Lisa\", \"rotfiguriger Krater\""
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "A15F83"
   ],

@@ -12,6 +12,16 @@
   "definition": {
     "de": "Angabe, der bei der Untersuchung festgestellten Beobachtungen und Ergebnisse."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "CB7747"
   ],

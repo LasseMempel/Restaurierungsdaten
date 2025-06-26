@@ -7,6 +7,11 @@
   "definition": {
     "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
   },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "F396G6"
   ],

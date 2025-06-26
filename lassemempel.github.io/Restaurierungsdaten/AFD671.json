@@ -7,6 +7,16 @@
   "definition": {
     "de": "Möglichkeit weitere charakteristische Eigenschaften des Objektes zu beschreiben, die sich nicht eindeutig zum Objekttyp oder einer der anderen definierten Beschreibungselemente zuordnen lassen. \r\r\n\r\r\nBeispiel: Farbe, Form, Besonderheit beim Aussehen"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "AFD671"
   ],

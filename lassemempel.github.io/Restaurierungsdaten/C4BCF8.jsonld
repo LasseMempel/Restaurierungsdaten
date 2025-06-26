@@ -12,6 +12,16 @@
   "definition": {
     "de": "Datum, an dem die jeweilige Untersuchung durchgeführt wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "C4BCF8"
   ],

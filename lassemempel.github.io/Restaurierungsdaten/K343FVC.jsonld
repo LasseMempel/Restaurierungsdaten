@@ -7,6 +7,21 @@
   "definition": {
     "de": "Angaben zu Literatur, die für die Erstellung des Berichtes verwendet wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optional"
+    ]
+  },
   "notation": [
     "K343FVC"
   ],

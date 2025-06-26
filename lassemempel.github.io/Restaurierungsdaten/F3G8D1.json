@@ -7,6 +7,16 @@
   "definition": {
     "de": "Erfassung des Datums, an dem die letzte Sicherheitsbewertung durchgeführt wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "F3G8D1"
   ],

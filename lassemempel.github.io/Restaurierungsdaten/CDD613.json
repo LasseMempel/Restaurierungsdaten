@@ -12,6 +12,16 @@
   "definition": {
     "de": "Datum, an dem die Probe aus dem Objekt entnommen wurde."
   },
+  "editorialNote": {
+    "de": [
+      "Text (Datum)"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "CDD613"
   ],

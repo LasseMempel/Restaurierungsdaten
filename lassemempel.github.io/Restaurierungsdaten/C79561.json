@@ -12,6 +12,16 @@
   "definition": {
     "de": "Möglichkeit der Spezifikation, ob es sich um eine naturwissenschaftliche, technologische, materialtechnische oder sonstige Untersuchung handelt."
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "optionale"
+    ]
+  },
   "notation": [
     "C79561"
   ],

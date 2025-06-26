@@ -7,6 +7,21 @@
   "definition": {
     "de": "zeitliche Einordnung des Objektes.\r\r\n\r\r\nBeispiel: \"Urnenfelderzeit\" , \"15. Jh.\""
   },
+  "editorialNote": {
+    "de": [
+      "Text/URI"
+    ]
+  },
+  "historyNote": {
+    "de": [
+      "x"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "empfohlen"
+    ]
+  },
   "notation": [
     "A4G52F"
   ],

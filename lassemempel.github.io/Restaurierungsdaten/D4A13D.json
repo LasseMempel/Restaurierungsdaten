@@ -14,6 +14,16 @@
   "definition": {
     "de": "Beschreibung der angestrebten Ergebnisse, die mit der durchgeführten Maßnahme erreicht werden sollen.\r\r\n\r\r\nBeispiel: Sicherung der Malschichten, Volle Rekonstruktion der ursprünglichen Form"
   },
+  "editorialNote": {
+    "de": [
+      "Text"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "D4A13D"
   ],

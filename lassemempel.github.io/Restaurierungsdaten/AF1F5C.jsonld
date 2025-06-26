@@ -7,6 +7,16 @@
   "definition": {
     "de": "grundlegende formale Kategorie, in die das Objekt eingeordnet wird. \r\r\n\r\r\nBeispiel: \"Gemälde\" , \"Skulptur\", \"Münze\""
   },
+  "editorialNote": {
+    "de": [
+      "URI"
+    ]
+  },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "AF1F5C"
   ],

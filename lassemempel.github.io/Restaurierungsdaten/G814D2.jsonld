@@ -7,6 +7,11 @@
   "definition": {
     "de": "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"
   },
+  "scopeNote": {
+    "de": [
+      "Pflicht"
+    ]
+  },
   "notation": [
     "G814D2"
   ],

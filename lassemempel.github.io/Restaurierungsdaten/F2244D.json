@@ -7,6 +7,11 @@
   "definition": {
     "de": "Übergeordneter Begriff zur Strukturierung aller Angaben, die dem Schutz der Gesundheit, der Unfallverhütung und der Einhaltung sicherheitsrelevanter Vorschriften bei Konservierungs-Restaurierungsarbeiten oder dem Umgang mit den jeweiligen behandelten Objekten dienen."
   },
+  "scopeNote": {
+    "de": [
+      "bedingte Pflicht"
+    ]
+  },
   "notation": [
     "F2244D"
   ],
