@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//FBFFF5",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//FBFFF5",
   "type": "Concept",
   "prefLabel": {
     "de": "Luftfeuchte (konservatorische Bedingungen)"
@@ -16,19 +16,19 @@
     "FBFFF5"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F8F594",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//F8F594",
     "prefLabel": {
       "de": "Konservatorische Bedingungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

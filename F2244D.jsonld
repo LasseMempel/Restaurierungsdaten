@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//F2244D",
   "type": "Concept",
   "prefLabel": {
     "de": "Sicherheit & Arbeitsschutz"
@@ -12,25 +12,25 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F285B2",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//F285B2",
       "prefLabel": {
         "de": "Gefährdungshinweise"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2A45F",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//F2A45F",
       "prefLabel": {
         "de": "Art der Gefährdung"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2AG55",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//F2AG55",
       "prefLabel": {
         "de": "Getroffene Schutzmaßnahmen"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F396G6",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//F396G6",
       "prefLabel": {
         "de": "Letzte Sicherheitsbewertung"
       }
@@ -38,17 +38,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C9C527",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//C9C527",
   "type": "Concept",
   "prefLabel": {
     "de": "Untersuchungsgerät"
@@ -12,26 +12,26 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CA1BC5",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//CA1BC5",
       "prefLabel": {
         "de": "Geräteeinstellungen (Untersuchungsgerät)"
       }
     }
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C8CG15",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//C8CG15",
     "prefLabel": {
       "de": "Untersuchungsverfahren"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

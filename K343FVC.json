@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//K343FVC",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//K343FVC",
   "type": "Concept",
   "prefLabel": {
     "de": "Verwendete Literatur"
@@ -12,17 +12,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//AA6941",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//AA6941",
   "type": "Concept",
   "prefLabel": {
     "de": "Ansprechpartner*in"
@@ -11,19 +11,19 @@
     "AA6941"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//A13CD1",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//A13CD1",
     "prefLabel": {
       "de": "Objektkennzeichnung"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

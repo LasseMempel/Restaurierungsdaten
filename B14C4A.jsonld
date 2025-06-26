@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//B14C4A",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//B14C4A",
   "type": "Concept",
   "prefLabel": {
     "de": "Objektmaterial"
@@ -16,19 +16,19 @@
     "B14C4A"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//ADD53A",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//ADD53A",
     "prefLabel": {
       "de": "Objektbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

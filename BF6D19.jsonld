@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF6D19",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//BF6D19",
   "type": "Concept",
   "prefLabel": {
     "de": "Umgebungsbedingungen"
@@ -16,19 +16,19 @@
     "BF6D19"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//BF3639",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//BF3639",
     "prefLabel": {
       "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

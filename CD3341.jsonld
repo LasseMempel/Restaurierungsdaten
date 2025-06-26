@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CD3341",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//CD3341",
   "type": "Concept",
   "prefLabel": {
     "de": "Zuständige Person (Probeentnahme)"
@@ -11,19 +11,19 @@
     "CD3341"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//CCCC7G",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//CCCC7G",
     "prefLabel": {
       "de": "Probeentnahme"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

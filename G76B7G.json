@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G76B7G",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//G76B7G",
   "type": "Concept",
   "prefLabel": {
     "de": "Lichtexposition"
@@ -16,19 +16,19 @@
     "G76B7G"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//G56866",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//G56866",
     "prefLabel": {
       "de": "Überprüfte Bedingungen"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

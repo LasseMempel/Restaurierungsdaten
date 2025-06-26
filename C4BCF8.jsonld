@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C4BCF8",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//C4BCF8",
   "type": "Concept",
   "prefLabel": {
     "de": "Untersuchungsdatum"
@@ -16,19 +16,19 @@
     "C4BCF8"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//C33D85",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//C33D85",
     "prefLabel": {
       "de": "Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F285B2",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//F285B2",
   "type": "Concept",
   "prefLabel": {
     "de": "Gefährdungshinweise"
@@ -11,19 +11,19 @@
     "F285B2"
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//F2244D",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//F2244D",
     "prefLabel": {
       "de": "Sicherheit & Arbeitsschutz"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

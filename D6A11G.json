@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//D6A11G",
   "type": "Concept",
   "prefLabel": {
     "de": "Durchgeführte Maßnahme"
@@ -20,62 +20,62 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D78721",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D78721",
       "prefLabel": {
         "de": "Zuständige Restaurierungseinrichtung"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D865C3",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D865C3",
       "prefLabel": {
         "de": "Maßnahmenkennnummer"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D866AD",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D866AD",
       "prefLabel": {
         "de": "Zuständige Person (Durchgeführte Maßnahme)"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D941BB",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D941BB",
       "prefLabel": {
         "de": "Beginn der Maßnahme"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D949G6",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D949G6",
       "prefLabel": {
         "de": "Ende der Maßnahme"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D9A6FA",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D9A6FA",
       "prefLabel": {
         "de": "Zeitaufwand"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//DA2D73",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//DA2D73",
       "prefLabel": {
         "de": "Eingriff"
       }
     }
   ],
   "broader": {
-    "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3",
+    "id": "https://lassemempel.github.io/Restaurierungsdaten//D1F5D3",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
   },
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {

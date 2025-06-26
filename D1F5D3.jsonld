@@ -1,5 +1,5 @@
 {
-  "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D1F5D3",
+  "id": "https://lassemempel.github.io/Restaurierungsdaten//D1F5D3",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservierungskonzept"
@@ -19,19 +19,19 @@
   ],
   "narrower": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D3AF3A",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D3AF3A",
       "prefLabel": {
         "de": "Anlass der Maßnahme"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D4A13D",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D4A13D",
       "prefLabel": {
         "de": "konservatorische Zielsetzung"
       }
     },
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten//D6A11G",
+      "id": "https://lassemempel.github.io/Restaurierungsdaten//D6A11G",
       "prefLabel": {
         "de": "Durchgeführte Maßnahme"
       }
@@ -39,17 +39,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://www.lassemempel.github.io/Restaurierungsdaten/"
+      "id": "https://lassemempel.github.io/Restaurierungsdaten/"
     }
   ],
   "@context": {
