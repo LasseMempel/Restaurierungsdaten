@@ -7,6 +7,11 @@
   "definition": {
     "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
   },
+  "historyNote": {
+    "de": [
+      "Nein"
+    ]
+  },
   "scopeNote": {
     "de": [
       "optional"
