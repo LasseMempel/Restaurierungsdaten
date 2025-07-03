@@ -164,7 +164,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb0tjnjkyjzReZ_--dYJOD4rbl1_iV8EdVTFXATh9ie6u3bRAeEYYrMNKZF0AcM_PQJkQbmZyGFfYe/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "https://www.lassemempel.github.io/Restaurierungsdaten"  # "http://data.archaeology.link/terminology/archeologicalconservation"
+baseUri = "https://lassemempel.github.io/Restaurierungsdaten"  # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader", "note (source)": "source"}
